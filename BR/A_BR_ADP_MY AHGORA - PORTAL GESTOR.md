@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_MY AHGORA - PORTAL GESTOR
 link: https://docs.google.com/document/d/13b-ZtpwnapGKE4cOSwEX6EL3EL2B-kSC_kLo703GJWk/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-25T16:34:43.561Z
+atualizado_no_drive: 2026-10-26T14:32:45.396Z
 ---
 
 TÍTULO DA KL:
@@ -68,6 +68,7 @@ Solicitação de Reabertura de Ponto:
 
 Como auto delegar as ausências no sistema SSFF e no Ahgora (Ausência do Líder):
 Se você é o líder de uma equipe e vai estar ausente por um período determinado, você pode designar outro líder para autorizar as ausências de sua equipe. Faça isso antes de sua ausência no módulo de férias e ausências no sistema SSFF.
+
 • Para designar outro líder no sistema SSFF: Acesse Atalhos > Auto delegar > Insira o nome do líder que fará as autorizações. Você pode visualizar o vídeo no seguinte link: https://docs.google.com/presentation/d/1EQln7wf8Rv4EHouUtGljnUzgL3wSleiHyWpEFkNapbs/edit?slide=id.g1f39db60207_37_4236#slide=id.g1f39db60207_37_4236. 
 • Para designar outro líder no sistema Ahgora: Informe o líder substituto no seguinte formulário: https://docs.google.com/forms/d/1q1NAQh8Tj-p3DWPRX_ZiTscDgsfLFXFFo3JBq7I_b1k/edit. 
 
