@@ -1,13 +1,17 @@
 ---
 titulo: A_BR_Analitycs_Presencialidade 
 link: https://docs.google.com/document/d/1WRHgfyIODKVYNSrH3hal7FummqdZVBn-mkOztdLlLj8/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-23T20:55:15.027Z
+atualizado_no_drive: 2026-10-26T14:09:24.866Z
 ---
 
 TÍTULO DA KL: 
 A_BR_Analitycs_Presencialidade  
+RESUMO:
+Este documento contém informações sobre a presencialidade necessária no Mercado Livre e como visualizar a presença no bot.
+Entende-se por presencialidade a presença física do funcionário nos escritórios da MELI. 
+REQUISITOS:
 -Ser empregado da MELI. 
--Para funcionários com os seguintes códigos de trabalho devem ter mais de 40% de presença presencial no trimestre rolling:
+-Para funcionários com os seguintes códigos de trabalho devem ter pelo menos 40% de presença presencial no trimestre rolling:
 Gerente Senior (80001634)
 Gerente Senior - IT (80001694)
 Gerente Senior SAdm (80001704)
@@ -22,7 +26,7 @@ President (80001763)
 Vicepresidente Ejecutivo (80001630)
 Vicepresidente Senior (80001631)
 Vicepresidente (80001632) 
-- Para funcionários com os seguintes códigos de trabalho devem ter mais de 20% de presença presencial no trimestre rolling:
+- Para funcionários com os seguintes códigos de trabalho devem ter pelo menos 20% de presença presencial no trimestre rolling:
 Team Leader - Shipping (80001720)
 Team Leader (80001727)
 Team Leader Cx (80001641)
@@ -30,7 +34,6 @@ Senior Team Leader Cx (80001640)
 Team Leader Senior (80001728)
 Sr Team Leader - Shipping (80001736)
 Supervisor (80001637)
-Líder Técnico - IT (80001638)
 Líder de Proyecto - IT (80001639)
 Supervisor - IT (80001682)
 Supervisor - Cust. Exp. (80001685)
@@ -47,16 +50,14 @@ Gerente (80001635)
 Gerente - IT (80001681)
 Gerente SAdmin (80001703) 
 
-	
-- Individual contributor  (Up to Sr Analyst):
-Você deve registrar alguma presença no trimestre rolling, a presença nula não é permitida.
+A pauta de presencialidade para os seguintes funcionários e: 	
+- Individual contributor  (Analyst / Assistant / Reps CX & Fintech): Você deve registrar alguma presença no trimestre rolling  (Q rolling), a presença nula não é permitida.
 
-
-- Technical Leader sem equipe:
-Você deve registrar uma presença superior a 1 dia no trimestre (Q rolling).
+- Technical Leader: O Líder Técnico - IT (80001638) deve registrar alguma presença no trimestre rolling (Q rolling), a presença nula não é permitida.
 
 - New hires - All BUs & seniorities:  Devem ir pessoalmente ao escritório 2 vezes por semana durante os primeiros 100 dias (equivalente a 40%)
 
+	
 -Esta informação não se aplica, em nenhum caso, aos empregados que possuam algum dos seguintes job codes:
 Pasante (80001708)
 Rep eventual (80001747)
@@ -74,33 +75,18 @@ Montacarguista 2 (80001765)
 
 PROCEDIMENTO:
 -Para conferir sua presencialidade no mês, escreva neste chat "Quero ver minha Presencialidade"
--Os líderes que desejam visualizar a presencialidade se seu equipe deve revisá- la no Leadership Dashboard.
+-Os líderes que desejam visualizar a presencialidade se seu equipe deve revisá- la no Leadership Dashboard. 
 PERGUNTAS FREQUENTES:
-Qual presencialidade necessito ter? Qual é a porcentagem de minha presença requerida? Quantos dias devo ir presencialmente ao escritório? 
+Qual presencialidade necessito ter? Qual é a porcentagem de minha presença requerida? Quantos dias devo ir presencialmente ao escritório?
 Você pode validar o porcetagem da presencialidade requerida para você em:  https://wiki.adminml.com/page/3959227554319799 
-Qual é a pauta de presencialidade para Managers e Experts e a partir de quando entra em vigor?
-A seguinte informação aplica-se apenas aos colaboradores com os seguintes job codes:
-Gerente (80001635)
-Gerente - IT (80001681)
-Gerente SAdmin (80001703)
-Expert IT (80001723)
-Expert SAdm (80001744)
-Expert (80001724) 
+Os Managers e Experts do Brasil não temos que ter um 40% de presencialidade? 
+Não. Embora tenha sido comunicado que esta pauta de 40% teria vigência a partir de outubro de 2026, a implementação ocorrerá apenas quando as ampliações das obras que estamos realizando permitirem. A mesma será comunicada com antecedência.
 
-Até outubro de 2026 a pauta de presencialidade é de 20% do tempo por trimestre rolling.
-Desde novembro de 2026 a nova pauta de presencialidade é de 40% do tempo por trimestre rolling.
- 
-Quando a nova pauta de presencialidade para Managers e Experts será refletida no dashboard?
-A seguinte informação aplica-se apenas aos colaboradores com os seguintes job codes:
-Gerente (80001635)
-Gerente - IT (80001681)
-Gerente SAdmin (80001703)
-Expert IT (80001723)
-Expert SAdm (80001744)
-Expert (80001724) 
- 
-A nova pauta de presencialidade para Managers e Experts será refletida no dashboard ao fechamento do trimestre correspondente à implementação, ou seja, a partir do mês de dezembro de 2026.
+Existem populações que não precisam de ter presencialidade nos escritórios?  
+Sim, não estão incluídos nas diretrizes de presencialidade as equipes do Brasil IT (até Sr. Analyst), equipe de vendas, executivos comerciais, Shipping Ops e os times da China, Estados Unidos, Espanha, Equador, Concepción (Paraguay)  e Córdoba (Argentina).
 
+Qual é a pauta de presencialidade para Individual Contributor (Analyst / Assistant / Reps CX & Fintech)  e Technical leader?
+Para os funcionários que sejam Individual Contributor (Analyst / Assistant / Reps CX & Fintech) e Technical Leader das localidades Melicidade, Florianópolis, Belo Horizonte, Rio de Janeiro e Brasília a pauta de presencialidade é que não devem ter assistência nula no trimestre (Q rolling: cada mês se calcula o % de assistência acumulada nos últimos três meses).
 Quantas vezes devo comparecer presencialmente aos escritórios do MELI se sou recém admitido?
 Se você é recém admitido, é muito importante planejar seus primeiros 100 dias junto com seu Líder e Buddy, garantindo 2 dias presenciais por semana para potencializar a conexão com seu time e construir redes que aceleram seu aprendizado e integração ao MELI.
 Sou novo ingresso/recém admitido, os primeiros 100 dias de presencialidade são dias corridos ou úteis?
@@ -115,7 +101,7 @@ Os días de Work from Anywhere
 Feriados nacionais
 Por exemplo, para o cálculo de presencialidade no mês de março, a base foi de 22 dias úteis (após descontar sábados, domingos e eventuais feriados se houver). Caso o colaborador tenha 5 dias de férias aprovadas, seu cálculo de presencialidade  será calculado sobre os 17 dias restantes.
 Se minha equipe e meu líder estão em outro país, como isso impacta a diretriz de presencialidade? 
-Buscamos promover o contato cara a cara, estimulando essa interação com os demais níveis da organização, além da nossa equipe direta, porque isso contribui para disseminar nossa cultura.
+Buscamos promover o contato cara a cara, estimulando essa interação com os demais níveis da organização, além da nossa equipe direta, porque isso contribui para disseminar nossa cultura. Portanto, não há diferenças no cálculo da presencialidade nesses casos.
 Posso trabalhar em qualquer escritório e operação do Meli?
 O objetivo da presencialidade é conectar-se com sua equipe e viver a cultura da empresa. Por isso, espera-se que você compareça ao seu site designado ou a um relevante de acordo com sua função (incluindo operações de Shipping se o seu papel o justificar).
  
@@ -123,7 +109,6 @@ A possibilidade de comparecer ao outro site nunca se aplica a colaboradores que 
 Representante (80001648)
 Representante Semi Senior (80001647)
 Representante Senior (80001646)
-
 Se eu for trabalhar em um escritório da Meli diferente do meu habitual, minha presença será contabilizada?
 Sim, sua presença será registrada normalmente mesmo em outros escritórios da Meli. Para garantir que a presença seja contabilizada, é necessário que você se conecte à rede Wi-Fi “Corp” o “MELI-Corp”durante sua permanência no local.
 Há alguma situação que justifique não alcançar esta meta?
@@ -134,14 +119,15 @@ Viajo para os escritórios MELI em outro país porque parte da minha equipe est�
 Sim, conta a presença em qualquer escritório de Mercado Livre.
 Qual é o limite para poder solicitar modificações no registro de presencialidade?
 Por políticas, as modificações no registro de presencialidade só podem ser realizadas com até um mês retroativo (um mês para trás).
-Devido a esta normativa, as solicitações que superarem esse prazo não serão levadas em consideração, pois não é possível recuperar nem ajustar os dias indicados fora desse período.
-
-
+Devido a esta normativa, as solicitações que superarem esse prazo não serão levadas em consideração, pois não é possível recuperar nem ajustar os dias indicados fora desse período. 
+Onde posso consultar a informação de presencialidade / assistência?
+Os líderes podem consultar os dados atuais de presencialidade própria e de sua equipe a partir de Home > Manage Team.
+Cada colaborador que se aplique às diretrizes de presencialidade/assiduidade pode consultar suas próprias métricas em nosso chat.
 SUPORTE: 
 Wiki Presencialidad: https://wiki.adminml.com/page/3959227554319799 
 Wiki | Presencialidad FAQs: https://wiki.adminml.com/page/3959227554319800  
 
-
+ 
 
 INFORMAÇÃO PARA AGENTES:
 -A pauta de presencialidade para os Recém admitidos é medida em dias corridos, não em dias úteis. Para dúvidas sobre o assunto, confirme a data de ingresso na MELI.
