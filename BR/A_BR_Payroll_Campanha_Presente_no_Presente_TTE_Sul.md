@@ -1,10 +1,10 @@
 ---
 titulo: A_BR_Payroll_Campanha_Presente_no_Presente_TTE_Sul
 link: https://docs.google.com/document/d/18vKcQbHJbDPpYOKiedCVIRGGgluCV9n8wUiB_JBF56k/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-23T17:37:31.108Z
+atualizado_no_drive: 2026-10-26T16:31:17.131Z
 ---
 
-A_BR_Payroll_Campanha_Presente_no_Presente_TTE_Sul 
+A_BR_Payroll_Campanha_Presente_no_Presente_TTE_Sul  
 
 
 RESUMO: 
@@ -30,7 +30,6 @@ Operador Logístico 3 (80001735)
 
 SC - Maringá SPR6 (SCBM_EBA) 
 XD - Maringá XPR4 (XPR3_EBA) 
-SC - Campina Grande Sul SPR8 (SPR3_EBA)  
 XD - Cascavel BRXPR3 (XDC1_EBA) 
 SC - Gaspar SSC3 (SSC3_EBA) 
 SC - Morro da Fumaça SSC5 (SSC5_EBA) 
@@ -58,7 +57,6 @@ Para os funcionários das seguintes localidades o valor do bônus é de R$ 1.000
 
 SC - Maringá SPR6 (SCBM_EBA) 
 XD - Maringá XPR4 (XPR3_EBA) 
-SC - Campina Grande Sul SPR8 (SPR3_EBA)   
 XD - Cascavel BRXPR3 (XDC1_EBA) 
 SC - Gaspar SSC3 (SSC3_EBA) 
 SC - Morro da Fumaça SSC5 (SSC5_EBA) 
