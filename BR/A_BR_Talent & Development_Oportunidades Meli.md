@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent & Development_Oportunidades Meli 
 link: https://docs.google.com/document/d/14HWGl-EZ0h-ghHxGbcne2dwoqOh79qXAZpXM1DcPkhc/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-08T12:08:42.301Z
+atualizado_no_drive: 2026-10-26T15:44:31.643Z
 ---
 
 TÍTULO DE LA KL:
@@ -120,8 +120,6 @@ Evoluímos o modelo de Oportunidades no MELI, definindo etapas específicas por 
 Nota: Para vagas internas de TI, o Worksample é opcional. 
 
 O Work Sample é utilizado para avaliar a capacidade do candidato em uma situação real de trabalho. Se a busca incluir essa etapa, você receberá uma notificação via BOT Pendings e terá 5 dias corridos para completá-lo.it 
-
-
 
 
 Acesso e Postulação nas vagas (Candidatura)
