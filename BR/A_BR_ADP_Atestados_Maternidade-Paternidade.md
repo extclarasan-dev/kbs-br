@@ -1,11 +1,11 @@
 ---
 titulo: A_BR_ADP_Atestados_Maternidade/Paternidade
 link: https://docs.google.com/document/d/1-EwKIEDqjLmy0uavdXT7iQhh6q6hjraJk0Rehga6ztM/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-21T20:52:19.702Z
+atualizado_no_drive: 2026-10-26T17:36:13.932Z
 ---
 
 TÍTULO DA KL:
-A_BR_ADP_Atestados_Maternidade/Paternidade
+A_BR_ADP_Atestados_Maternidade/Paternidade 
 RESUMO:
 O documento contém informações sobre as licenças de maternidade, paternidade, adoção, amamentação e Soft landing no Mercado Livre Brasil, seus procedimentos, requisitos e perguntas frequentes.  
 REQUISITOS:
@@ -74,6 +74,10 @@ Inclusão de dependente no plano de saúde/odonto: O prazo para inclusão de seu
 Para incluir seu bebê, escreva “Inclusão Dependentes no plano de saúde” e siga o fluxo. 
 Auxílio creche/babá: Com o objetivo de acompanhar mães e pais do MELI na educação de seus filhos, com até 60 meses (5 anos) de idade e que estejam devidamente matriculados e regulares em Instituição de Ensino Privada (Escolas / Creches) ou equivalentes desde que seja regulamentada.
 Também abrange aos que, com o objetivo de cuidar dos filhos, realizem a contratação de empregado doméstico ou Babá, com registro em carteira de trabalho com vínculo ativo e o recolhimento regular da Previdência Social (INSS) com o código de recolhimento relativo à atividade prestada
+
+Onde posso realizar o curso de Paternidade Responsável necessário para solicitar a Licença Paternidade Estendida?
+Para solicitar a Licença Paternidade Estendida, é necessário apresentar um comprovante de participação em um programa ou curso de orientação sobre Paternidade Responsável.
+A lei não exige uma única instituição específica, mas estabelece que o curso deve ser oferecido por órgãos públicos, entidades de saúde ou instituições de ensino credenciadas.
 
 Soft Landing
 Como posso fazer uso do Soft Landing? 
