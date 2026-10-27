@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Plano de Saúde_Reps, Ops, Aux | Shipping
 link: https://docs.google.com/document/d/1PcL1WU7q7sTokQo7aO7f_7_JKLTZHHbyJD59OA5y9h4/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-23T13:53:58.295Z
+atualizado_no_drive: 2026-10-27T18:43:51.464Z
 ---
 
 TÍTULO DE LA KL: 
@@ -146,7 +146,10 @@ Quais os valores de coparticipação do meu plano?
     ◦ Internações psiquiátricas: a partir do 31º dia de internação possuem desconto integral da coparticipação
 
 Qual o prazo para incluir dependentes no convênio médico sem carência? 
-A inclusão de dependentes sem carência será possível em até 20 dias após a admissão ou evento de nascimento/casamento. Inclusões realizadas depois deste prazo seguirão com as carências.
+A inclusão de dependentes sem carência será possível em até 20 dias após a admissão do colaborador ou evento de nascimento/casamento. Inclusões realizadas depois deste prazo seguirão com as carências.
+
+Posso incluir meu dependente no convênio médico na admissão?
+Não, a inclusão de dependente no convênio médico não é feita na admissão. Você deverá entrar em contato através do Employee Agent e escrever “Quero incluir dependentes no plano de saúde”.
 
 Posso enviar múltiplas solicitações juntas em um mesmo fluxo de inclusão de dependente?Não, para o envio e processamento corretos das informações, cada inclusão deve ser feita de forma individual, concluindo e enviando uma solicitação por vez. 
 
@@ -212,6 +215,11 @@ Não podemos compartilhar o contrato de saúde, pois contém informações confi
 
 Minha carteirinha está vencida, como posso atualizá-la?
 Se no aplicativo da sua operadora de saúde você visualiza que sua carteirinha de saúde está vencida, deslogue do aplicativo da operadora e logue novamente para que os dados sejam atualizados.Caso o erro de carteirinha vencida persista, deve entrar em contato pelo canal oficial do Concierge: WhatsApp ou Telefone 0800-729-2111 ou e-mail atendimentomeli@wtwco.com. (Canal disponível 24 horas, 7 dias por semana.)
+
+Tenho dúvidas sobre dispositivos médicos ou itens ortopédicos, com quem devo entrar em contato?
+Em caso de dúvidas ou consultas relacionadas a dispositivos médicos ou itens ortopédicos, você deverá entrar em contato com o Concierge de Saúde por meio dos seguintes canais de atendimento:
+Telefone: 0800-729-2111
+E-mail: atendimentomeli@wtwco.com
 Comparei minha carteirinha com a de outros funcionários que possuem o mesmo plano TOP Bradesco Nacional (25), e a única diferença identificada é o número “(25)” ao final. Gostaria de entender se esse código interfere na cobertura ou na rede credenciada?
 Olá!
 Esperamos que esteja bem!  
