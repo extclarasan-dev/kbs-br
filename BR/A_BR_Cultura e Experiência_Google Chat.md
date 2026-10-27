@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura e Experiência_Google Chat
 link: https://docs.google.com/document/d/16c9DhcsEigzxLycFfEl3JIctaYbN5zMs3NnWRBkhjzo/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-26T20:44:42.586Z
+atualizado_no_drive: 2026-10-27T18:03:13.636Z
 ---
 
 TÍTULO KL: 
@@ -76,8 +76,7 @@ Suporte:
 Wiki Employee Agent: https://wiki.adminml.com/page/04-employee-agent 
 Wiki Comunicação e Colaboração: https://wiki.adminml.com/page/2903981563176275?lang=es
 Ticketera erros em Bots: https://mercadolibre-administration-people.atlassian.net/servicedesk/customer/portal/76/group/275/create/1401?isEligibleForUserSurvey=true 
-Apresentação Employee Agent https://docs.google.com/presentation/d/1bkWviwwHOQl3PDfkqrKoNdtu8rrZr0FMdSLzWlpuiuQ/edit?slide=id.g350321c52f7_0_191#slide=id.g350321c52f7_0_191 
-
+Apresentação Employee Agent: https://docs.google.com/presentation/d/1BCRSnZ_F6k1LmS4H91JQJ1Gn0LawqH9Vt7djglG-UE0/edit?slide=id.h7196375de50e215c_0_79#slide=id.h7196375de50e215c_0_79 
 
 INFORMAÇÕES PARA AGENTES: 
 Se algum colaborador entrar em contato informando que outro funcionário não tem acesso ou não consegue escrever para o Employee Agent, o agente deve-se contatar a equipe de AI pelo teams (Reporte de errores/mejoras).
