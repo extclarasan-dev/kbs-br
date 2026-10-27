@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Ferias fora do prazo
 link: https://docs.google.com/document/d/1fhsxSVi4iYefEy8NgtyXyyh6yZwq-CO-1Evuc-K95Dw/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-30T14:09:27.610Z
+atualizado_no_drive: 2026-10-27T19:45:49.250Z
 ---
 
 TÍTULO DA KL:
