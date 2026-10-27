@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Saúde_Isenção Coparticipação PCD
 link: https://docs.google.com/document/d/1DWjDbBcPCAvZJPstu6kmmTaLWLyOCd_q1t06x6_nbJI/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-22T23:34:54.545Z
+atualizado_no_drive: 2026-10-27T16:01:19.596Z
 ---
 
 TÍTULO DA KL:
@@ -48,11 +48,15 @@ E-mail: atendimentomeli@wtwco.com
 O atendimento está disponível 24 horas por dia, 7 dias por semana.
 Ao entrar em contato, informe que você é empregado do Mercado Livre e forneça o seu CPF.
 O time de saúde fará a avaliação para inclusão do seu cadastro, garantindo a isenção dos descontos, conforme previsto na Política de Benefícios e na iniciativa do Meli.
+Sou PCD e tenho dúvidas sobre dispositivos médicos ou itens ortopédicos, com quem devo entrar em contato?
+Em caso de dúvidas ou consultas relacionadas a dispositivos médicos ou itens ortopédicos, você deverá entrar em contato com o Concierge de Saúde por meio dos seguintes canais de atendimento:
+Telefone: 0800-729-2111
+E-mail: atendimentomeli@wtwco.com 
+
 SUPORTE:
 Canais de atenção do concierge de saúde: 
 WhatsApp ou telefone: 0800-729-2111
 E-mail: atendimentomeli@wtwco.com 
-
 
 
 PROCEDIMIENTO PARA AGENTES:
