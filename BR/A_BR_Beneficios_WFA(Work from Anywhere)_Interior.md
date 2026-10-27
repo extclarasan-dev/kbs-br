@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_WFA(Work from Anywhere)_Interior
 link: https://docs.google.com/document/d/1p-6taREuxUjIIX8k7vuxILEB1RbJsw_etcK22kZHVqU/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-01T16:04:00.545Z
+atualizado_no_drive: 2026-10-27T15:48:46.215Z
 ---
 
 TÍTULO DA KL:
@@ -169,6 +169,10 @@ Não. Se você realizar WFA Interior (cidades), não precisa preencher nenhum fo
 
 O que acontece se eu tiver uma viagem programada que informei antes de entrar no MELI e não cumprir com os requisitos de WFA? 
 Para acessar o benefício WFA, você deve cumprir com todos os requisitos estabelecidos, sem exceções. Se você tiver uma viagem previamente programada, poderá solicitar uma licença sem remuneração, sujeita à aprovação prévia do seu líder.
+
+Posso utilizar o benefício de WFA Interior para trabalhar no meu site habitual de trabalho sem que esses dias sejam contabilizados no cálculo de presencialidade?
+Não. O benefício de WFA Interior é destinado aos funcionários que desejam trabalhar de um local diferente daquele onde trabalham habitualmente. Portanto, não pode ser utilizado para excluir dias do cálculo de presencialidade quando o trabalho é realizado no site habitual. Nesses casos, você deverá cumprir sua pauta de presencialidade estabelecida.
+
 
 
 SUPORTE:
