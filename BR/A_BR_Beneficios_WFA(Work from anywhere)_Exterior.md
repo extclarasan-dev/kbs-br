@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_WFA(Work from anywhere)_Exterior
 link: https://docs.google.com/document/d/1HCdCTteMCm7sb4Ushae74A2ZsiWwBgRK_Sk3NkSgk4g/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-16T14:03:00.728Z
+atualizado_no_drive: 2026-10-27T15:46:30.195Z
 ---
 
 TÍTULO DA KL:
@@ -227,6 +227,9 @@ Para acessar o benefício WFA, você deve cumprir com todos os requisitos estabe
 
 Se eu ainda não tenho 6 meses de antiguidade e minha viagem dura menos de 6 dias úteis, posso solicitar o benefício de WFA exterior de maneira opcional?
 Não. A solicitação opcional para viagens de menos de 6 dias úteis aplica-se com os mesmos critérios de elegibilidade do benefício de WFA exterior, incluindo uma antiguidade mínima de 6 meses. Se você ainda não a cumpre, não poderá solicitá-la até atingi-la.
+
+Posso utilizar o benefício de WFA Exterior para trabalhar no meu site habitual de trabalho sem que esses dias sejam contabilizados no cálculo de presencialidade?
+Não. O benefício de WFA Exterior é destinado aos funcionários que desejam trabalhar em um país diferente daquele onde trabalham habitualmente. Portanto, não pode ser utilizado para excluir dias do cálculo de presencialidade quando o trabalho é realizado no site habitual. Nesses casos, você deverá cumprir sua pauta de presencialidade estabelecida. 
 
 
 Suporte: 
