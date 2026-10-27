@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Saúde_Assistentes até Supervisores
 link: https://docs.google.com/document/d/18nVvll7se5cZf9OKhG7VxSsgRWEFC-aMfJPTTAT9Mgs/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-26T19:05:58.606Z
+atualizado_no_drive: 2026-10-27T16:05:10.093Z
 ---
 
 alTÍTULO DE LA KL:  
@@ -240,6 +240,11 @@ Para consultar as informações referente ao processo de extensão, você dever�
 
 Minha carteirinha está vencida, como posso atualizá-la?
 Se no aplicativo da sua operadora de saúde você visualiza que sua carteirinha de saúde está vencida, deslogue do aplicativo da operadora e logue novamente para que os dados sejam atualizados.Caso o erro de carteirinha vencida persista, deve entrar em contato pelo canal oficial do Concierge: WhatsApp ou Telefone 0800-729-2111 ou e-mail atendimentomeli@wtwco.com. (Canal disponível 24 horas, 7 dias por semana.)
+
+Tenho dúvidas sobre dispositivos médicos ou itens ortopédicos, com quem devo entrar em contato?
+Em caso de dúvidas ou consultas relacionadas a dispositivos médicos ou itens ortopédicos, você deverá entrar em contato com o Concierge de Saúde por meio dos seguintes canais de atendimento:
+Telefone: 0800-729-2111
+E-mail: atendimentomeli@wtwco.com 
 
 Comparei minha carteirinha com a de outros funcionários que possuem o mesmo plano TOP Bradesco Nacional (25), e a única diferença identificada é o número “(25)” ao final. Gostaria de entender se esse código interfere na cobertura ou na rede credenciada?
 Olá!
