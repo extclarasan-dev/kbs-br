@@ -1,10 +1,10 @@
 ---
 titulo: A_BR_Talent Acquisition_Modelo de Talent Acquisition_Lideres
 link: https://docs.google.com/document/d/1UI1CzAYFR1wXG4XuEVpFpwC_E21H2ElNOPSOGVsIpaU/edit?usp=drivesdk
-atualizado_no_drive: 2026-07-31T13:55:32.933Z
+atualizado_no_drive: 2026-10-28T15:38:02.284Z
 ---
 
-A_BR_Talent Acquisition_Modelo de Talent Acquisition_Lideres
+A_BR_Talent Acquisition_Modelo de Talent Acquisition_Lideres 
 
 RESUMO:
 No MELI temos o desafio de construir os melhores times, por isso este documento fornece informações sobre o processo de Talent Acquisition para o papel de líderes.
@@ -40,6 +40,9 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
 
 
 PROCEDIMENTO:
