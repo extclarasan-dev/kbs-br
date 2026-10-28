@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ Talent & Development_Goals (Lideres) 
 link: https://docs.google.com/document/d/1ud7ouMwPfPyFF9BEYMTBtFNADqaisB9iBUdD4oYA2KE/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-07T23:30:25.440Z
+atualizado_no_drive: 2026-10-28T15:24:03.254Z
 ---
 
 TÍTULO DA KL:
@@ -40,6 +40,9 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721) 
 
 PROCEDIMENTO:
 Para acessar a seção de Goals (Líderes) e começar o registro dos seus Goals ou a gestão dos Goals da sua equipe, ou para incorporar novos Goals fora da janela de março, acesse o link: https://talent-mercadolibre.starmeup.com/self-performance  
