@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_WFA(Work from Anywhere)_Interior
 link: https://docs.google.com/document/d/1p-6taREuxUjIIX8k7vuxILEB1RbJsw_etcK22kZHVqU/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-27T15:48:46.215Z
+atualizado_no_drive: 2026-10-28T18:51:46.395Z
 ---
 
 TÍTULO DA KL:
@@ -18,9 +18,9 @@ Contar com a autorização do líder Manager & Up.
 É necessário ter uma performance sustentada (Qué: Meet / Align & Up) e não serão elegíveis aqueles que tiverem ativo um improvement plan, tenham sido avaliados como below, need alignment ou tenham desvios repetidos de comportamento.
 Deverá ser solicitado com no mínimo 3 dias úteis de antecedência (não se aplica aos sábados, domingos e feriados).
 Podem ser realizadas no máximo 3 solicitações de WFA por ano, e deve existir um mínimo de 7 dias de diferença entre uma solicitação e outra. Quando o benefício for utilizado em dois anos diferentes, a solicitação não deverá superar os 90 dias.
-Aplica-se unicamente para viagens dentro do país a localidades localizadas a mais de 150 km do local habitual de trabalho.
+Aplica-se exclusivamente a viagens dentro do país, para localidades situadas a mais de 150 km do local habitual de trabalho. A distância de 150 km é determinada a partir do seu site e/ou domicílio, de acordo com o tipo de contratação vigente. O benefício de WFA não pode ser utilizado para trabalhar do próprio domicílio, mesmo que ele esteja localizado a mais de 150 km do site atribuído.  
 Não é necessária a contratação de um seguro médico adicional para deslocamentos nacionais.
-O benefício de WFA Local não é obrigatório. É uma opção disponível para os funcionários que desejem trabalhar fora do escritório sem que isso afete seus indicadores de presencialidade.
+O benefício de WFA Local não é obrigatório. É uma opção disponível para os colaboradores que desejam trabalhar em uma localidade situada a mais de 150 km do seu local habitual de trabalho, sem que isso afete seus indicadores de presencialidade.
 
 Somente os funcionários do Mercado Livre Brasil que contarem com os seguintes job codes poderão acessar o benefício de WFA (Work From Anywhere):
 
