@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Ferias Gestor
 link: https://docs.google.com/document/d/1YtOEUmLXfb6FJr0aY2PK-86gjuEWS9LL2NInJvOb36o/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-09T23:12:07.237Z
+atualizado_no_drive: 2026-10-28T15:41:11.522Z
 ---
 
 TÍTULO DA KL:
@@ -10,6 +10,10 @@ RESUMO:
 Este documento descreve o procedimento para que os líderes e gestores do Mercado Livre Brasil possam gerenciar as solicitações de férias de seus subordinados. Também detalha como realizar a autodelegação de responsabilidades de aprovação no sistema, o controle de férias compulsórias e a consulta de saldos da equipe. 
 REQUISITOS:
 As informações contidas neste documento são exclusivas para os empregados do Mercado Livre Brasil que possuem as seguintes posições/cargos (Job Codes):
+Vicepresidente Senior (80001631) 
+Vicepresidente (80001632) 
+Senior Director (80001707) 
+Director (80001633) 
 Senior Expert (80001726)
 Senior Expert IT (80001725)
 Gerente Senior (80001634)
