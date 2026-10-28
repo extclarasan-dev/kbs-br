@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_PAYROLL_Rescisao_Contratual_Lideres
 link: https://docs.google.com/document/d/1sLHqN9PUuNqPjhedzWwHAedaFOClymC9y3oiTeJPNHQ/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-15T15:54:15.509Z
+atualizado_no_drive: 2026-10-28T15:44:38.047Z
 ---
 
 A_BR_PAYROLL_Rescisao_Contratual_Lideres
@@ -42,6 +42,9 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
 
 PROCEDIMENTO:
 
