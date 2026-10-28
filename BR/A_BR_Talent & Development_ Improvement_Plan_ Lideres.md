@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent & Development_ Improvement_Plan_ Lideres
 link: https://docs.google.com/document/d/1RCDiNkM292YdSHS1kePXpP6-hreZXwcv9OOZyK1D9og/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-15T18:35:03.910Z
+atualizado_no_drive: 2026-10-28T15:27:27.795Z
 ---
 
 A_BR_Talent & Development_ Improvement_Plan_Lideres
@@ -42,6 +42,9 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
 
 
 
