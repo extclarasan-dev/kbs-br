@@ -1,11 +1,11 @@
 ---
 titulo: A_BR_Diversos_Travel & Expenses
 link: https://docs.google.com/document/d/15r8cJL8TK7CRNNqIsEmxrzWCS4Hdsx6mVnNQir-4SdE/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-29T14:26:50.292Z
+atualizado_no_drive: 2026-10-28T14:49:50.554Z
 ---
 
 TÍTULO DA KL:
-A_BR_Diversos_Travel & Expenses
+A_BR_Diversos_Travel & Expenses 
 RESUMO: “Meli T&E” é a ferramenta corporativa integral para a gestão de viagens e gastos que permite aos colaboradores emitir voos, hotéis e carros, revisar o status de suas viagens, aprovar gestões de equipe e realizar o acompanhamento de gastos em um único lugar. Este documento detalha o procedimento de acesso à plataforma MELI Travel & Expense (Meli T&E) e fornece diretrizes para a resolução de inconvenientes comuns.
 REQUISITOS: 
 • Alcance: A política é aplicável a todos os funcionários do Mercado Livre, suas divisões e subsidiárias. 
@@ -40,34 +40,37 @@ Para realizar uma viagem corporativa é necessário garantir que o cartão de cr
 Qual é a agência de viagens corporativas e como posso contatá-la?
 A agência oficial para a gestão de viagens corporativas é a BCD Travel. Você pode contatá-la de acordo com o país:
  
-Argentina:
-Telefone: +54 11 3988 4386
-E-mail: mercadolibre@bcdtravel.com.ar
-Emergências: +54 11 3988 4386 | emergencias@bcdtravel.com.ar
+Argentina
+Teléfono: +54 11 3988 4386
+Horario de atención: 9:00 a 18:00 h
  
-Brasil:
-Telefone: +55 11 3372 3372
-E-mail: mercadolivre@bcdtravel.com.br
-Emergências: +55 11 3372 3372
+Chile
+Teléfono: +56 22 464 2024
+Horario de atención: 9:00 a 18:00 h
  
-Chile:
-Telefone: +56 2 2464 2024
-E-mail: mercadolibre@bcdtravel.cl
-Emergências: +56 9 6619 6902
+México
+Teléfono: +52 55 6952 7334
+Horario de atención: 8:00 a 18:00 h
  
-México:
-Telefone: +52 55 4160 6171
-E-mail: mercadolibre@bcdtravel.com.mx
-Emergências: +52 55 4160 6171
+Uruguai
+Teléfono: +598 4135 985 896
+Horario de atención: 9:00 a 18:00 h
  
-Uruguai:
-Telefone: +598 2902 6868 ramal 280
-E-mail: mercadolibre@bcdtravel.com.uy
-Emergências: +598 9786 4890
+Colombia
+Teléfono: +57 601 589 9587
+Horario de atención: 8:00 a 17:00 h
  
-Colômbia:
-E-mail: servicio724@bcdtravel.com.co
-Emergências: +57 601 589 9587
+Perú
+Teléfono: +511 515 4623
+Horario de atención: 8:00 a 17:00 h
+Correo electrónico para consultas del servicio regular
+mercadolibre@bcdtravel.com.co
+ 
+Brasil
+Teléfono: +55 11 3372 3372
+Correo electrónico: mercadolivre@bcdtravel.com.br
+Emergencias: +55 11 3372 3372
+
  
 Qual canal de atendimento da BCD Travel está disponível para Vicepresidentes & UP?
 A BCD Travel conta com um canal de atendimento preferencial para Vicepresidentes & UP, destinado à gestão de viagens corporativas de maneira ágil e personalizada.
@@ -76,11 +79,13 @@ E-mail:
 Países de língua espanhola: mercadolibre.vip@bcdtravel.com.co
 Brasil: vipdesk@bcdtravel.com.br
 Atendimento telefônico:
-Argentina: segunda a sexta-feira, das 9:00 às 18:00 | +54 11 3988 4392
-Chile: segunda a sexta-feira, das 9:00 às 18:00 | +56 22 583 3378
-México: segunda a sexta-feira, das 8:00 às 18:00 | +52 55 6952 7330
-Uruguai: segunda a sexta-feira, das 9:00 às 18:00 | +54 11 3988 4392
-Brasil: segunda a sexta-feira, das 9:00 às 18:00 | +55 11 3164 6403
+Argentina (AR): +54 11 3988 4386. Horario de atención: de 9:00 a 18:00 h.
+Chile (CL): +56 22 464 2024. Horario de atención: de 9:00 a 18:00 h.
+Colombia (CO): +57 601 589 9587. Horario de atención: de 8:00 a 17:00 h.
+Perú (PE): +511 515 4623. Horario de atención: de 8:00 a 17:00 h.
+Uruguay (UY): +598 4135 985 896. Horario de atención: de 9:00 a 18:00 h.
+México (MX): +52 55 6952 7334. Horario de atención: de 8:00 a 18:00 h.
+Brasil (BR): +55 11 3372 3372. Horario de atención: de lunes a viernes, de 9:00 a 18:00 h.
  
 Importante: fora dos horários indicados, você pode se comunicar através dos mesmos números para receber assistência de emergência.
 Com que antecedência se compram as passagens de viagem corporativa? 
