@@ -1,10 +1,10 @@
 ---
 titulo: A_BR_Talent Development_Oportunidades Lideres
 link: https://docs.google.com/document/d/1_7zo7PLQHD3u3cl_1fBs_fMiiN30V6D8MBiRKzeOi8U/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-07T23:32:15.672Z
+atualizado_no_drive: 2026-10-28T15:33:48.333Z
 ---
 
-A_BR_Talent Development_Oportunidades Lideres
+A_BR_Talent Development_Oportunidades Lideres 
 
 RESUMO:
 Este documento detalha as informações orientadas à gestão de líderes, esquemas salariais e fluxos internos no âmbito do processo de Oportunidades na MELI.
@@ -38,6 +38,9 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
 
 
 Engagement e EXE:
