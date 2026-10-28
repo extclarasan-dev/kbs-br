@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_desvinculação_por_Justa_Causa_Lideres - PBP AGENT
 link: https://docs.google.com/document/d/1eX2zcaiiD8J86mvHZYbKtKPKxBMzeonuUDGPwNx2nM8/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-15T15:53:28.778Z
+atualizado_no_drive: 2026-10-28T15:45:00.843Z
 ---
 
 A_BR_ADP_desvinculação_por_Justa_Causa_Lideres - PBP AGENT
@@ -44,6 +44,10 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
+
 
 
 PROCEDIMIENTO:
