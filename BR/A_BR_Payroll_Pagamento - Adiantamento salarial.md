@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Payroll_Pagamento - Adiantamento salarial
 link: https://docs.google.com/document/d/1uaQQeZD1mLsyipzbF-_pRl9qiPYfQ5r7H-yEfcPlYVk/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-16T00:00:27.747Z
+atualizado_no_drive: 2026-10-28T20:15:30.314Z
 ---
 
 TÍTULO DA KL:
