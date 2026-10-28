@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent Development_Processo de Promoções_ Lideres
 link: https://docs.google.com/document/d/1BwX4vht1ypSuOxB_qLJlJkGa79-cKbCwQ4iux7vsVRw/edit?usp=drivesdk
-atualizado_no_drive: 2026-07-31T16:19:47.109Z
+atualizado_no_drive: 2026-10-28T15:55:18.671Z
 ---
 
 A_BR_Talent Development_Processo de Promoções_Lideres
@@ -39,7 +39,9 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
-
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
 
 
 Justificativa da proposta de promoção: Deve responder obrigatoriamente sobre qual foi a contribuição e o impacto relevante da pessoa em seu cargo atual, e quais evidências concretas demonstram sua prontidão (readiness) e potencial para o novo nível de senioridade.
