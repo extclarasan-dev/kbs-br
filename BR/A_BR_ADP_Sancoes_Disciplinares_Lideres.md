@@ -1,10 +1,10 @@
 ---
 titulo: A_BR_ADP_Sancoes_Disciplinares_Lideres
 link: https://docs.google.com/document/d/1ZwaT9iUnMgAIWmw7NMUo1BxEcMCuyXt8LXWUegZYoxk/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-21T21:33:28.314Z
+atualizado_no_drive: 2026-10-28T15:47:55.262Z
 ---
 
-A_BR_ADP_Sancoes_Disciplinares_Lideres
+A_BR_ADP_Sancoes_Disciplinares_Lideres 
 
 RESUMO: 
 
@@ -44,6 +44,10 @@ Expert IT (80001723)
 Expert SAdm (80001744)
 Supervisor SAdm (80001702)
 Team Leader Senior (80001728)
+Team Leader - Shipping (80001720)
+Sr Team Leader - Shipping (80001736)
+Coordinator - Shipping (80001721)
+
 
 PROCEDIMENTO: 
 
