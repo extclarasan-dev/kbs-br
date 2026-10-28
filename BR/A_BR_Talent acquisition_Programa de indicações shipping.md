@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent acquisition_Programa de indicações shipping
 link: https://docs.google.com/document/d/1mvTuKm8pjd4sjzSlT7z74sU0FFqUeuPm1tJrjRGG4WQ/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-25T14:18:43.083Z
+atualizado_no_drive: 2026-10-28T15:18:33.293Z
 ---
 
 TÍTULO DA KL:
@@ -138,7 +138,11 @@ Posso indicar um ex-colaborador do MELI?
 Ex-colaboradores não estão incluídos no Programa de Indicação shipping, pois sua participação nos processos de Aquisição de Talentos é regida pela Política de Recontratações, a qual é consultada pelo time de Aquisição de Talentos nesses casos.
 Sempre entram em contato com as pessoas que são indicadas?
 Não necessariamente. É possível que o perfil não se encaixe em uma busca específica em determinado momento. Quem fez a indicação será informado apenas se seu indicado for contratado.
-Como funciona a recompensa financeira?
+
+Como posso consultar o status de uma indicação realizada pelo Programa de Indicação Shipping?
+Se você realizou uma indicação pelo formulário do Programa de Indicação Shipping, ela já está registrada com sucesso!
+Ainda não temos um painel para acompanhamento em tempo real para essas indicações, mas fique tranquilo: assim que sua indicação for contratada, você será informado pelo time de seleção e recrutamento para atualizar sobre o andamento. 
+Como funciona a recompensa financeira no Programa de Indicação Shipping?
 Para cada pessoa indicada para o cargo de Representante de Envios (Reps) por um de nossos colaboradores que seja contratada e que cumpra o tempo mínimo de experiência no MELI (3 meses), será concedida a recompensa em dinheiro para o colaborador que a indicou.
 Quando vou receber o bônus resultantes das minhas indicações? 
 Uma vez cumprido o prazo de 3 meses do seu indicado, o pagamento será refletido no mês seguinte, ou seja, no 4º ou 5° mês após o ingresso do seu indicado, considerando o fechamento da folha de pagamento.  
