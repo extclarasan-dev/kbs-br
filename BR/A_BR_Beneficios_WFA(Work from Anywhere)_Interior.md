@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_WFA(Work from Anywhere)_Interior
 link: https://docs.google.com/document/d/1p-6taREuxUjIIX8k7vuxILEB1RbJsw_etcK22kZHVqU/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-28T18:51:46.395Z
+atualizado_no_drive: 2026-10-29T17:43:36.347Z
 ---
 
 TÍTULO DA KL:
@@ -152,10 +152,10 @@ A nova política do benefício WFA indica que este deve ser solicitado com no m�
 Tenha em mente que o cálculo da antecedência é realizado com base na data em que a solicitação é carregada até as 00:00h da data de início do WFA.
 
 Não sabia das modificações e tenho uma viagem programada, é possível abrir uma exceção?
-A nova política do benefício WFA indica que este deve ser solicitado com no mínimo 3 dias úteis (não se aplica a sábados, domingos e feriados) de antecedência sem exceções, pois é o mínimo de dias por política para garantir que se possa cumprir com o processo.
+A nova política do benefício WFA indica que este deve ser solicitado com no mínimo 3 dias úteis (não se aplica aos sábados, domingos e feriados) de antecedência sem exceções, pois é o mínimo de dias por política para garantir que se possa cumprir com o processo.
 
 Precisa de suporte do Internal Systems para o seu equipamento?
-Se tiver alguma dúvida ou precisar de suporte de IS por perda do seu equipamento, dano, roubo, acessórios, acesse no Google Chat o bot de Support > Meli help.
+Se tiver alguma dúvida ou precisar de suporte de IS por perda do seu equipamento, dano, roubo, acessórios, acesse o chat de Employee Agent e escreva sua dúvida.
 
 O que acontece se minha solicitação de WFA não for aprovada/rejeitada a tempo?
 Caso sua solicitação de WFA não seja aprovada/rejeitada a tempo, ela é cancelada automaticamente e você pode realizar uma nova solicitação.
