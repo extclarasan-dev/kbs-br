@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Material de apoio
 link: https://docs.google.com/document/d/1qVYPWbclLyagdSZGEAyrCk5z8XoUcR9hob218BEsCwE/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-23T16:57:40.438Z
+atualizado_no_drive: 2026-10-29T18:34:14.544Z
 ---
 
 TÍTULO DA KL:
@@ -15,20 +15,20 @@ Mensagens padrão para atendimento:
 Antes de iniciar a tratativa verificar o histórico de tickets do colaborador.
 
 ➡️ Mensagem:
-Olá, ${firstName} ! Tudo bem? 👋 Sou XXX 😀
+Olá! Tudo bem? 👋 Sou XXX 😀
 <Mensagem da tratativa>
 Minha resposta te ajudou? 
 Vou aguardar seu retorno em até 24 horas. 
 
 ➡️ Mensagem backlog:
-Olá, ${firstName} ! Tudo bem?  👋Sou XXX 😀
+Olá! Tudo bem? 👋 Sou XXX 😀
 Sinto pela demora e obrigado por aguardar.
 <Mensagem da tratativa>
 Minha resposta te ajudou? 
 
 Mensagem padrão para retorno ao colaborador após interação com IA
  
-"📬 Olá ${firstName} ! Já temos a resposta para sua consulta sobre [Tema]. (Editar resposta para o colaborador)…"
+"📬 Olá ! Já temos a resposta para sua consulta sobre [Tema]. (Editar resposta para o colaborador)…"
 
 ➡️ Ao finalizar o envio da resposta ao colaborador:
 Intercalar o uso das mensagens abaixo durante atendimento para evitar que fique repetitivo:
@@ -50,7 +50,7 @@ Tenha um ótimo dia!
 
 Mensagem COM envio de pesquisa:
 
-Que bom, ${firstName} ! Ficamos felizes em ajudar 😊
+Que bom! Ficamos felizes em ajudar 😊
 Vou encerrar por aqui, mas o chat continua aberto para novas interações.
 Logo abaixo você receberá uma pesquisa rapidinha sobre o meu atendimento, sua opinião é super importante!
 Obrigada e tenha um dia incrível! 🌟
@@ -70,7 +70,7 @@ Obrigada e tenha um dia incrível! 🌟
 Mensagem SEM envio de pesquisa mas com OK do colaborador:
 Sempre questionar no grupo se é melhor considerar o envio.
 
-Que bom, ${firstName} ! Ficamos felizes em ajudar 😊
+Que bom! Ficamos felizes em ajudar 😊
 Vou encerrar por aqui, mas o chat continua aberto para novas interações.
 Se precisar de ajuda novamente, conte conosco! 
 
@@ -100,14 +100,14 @@ OBS: Verificar exceções a regra, nosso intuito sempre é enviar pesquisas. Cas
 Novo campo de derivação: BR - Guia para derivaçoes em Zendesk - Google Docs 
 
 ➡️ Derivação N2 saúde, TA, MP, fretado (casos que têm retorno demorado):
-Olá, ${firstName} ! Tudo bem? 👋 Sou XXX 😀
+Olá! Tudo bem? 👋 Sou XXX 😀
 Sua solicitação foi encaminhada para a área responsável pelo tema.
 Esse processo é bem minucioso e pode acontecer de não ser tão breve, mas assim que eu tiver o retorno lhe encaminharei por aqui.
 Sigo à disposição!
 
 ➡️ Derivação N2:
 
-Olá, ${firstName} ! Tudo bem? 👋 Sou XXX 😀
+Olá! Tudo bem? 👋 Sou XXX 😀
 Sua solicitação foi encaminhada para a área responsável pelo tema. Estamos acompanhando de perto e retornaremos com uma resposta assim que possível. Conte conosco!
 
 ➡️ Ao retornar de N2:
