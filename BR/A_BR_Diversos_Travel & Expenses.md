@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos_Travel & Expenses
 link: https://docs.google.com/document/d/15r8cJL8TK7CRNNqIsEmxrzWCS4Hdsx6mVnNQir-4SdE/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-28T14:49:50.554Z
+atualizado_no_drive: 2026-10-29T17:46:08.942Z
 ---
 
 TÍTULO DA KL:
@@ -103,7 +103,7 @@ No caso de viagens para a China, será permitido o acesso à cabine Business par
 Quem aprova as viagens corporativas? 
 As viagens corporativas devem ser aprovadas pelo líder direto do solicitante, sendo exigido que esse líder possua cargo mínimo de Manager. A aprovação de bilhetes aéreos é aplicável a todos os colaboradores até o nível de senioridade de Diretor, inclusive, conforme diretrizes da política vigente.
 O que eu faço se o meu cartão de crédito corporativo for recusado no momento do pagamento? 
-Se o seu cartão de crédito corporativo for recusado ou houver pagamentos rejeitados, você deverá informar o inconveniente no Google Chat > Bots > Support, escrevendo "Travel & Expenses" e depois "Mi tarjeta corporativa es rechazada al momento de utilizarla".
+Se o seu cartão de crédito corporativo for recusado ou houver pagamentos rejeitados, você deverá informar o inconveniente no chat da Employee Agent, escrevendo "Travel & Expenses" e depois "Minha carteira corporativa é rechazada ao momento de utilizá-la".
 Como faço o desconhecimento de um pagamento realizado com o cartão corporativo? Para desconhecer um pagamento realizado com o cartão corporativo, deve-se seguir o processo padrão de desconhecimento diretamente com a entidade emissora do cartão. Caso o desconhecimento seja efetivado, a entidade emissora do cartão realizará a devolução do gasto.
 Por que não consigo entrar no Concur? 
 Concur não está mais disponível para gerir suas viagens, a nova plataforma é MELI Travel & Expenses. No link a seguir você poderá entrar: https://mercadolibre.mendel.com/ ou baixando o aplicativo Mobile a partir da seguinte wiki: https://wiki.adminml.com/page/3959227554319007. 
