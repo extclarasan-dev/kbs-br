@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura&Experiencia_Encuesta/Pesquisas: Engagement y EXE para_Lideres
 link: https://docs.google.com/document/d/184n-6VBg07Ay6FtN2RhboM93fjbQhR1oAUq3292M_78/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-29T20:56:57.920Z
+atualizado_no_drive: 2026-10-30T15:25:14.599Z
 ---
 
 TÍTULO DA KL:
@@ -88,7 +88,7 @@ Onde se pode consultar a taxa de participação da pesquisa Engagement & EXE Sur
 Os líderes e os People Business Partners (PBP) podem revisar a taxa de participação acessando seus respectivos painéis analíticos no Qualtrics.
 
 SUPORTE:
-Acesso aos resultados da pesquisa Engagement & EXE Survey: https://mercadolibreex.ca1.qualtrics.com/jfe/form/SV_abdTbdOHyZRjXmK?Q_TS_ID=TS_ACRORc2R4eANxEu&Q_TS_RS=Self&Q_EE_ANON=1&_=1 
+Acesso aos resultados da pesquisa Engagement & EXE Survey: https://mercadolibreex.yul1.qualtrics.com/reporting-dashboard/web/6a8dd54df5d88700084c7448/pages/Page_79bf0f96-df83-47ec-9977-4ab1ff6c675a/view 
 
 Consulta de taxa de participação para líderes: https://mercadolibreex.yul1.qualtrics.com/reporting-dashboard/web/6a8dd35453ee950008798cef/pages/Page_41a35ab2-20b6-4851-88dc-64d524ff7a24/view 
 
