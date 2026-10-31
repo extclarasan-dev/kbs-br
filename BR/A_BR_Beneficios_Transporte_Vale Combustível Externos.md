@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Transporte_Vale Combustível Externos
 link: https://docs.google.com/document/d/11VWVZ9bxnRq3Jk98o9y0P7O_1kiv470GuyCbp2vrXOw/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-15T17:02:13.102Z
+atualizado_no_drive: 2026-10-30T19:10:35.514Z
 ---
 
 TÍTULO DA KL:
@@ -202,9 +202,9 @@ Exemplo Prático: Se você gastou R$ 900,00 do seu limite ao longo do mês (20 a
 
 Eu tenho um saldo acumulado de meses anteriores. Eu vou perder esse valor?
 Nao. O saldo de vale combustivel que você acumulou historicamente permanece protegido, intocado e 100% disponível na sua conta. O modelo complementar não confisca ou consulta valores passados. 
-Retornei ao afastamento, quando meu combustível será reativado?
-O benefício é interrompido conforme a política da empresa na ocasião do afastamento. Contudo, ao retornar o benefício é reativado. ⛽
-📌 Como dependemos de terceiros e prazos, o benefício não volta de imediato no cartão, apenas no segundo mês de retorno, inicialmente faremos o pagamento da diferença devida na folha de pagamento.
+Quando receberei o crédito do Vale-Combustível (VC) após o afastamento?
+O crédito do Vale-Combustível (VC) para funcionários afastados é realizado no dia 15 de cada mês, conforme as atualizações registradas no sistema pela equipe de Saúde Ocupacional.
+Se as alterações forem registradas até o dia 10, o crédito será realizado no dia 15 do mesmo mês. Caso sejam registradas após essa data, o crédito será realizado no dia 15 do mês seguinte.
 Que acontece com o vale combustível se eu sair de férias? 
 O Vale Combustível é descontado em caso de férias, sendo contabilizado proporcionalmente pelos dias do mês.
 
