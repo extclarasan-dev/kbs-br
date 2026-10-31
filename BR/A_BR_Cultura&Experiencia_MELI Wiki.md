@@ -1,9 +1,8 @@
 ---
 titulo: A_BR_Cultura&Experiencia_MELI Wiki
 link: https://docs.google.com/document/d/1Td-8e4w_g3Rz6FOSoQ2mIF6PDrvY3SuLn893_XAfN78/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T18:33:58.728Z
+atualizado_no_drive: 2026-10-30T16:01:49.242Z
 ---
-
 
 TÍTULO DA KL:
 A_BR_Cultura&Experiencia_MELI Wiki
@@ -17,7 +16,7 @@ Informação disponível para todos os empregados de Mercado livre Brasil.
 PROCEDIMENTO:
 • Para entrar na Wiki, você deverá acessar o seguinte link: https://wiki.adminml.com/.
 
-• Se você não conseguir acessar uma Wiki, deverá solicitar Support no Google Chat > Bots > Support > escreva “Meli Help” > escreva “Acesso a uma wiki”.
+• Se você não conseguir acessar uma Wiki, deverá entrar em contato com o chat da Employee Agent e escrever “Acesso a uma wiki”.
 
 • Para encontrar Templates e imagens MELI, acesse a seguinte Wiki: https://public.wiki.adminml.com/page/3959227554319883. 
 
@@ -123,8 +122,6 @@ Deverá entrar em contato com a equipe de desenvolvimento (IT) abrindo um ticket
 SOPORTE:
 • Wiki Templates e imágenes MELI: 
 https://public.wiki.adminml.com/page/3959227554319883 
-
-• Bot Meli Help: Google Chat > Bots > Support > escreva “Meli Help”
 
 • Acesso à Wiki: https://wiki.adminml.com/. 
 
