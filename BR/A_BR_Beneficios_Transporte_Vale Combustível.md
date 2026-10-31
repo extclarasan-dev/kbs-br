@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Transporte_Vale Combustível
 link: https://docs.google.com/document/d/1bvGWQul0oP_K0ZPVfxu9vQTgh2eSPXkWTyAlKMObI_k/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-08T20:59:11.680Z
+atualizado_no_drive: 2026-10-30T19:09:25.962Z
 ---
 
 TÍTULO DA KL:
@@ -86,9 +86,9 @@ O cadastro para o Vale Combustível deverá ser realizado, após a mudança de d
 Desta forma a área responsável consegue analisar o seu perfil e dizer se será ou não elegível ao benefício.
 O crédito do benefício de vale combustível pode ser usado para o ultrapass?
 ⛽ Não é possível utilizar o VC no Ultrapass.
-Retornei ao afastamento, quando meu combustível será reativado?
-O benefício é interrompido conforme a política da empresa na ocasião do afastamento. Contudo, ao retornar o benefício é reativado. ⛽
-📌 Como dependemos de terceiros e prazos, o benefício não volta de imediato no cartão, apenas no segundo mês de retorno, inicialmente faremos o pagamento da diferença devida na folha de pagamento.
+Quando receberei o crédito do Vale-Combustível (VC) após o afastamento?
+O crédito do Vale-Combustível (VC) para funcionários afastados é realizado no dia 15 de cada mês, conforme as atualizações registradas no sistema pela equipe de Saúde Ocupacional.
+Se as alterações forem registradas até o dia 10, o crédito será realizado no dia 15 do mesmo mês. Caso sejam registradas após essa data, o crédito será realizado no dia 15 do mês seguinte.
 Que acontece com o vale combustível se eu sair de férias? 
 O Vale Combustível é descontado em caso de férias, sendo contabilizado proporcionalmente pelos dias do mês.
 Representante noturno tem direito ao VC?
