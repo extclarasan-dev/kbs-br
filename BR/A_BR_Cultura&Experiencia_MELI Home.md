@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura&Experiencia_MELI Home
 link: https://docs.google.com/document/d/1KniEJHRyeDnmxpT6Zmi84ZiqphdtSbpsW5Ce04FIfXM/edit?usp=drivesdk
-atualizado_no_drive: 2026-01-21T17:02:59.816Z
+atualizado_no_drive: 2026-10-30T17:38:31.187Z
 ---
 
 TÍTULO DA KL:
@@ -50,7 +50,7 @@ Opção 2 - Configuração:
 2. Ir para Configuração.
 3. Entrar em Aparência.
 4. Ativar “Mostrar barra de marcadores”.
-Se o erro persistir, você deverá entrar em contato com a equipe de Meli Help no Google Chat > Bots > Support > Escreva "Meli Help" > Escreva "Solicitar suporte" indicando seu sistema operacional, versão do Chrome e anexando uma captura de Configuração > Aparência.
+Se o erro persistir, você deverá entrar em contato com a equipe de Meli Help atraves do chat  indicando seu sistema operacional, versão do Chrome e anexando uma captura de Configuração > Aparência.
 
 Antes eu via as “páginas mais visitadas” no new tab do Chrome, onde eles se encontram agora?
 Suas "Páginas mais visitadas" encontram-se no widget de Tools. Eles oferecem uma experiência similar à nova pestaña original do Chrome.
