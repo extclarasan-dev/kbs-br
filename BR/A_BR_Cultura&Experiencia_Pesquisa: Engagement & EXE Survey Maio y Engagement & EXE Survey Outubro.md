@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura&Experiencia_Pesquisa: Engagement & EXE Survey Maio y Engagement & EXE Survey Outubro
 link: https://docs.google.com/document/d/1GM2e6hU_oz9VXjCkQXMIgyQVn8ErQTfZC3BR15EJUWc/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-29T21:04:20.978Z
+atualizado_no_drive: 2026-10-30T20:06:24.014Z
 ---
 
 TÍTULO DA KL:
@@ -46,12 +46,6 @@ Em caso de a mensagem não corresponder a estas pesquisas, você deverá contact
 • Para outros problemas com a pesquisa, escreva neste chat "Quero reportar um issue na survey" e conte-nos o tipo de erro que aparece, por favor compartilhe uma captura de tela do erro.
 
 PERGUNTAS FREQUENTES:
-Qual é o link para preencher a pesquisa?
-Você poderá preencher a pesquisa de Engagement & EXE no seguinte link: https://mercadolibreex.ca1.qualtrics.com/jfe/form/SV_56aBSlcJbVBFp8G?Q_TS_ID=TS_ANzDxbxSUHhC1kZ&Q_TS_RS=Self&Q_EE_ANON=1&_=1 .
-
-Sou Representante / Op. logístico, devo preencher a pesquisa de Engagement & EXE?
-Sim, você deve preencher a pesquisa de Engagement & EXE. Poderá preenchê-la por meio do seguinte link: https://mercadolibreex.ca1.qualtrics.com/jfe/form/SV_56aBSlcJbVBFp8G?Q_TS_ID=TS_ANzDxbxSUHhC1kZ&Q_TS_RS=Self&Q_EE_ANON=1&_=1 .
-
 Para que medimos Engagement & EXE?
 As pesquisas refletem a voz das equipes e nos permitem saber como trabalhamos em equipe e como executamos com excelência para alcançar melhores resultados de negócio, contribuindo assim para cumprir nosso propósito.
 Em que consistem as pesquisas Engagement & EXE Survey Maio y Engagement & EXE Survey Outubro?
@@ -81,17 +75,8 @@ Se você viveu uma situação irregular que afete a confidencialidade ou se lhe 
 Quero alterar minha resposta, é possível?
 Uma vez finalizada a pesquisa, as respostas são salvas automaticamente e são definitivas, portanto não podem ser editadas nem modificadas. No entanto, se a pesquisa não foi concluída, sim é possível retomá-la para finalizá-la.
 
-Como acessar a Engagement & EXE Survey Octubre 2026?
-Para acessar a Engagement & EXE Survey Octubre 2026, deixamos o link de acesso à pesquisa https://mercadolibreex.ca1.qualtrics.com/jfe/form/SV_56aBSlcJbVBFp8G?Q_TS_ID=TS_ANzDxbxSUHhC1kZ&Q_TS_RS=Self&Q_EE_ANON=1&_=1 .
-
-Quando se ativa a Engagement & EXE Survey Octubre 2026?
-A ativação da Engagement & EXE Survey Octubre 2026 é realizada de maneira escalonada.
-Shipping Mexico: No seu caso, a Engagement & EXE Survey Octubre 2026 estará ativa a partir de 06/09/2026.
-Shipping Brasil: No seu caso, a Engagement & EXE Survey Octubre 2026 estará ativa a partir de 06/09/2026.
-Resto de BUs: No seu caso, a Engagement & EXE Survey Octubre 2026 estará ativa a partir de 06/09/2026.
 
 SOPORTE:
-O lançamento com o link para responder a Engagement & EXE Survey Octubre é feito pelo MELI News: https://chat.google.com/room/AAAA7LBbkVA?cls=7 
 Para mais informações ou assistência, você pode consultar os seguintes links:
 • Wiki Encuesta Survey: https://public.wiki.adminml.com/page/3547310548843370 
 • Wiki para consultar mais informações sobre a medição, os Glosários e o detalhamento de sentenças: https://wiki.adminml.com/page/3547310548843370 
