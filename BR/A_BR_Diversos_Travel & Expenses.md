@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos_Travel & Expenses
 link: https://docs.google.com/document/d/15r8cJL8TK7CRNNqIsEmxrzWCS4Hdsx6mVnNQir-4SdE/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-29T17:46:08.942Z
+atualizado_no_drive: 2026-10-30T14:16:42.184Z
 ---
 
 TÍTULO DA KL:
@@ -155,7 +155,6 @@ SUPORTE:
 • Wiki Anticipación de Compra y Cabinas: https://wiki.adminml.com/page/3959227554319060.  
 • Wiki Solicitud de Tarjeta Corporativa: https://wiki.adminml.com/page/3959227554319051 . 
 • Wiki Seguimiento de Gastos: https://wiki.adminml.com/page/3959227554319053.  
-• Bot de Travel & Expense: Google Chat > Bots > Support > Travel & Expenses.
 
 
 INFORMAÇÃO PARA AGENTES:
