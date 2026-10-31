@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_DIVERSOS_PREVENCAO DE PHISHING
 link: https://docs.google.com/document/d/1jPkvFVq-N2N_XBYlpW8kKMId1rN90YNUw8mwbyw5IRo/edit?usp=drivesdk
-atualizado_no_drive: 2026-02-06T17:53:05.517Z
+atualizado_no_drive: 2026-10-30T17:55:15.260Z
 ---
 
 TÍTULO DE LA KB:
@@ -50,7 +50,7 @@ Se a ferramenta Addon mostrar o erro: "No se ha podido subir el contenido", voc�
 
 Uso de G-Chat Bot
 Entre no gchat, você pode fazê-lo a partir do home do chrome ou a partir do gmail.
-Procure o bot de Support e fale com ele. Quando responderem, diga que precisa denunciar um "Phishing" ou "Sitio falso".
+Procure o bot da Employee Agent e fale com ele. Quando responderem, diga que precisa denunciar um "Phishing" ou "Sitio falso".
 Em seguida, ao escolher uma opção, o próprio bot irá guiá-lo através de uma série de passos, dependendo do que você deseja reportar.
 
 PREGUNTAS FRECUENTES:
@@ -65,7 +65,7 @@ O que devo fazer se não encontrar o botão do addon no Gmail?
 Pode ser que, devido à nova atualização, você não veja a barra lateral. Nesse caso, você pode encontrá-la procurando a flecha cinza que indica "Mostrar painel lateral".
 
 Se eu reportar um e-mail suspeito para 911@mercadolibre.com, que informação devo indicar?
-Se você for avisar sobre um e-mail suspeito pelo 911, lembre-se de indicar o remetente e o assunto do e-mail a ser reportado. Não obstante, se você já reportou pelo MELI Phishing Report ou Google chat Support, não é necessário escrever para 911@mercadolibre.com.
+Se você for avisar sobre um e-mail suspeito pelo 911, lembre-se de indicar o remetente e o assunto do e-mail a ser reportado. Não obstante, se você já reportou pelo MELI Phishing Report ou chat da Employee Agent, não é necessário escrever para 911@mercadolibre.com.
 
 SOPORTE:
 
