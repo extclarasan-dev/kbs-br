@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent & Development_Learning
 link: https://docs.google.com/document/d/1wDJZEyCEw4hYCsNY2BErSulYP8VcCc8cQWfUnlppnCo/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-16T18:25:13.011Z
+atualizado_no_drive: 2026-10-30T14:30:13.438Z
 ---
 
 TÍTULO DA KL:
@@ -48,7 +48,7 @@ Verifique se você interagiu corretamente com todo o conteúdo (vídeos completo
 Atualize a página onde está realizando o curso.
 Limpe cookies e cache do seu navegador.
 E/ou tente avançar pelo menu lateral esquerdo, selecionando a próxima seção e depois voltando para a anterior, para forçar o avanço.
-Se, após realizar esses passos, o erro persistir, por favor, entre em contato com o bot “Support” no Google Chat e solicite ajuda com seu curso do Learning Hub.
+Se, após realizar esses passos, o erro persistir, por favor, entre em contato com o chat da Employee Agent e solicite ajuda com seu curso do Learning Hub.
 Tenho um erro de exibição de vídeo (não disponível/privado/arquivos não encontrados) nos cursos do Learning Hub:
 Para visualizar o conteúdo dentro dos cursos, você deve estar com a sessão da conta MELI iniciada no YouTube e no seu navegador.
 Se o problema persistir, será necessário limpar cookies/cache e fazer login novamente no Learning Hub.
