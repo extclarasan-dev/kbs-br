@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos_Reconocimiento facial en Melicidade
 link: https://docs.google.com/document/d/109M43CRgEMOwCI5_AhSWnRQVuCwZ-RaGPJ3vRfzWkq4/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T18:07:34.784Z
+atualizado_no_drive: 2026-10-30T16:30:14.346Z
 ---
 
 TÍTULO DA KL: 
@@ -33,15 +33,15 @@ Sim, após o período de inscrição facial, o acesso será feito unicamente com
 Sim, o registro nos sistemas de segurança estabelecidos para os escritórios da MELI é um requisito para poder acessá-los. Uma vez completo o registro, só será possível acessar mediante dados biométricos. Para os empregados que não registrarem seus dados biométricos, o acesso só poderá ser feito através do fluxo estabelecido para visitantes.
 • O que acontece se eu não quiser registrar meus dados faciais? 
 Para os empregados que não registrarem seus dados biométricos, o acesso só poderá ser feito através do fluxo estabelecido para visitantes. Isso implica na gestão de um aviso prévio e no registro na recepção para cada dia de entrada no local.
-• Caso não consiga enviar minha foto pelo bot MELI Help Support, existe alguma outra possibilidade? 
-Além da opção de autogestão por meio do bot MELI Help Support, você pode fazer isso presencialmente no MELI Help do campus. Se tiver algum problema com o registro, entre em contato com corporatesecurity.mlb@mercadolivre.com. 
+• Caso não consiga enviar minha foto no Portal Meli Help, existe alguma outra possibilidade? 
+Além da opção de autogestão por meio do Portal da Meli help, você pode fazer isso presencialmente no MELI Help do campus. Se tiver algum problema com o registro, entre em contato com corporatesecurity.mlb@mercadolivre.com. 
 • Posso enviar a foto do meu celular? 
 O processo não funciona em dispositivos móveis, apenas em notebooks corporativos.
 • Para profissionais terceiros o processo de envio da foto é o mesmo? 
 Sim. O processo é o mesmo e pode ser realizado de duas formas: através do portal MELI Help (https://melihelp.adminml.com/board?openChatbot=true) ou de maneira presencial com um assistente do MELI Help no campus.
 • Ao tentar enviar minha foto, apareceu uma mensagem de erro por um problema com o LDAP, o que devo fazer? 
 Em caso de algum inconveniente com o registro dos seus dados ou acessos, você pode ir ao MELI Help ou escrever para corporatesecurity.mlb@mercadolivre.com. 
-• Enviei a foto no bot MELI Help Support e apareceu uma mensagem de que não pode processar imagens ou arquivos anexos. O que devo fazer? 
+• Enviei a foto no portal Meli Help e apareceu uma mensagem de que não pode processar imagens ou arquivos anexos. O que devo fazer? 
 Em caso de algum inconveniente com o registro dos seus dados ou acessos, você pode ir ao MELI Help ou escrever para corporatesecurity.mlb@mercadolivre.com. 
 • Para os visitantes, o MELI Pass continua sendo válido e será suficiente para garantir o ingresso dessas pessoas em Melicidade? 
 Sim, o MELI Pass continua sendo válido para os visitantes e é suficiente para entrar no campus.
