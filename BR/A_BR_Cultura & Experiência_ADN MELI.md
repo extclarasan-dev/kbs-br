@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura & Experiência_ADN MELI
 link: https://docs.google.com/document/d/11ki0n9UTjk2ZOS4S7b3AywAiAQXdSotdRZL54XWKvtQ/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-16T19:59:59.085Z
+atualizado_no_drive: 2026-10-30T14:28:45.579Z
 ---
 
 TÍTULO DA KL:
@@ -46,11 +46,10 @@ Decision Making
 Data Driven
 Subtraction
 Gostaria de elogiar um funcionário / Onde encontro informações sobre o BE Adn MELI?
-Os reconhecimentos podem ser realizados no google chat, acesse no  bot “Support”,informe que você deseja fazer um reconhecimento e siga o fluxo do bot.
+Os reconhecimentos podem ser realizados no chat da Employee Agent, informe que você deseja fazer um reconhecimento e siga o fluxo do bot.
 Nas seguintes wikis pode encontrar mais informações sobre reconhecimento no Meli: https://wiki.adminml.com/page/3589156081325483 
 
 SUPORTE:
-Bot de reconhecimento: Google Chat > ​​Bots > Suporte .
 
 Wiki de Reconhecimentos: https://wiki.adminml.com/page/3589156081325483 
 
