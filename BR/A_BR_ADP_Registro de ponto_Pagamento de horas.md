@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Registro de ponto_Pagamento de horas
 link: https://docs.google.com/document/d/1--g3q6fa3vdbKlogEoxWpawB4ivLTVtxmW_HZUnyIvM/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-02T14:00:18.318Z
+atualizado_no_drive: 2026-10-30T19:47:50.950Z
 ---
 
 TÍTULO DA KL:
@@ -97,7 +97,7 @@ Quais são as datas de pagamento de sobreaviso?
 O sobreaviso é pago na folha de pagamento, ou seja, último dia útil do mês.
 Posso trabalhar no meu dia de folga? 
 Para avaliar se você pode trabalhar na sua folga, por favor comunique-se com seu líder.
-Que pode me ajudar se tenho duvidas sobre a escala 6x2? 
+Que pode me ajudar se tenho dúvidas sobre a escala 6x2? 
 Se você tem dúvidas sobre a escala 6x2, comunique-se com seu líder para que ele possa ajudá-lo.
 
 Onde posso tirar dúvidas sobre o pagamento de horas? 
