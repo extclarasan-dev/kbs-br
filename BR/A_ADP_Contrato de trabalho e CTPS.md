@@ -1,7 +1,7 @@
 ---
 titulo: A_ADP_Contrato de trabalho e CTPS
 link: https://docs.google.com/document/d/1_vA6totVreWzrFQ3fKGT6DxzPRblNrtJOZv-qd4piOg/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-21T21:26:16.114Z
+atualizado_no_drive: 2026-10-30T13:29:02.823Z
 ---
 
 TÍTULO DA KL:
@@ -12,11 +12,15 @@ A Carteira de Trabalho e Previdência Social (CTPS) é o documento que registra 
 REQUISITOS:
 Disponível para todos os empregados de Mercado Livre Brasil.
 PROCEDIMIENTO:
-Como posso assinar meu contrato de trabalho?
-Você poderá realizar a assinatura do contrato se trabalho por algum dos seguintes 3 meios: 
-Por a plataforma da Unico: Você poderá realizar a assinatura do seu contrato na plataforma Único por meio do seguinte link: https://sign.acesso.io/mysign/login.
-Por email: Para realizar a assinatura do contrato de trabalho por email, acesse seu email e busque o remetente robot@sign.acesso.io. Após localizá-lo, realize a abertura do envelope com os documentos para assinatura do contrato.  
-Por celular: Você vai receber o contrato via SMS através do número 29409.
+Como posso acessar e assinar meu contrato de trabalho?
+O contrato de trabalho ficará disponível em até 3 dias úteis após a data de admissão, e o acesso para assinatura dependerá da plataforma utilizada no seu processo de contratação: Único ou EMI.
+1. Contratação via plataforma dá Único: O funcionário recebe um link (via e-mail/SMS) para acessar o sistema e realizar a assinatura digital.
+Também poderá acessar por meio do seguinte link: https://sign.acesso.io/mysign/login.
+
+2. Contratação via EMI: O contrato de trabalho fica disponível diretamente na ferramenta Tu Recibo (TR), em até 3 dias úteis após a data de entrada.
+No primeiro acesso, a senha provisória é enviada ao seu e-mail pessoal cadastrado. Se não encontrá-la, use “Esqueceu sua senha?” na plataforma.
+ 
+Em caso de dúvidas busque o recrutador responsável pela sua admissão.
 Como posso acessar a minha carteira de trabalho digital (CTPS) ?
 Para acessar a sua carteira de trabalho digital (CTPS) basta baixar o App com nome Carteira Digital na loja App store ou Apple Store. 📱   
 PERGUNTAS FREQUENTES:
@@ -35,7 +39,6 @@ Para dúvidas/consultas relacionadas a mudança de site, com quem devo entrar em
 Para dúvidas/consultas referentes a mudança de site, por favor, entre em contato com o seu líder.
 SUPORTE:
 Link da Unico pela assinatura do contrato de trabalho: https://sign.acesso.io/mysign/login. 
-
 
 INFORMAÇÃO PARA AGENTES:
 PROCEDIMIENTO PARA AGENTES: 
