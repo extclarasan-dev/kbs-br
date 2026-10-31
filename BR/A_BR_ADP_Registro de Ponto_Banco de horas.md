@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Registro de Ponto_Banco de horas
 link: https://docs.google.com/document/d/1CCLZULJ3ZBKLKzwZVzuHSbf5EBTRhR0stUsSYlLHr3Y/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-21T22:08:56.575Z
+atualizado_no_drive: 2026-10-30T19:50:25.709Z
 ---
 
 TÍTULO DA KL:
@@ -45,7 +45,6 @@ No caso da escala aplicada a você, 5 dias tem a carga horária de 7h40 + 1 dia 
 Lembrando que a quantidade de horas dia, com a escala 6x2, a semana não fecha em 44 horas semanais, por este motivo uma folga segue como DSR e a outra segue como compensatória.
 (desconto do banco de horas, para pagar as horas futuramente).
 Com esse desconto nas folgas compensatórias, no final do mês chegamos na quantidade da sua carga mensal de 220 horas.
-
 Como é pago o feriado trabalhado na escala 6x2?
 Por consultas sobre o pagamento do feriado trabalhado na escala 6x2 por favor, entre em contato direto com seu gestor.
 
