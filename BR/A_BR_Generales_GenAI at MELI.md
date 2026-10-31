@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Generales_GenAI at MELI
 link: https://docs.google.com/document/d/1lZZ33sE3BG94ICOOdm0luM3g1Z3aWUWNv4MXAZSdxqA/edit?usp=drivesdk
-atualizado_no_drive: 2026-05-15T20:17:34.339Z
+atualizado_no_drive: 2026-10-30T17:36:41.761Z
 ---
 
 TÍTULO DE LA KB:
@@ -87,7 +87,7 @@ Não é um único produto: é uma família de ferramentas desenhadas para distin
 
 Como faço para solicitar a licença Claude?
 A licença do Claude é solicitada através do Azir, no seguinte link: https://azir.adminml.com/
-Após solicitar a licença, instale o Claude Code e o Claude Desktop através do bot do Meli Help Support, no seguinte link: https://melihelp.adminml.com/board?openChatbot=true.
+Após solicitar a licença, instale o Claude Code e o Claude Desktop através do seguinte link: https://melihelp.adminml.com/board?openChatbot=true.
  
 Para mais informações sobre o Claude, acesse a seguinte Wiki: https://wiki.adminml.com/page/3959227554320142?lang=en
 
