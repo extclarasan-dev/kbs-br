@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Outras dúvidas
 link: https://docs.google.com/document/d/1CJ2R4nZg9jCWixfejyTySOGv1mGnMcZmZtqpsmb5d78/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-24T14:06:47.758Z
+atualizado_no_drive: 2026-10-30T15:45:37.767Z
 ---
 
 TÍTULO DA KL:
@@ -27,7 +27,7 @@ Os descansos em feriados são para o respectivo dia do feriado.
 Os feriados são cadastrados por localização, e não individual por empregado. Não é possivel tratativas no ponto nesse sentido.
 Problemas com VPN
 Será necessário que você entre em contato com o time de TI.
-Você pode iniciar uma conversa com o BOT do time especializado através do Bot de Support > IS e seg inf em google chat.  
+Você pode iniciar uma conversa com o time especializado IS através do chat da Employee Agent.
 E também pode se contatar por e-email e informar sobre o seu problema:
 👉 Melihelp Support Br <melihelp.support@mercadolibre.com>
 Meu Ahgora está com erro, o que devo fazer?
