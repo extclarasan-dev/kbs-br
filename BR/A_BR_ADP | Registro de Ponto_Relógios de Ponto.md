@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP | Registro de Ponto_Relógios de Ponto
 link: https://docs.google.com/document/d/1YOww164I8YnLDeFA82p4XZ6BIlQyZjrLlcxrYA9Fds0/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-21T21:52:02.151Z
+atualizado_no_drive: 2026-10-30T17:35:21.159Z
 ---
 
 TÍTULO DA KL:
@@ -20,8 +20,7 @@ Crachás com Qrcode apagados ou rasuras: Os crachás com Qrcode apagados ou rasu
 Casos de código MIFARE duplicado:
 Se seu código MiFare do crachá está duplicado com o de outro colaborador. Nessa situação, você deve solicitar uma nova via à equipe Meli Help. Informe que, ao solicitar a segunda emissão, você está pedindo uma nova emissão devido a um problema na confecção do crachá, que não está conseguindo registrar o ponto, e por esse motivo, a segunda via do crachá não pode ser cobrado do colaborador.
 Segue formas de contato: 📧 melihelp.support@mercadolibre.com
-Ou você pode se contatar pelo BOT para realizar suas consultas e requisições relacionadas com Recepção e Facilities. Pode procurá-lo como Support > Meli help no google chat. 
-
+Ou você pode se contatar pelo chat da Employee Agent para realizar suas consultas e requisições relacionadas com Recepção e Facilities. 
 INFORMAÇÃO PARA AGENTES:
 O código Mifare pode ser de 5 ou 8 dígitos, as localidades que tem 8 dígitos sao: 
 
