@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Vale Refeição
 link: https://docs.google.com/document/d/16MKTC3nxUzjoFE3Ia-FKPXDMMcX7YY0F1y8SWuYn9Fc/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-05T16:26:35.551Z
+atualizado_no_drive: 2026-10-30T19:05:24.308Z
 ---
 
 TÍTULO DA KB:
@@ -79,6 +79,10 @@ Sim, o Vale Refeição é descontado, sendo contabilizado proporcionalmente pelo
 
 • O VR é pago em casos de afastamento? 
 Não. O Vale Refeição não é pago em casos de afastamentos. O benefício é interrompido durante o afastamento e será reativado em seu retorno, após comunicar o Time de Saúde Ocupacional.
+
+• Quando receberei o crédito do Vale-Refeição (VR) após o afastamento?
+O crédito do Vale-Refeição (VR) para funcionários afastados é realizado no dia 15 de cada mês, conforme as atualizações registradas no sistema pela equipe de Saúde Ocupacional.
+Se as alterações forem registradas até o dia 10, o crédito será realizado no dia 15 do mesmo mês. Caso sejam registradas após essa data, o crédito será realizado no dia 15 do mês seguinte.
 
 • Me afastei da licença maternidade, tenho direito a receber o Vale Refeição?
 Não. O Vale Refeição não é pago em casos de licença maternidade. O benefício é interrompido durante a licença e será reativado em seu retorno, após comunicar o Time de Saúde Ocupacional.
