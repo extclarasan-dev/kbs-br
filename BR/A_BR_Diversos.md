@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos
 link: https://docs.google.com/document/d/1WOMJ81xtrJI8biXJmFXVJ2panxyCPqUTH6MwTmPVCBQ/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T17:53:30.028Z
+atualizado_no_drive: 2026-10-30T14:08:58.686Z
 ---
 
 TÍTULO DA KL:
@@ -84,9 +84,6 @@ Clique no ícone correspondente no canto inferior direito de sua tela e selecion
 Acessos MELI
 Alteração do gestor primário ou secundário no MORDOR.
 Este tema é necessário que você verifique diretamente com o seu PBP (INFORMAR NOME E E-MAIL), em casos de dúvidas favor entrar em contato com o time de IT: melihelp.support@mercadolibre.com
-Empregado não possui acesso ao People Chat no Google chat?
-Por gentileza, encaminhe um e-mail para incidentepeolechat@mercadolivre.com, informando o e-mail corporativo afetado e o número do RE.
-O suporte será realizado por meio desse e-mail.
 Advertência
 Gostaria de saber quanto tempo após uma advertência é necessário esperar para ser promovido?
 Após sofrer uma advertência, é necessário aguardar um período de 6 meses para que seja promovido(a). Em casos de dúvidas, favor acionar o seu líder (INFORMAR NOME E E-MAIL).
@@ -123,8 +120,7 @@ Além do calendário do Google para as reservas de salas de reunião, contamos c
 Dá uma olhadinha clicando aqui, preparamos um material bem completo e instrutivo para as reservas: https://docs.google.com/presentation/d/1Mkith15j4LJf7LxNI288xr56mZ0uShVMoxMl3dz8bcA/edit?slide=id.g2d53d6c4889_1_45#slide=id.g2d53d6c4889_1_45 
 ➡️ Esse é o e-mail do time de eventos para dúvidas ou inconsistências ao realizar os agendamentos: eventos.melicidade@mercadolivre.com
 Caso queira reservar uma sala em Polo Dot - Argentina
-Por gentileza escreva para o bot da Recepção para que possam ajudá-lo.Poderá encontrar o bot de Recepção em Google chat > bot > Support
-Caso não encontre a opção certa para sua consulta, você pode selecionar “Fale Conosco” para falar com alguém da equipe.
+Por gentileza escreva para o chat da Employee Agent para que possam ajudá-lo.
 Segurança do Trabalho
 Qual o Plano de Atendimento de Emergência- PAE?
 Conheça nosso Plano de Atendimento de Emergência da Melicidade.: https://drive.google.com/file/d/1HH2S__MN7FruYyKfsu0xb70WNQlGAZ4h/view 
@@ -138,7 +134,7 @@ OKTA
 O que é Okta? 
 Com o objetivo de fortalecer a segurança do acesso ao nosso ecossistema interno e após uma análise minuciosa, decidimos executar a migração do nosso conhecido login do Auth0 para o Okta.
 
-Se você tiver algum problema com a configuração do Okta ou dúvidas sobre o processo de migração, pode escrever para: Google Chat > Bots > Support Meli Help ou para o email melihelp.support@mercadolibre.com
+Se você tiver algum problema com a configuração do Okta ou dúvidas sobre o processo de migração, pode escrever para o chat da Employee Agent ou para o email melihelp.support@mercadolibre.com
 
 Para mais detalhes, fornecemos o link para a Wiki: https://wiki.adminml.com/page/3928238587417229 
 
