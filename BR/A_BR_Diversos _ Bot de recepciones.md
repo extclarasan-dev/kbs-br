@@ -1,16 +1,16 @@
 ---
 titulo: A_BR_Diversos _ Bot de recepciones
 link: https://docs.google.com/document/d/14KWuNWM6GsOZ6ARi5sOwNmdIRJnG78RY15WhgZEaJx8/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-15T15:40:44.604Z
+atualizado_no_drive: 2026-10-30T15:41:56.168Z
 ---
 
 TÍTULO DA KL:
 A_BR_Diversos _ Bot de recepciones
 RESUMO:
-O bot de recepções permite que os funcionários do Mercado Livre realizem suas consultas e requisições relacionadas com Recepção e Facilities. 
+Este documento contém informações sobre as consultas e solicitações relacionadas à Recepção e Facilities, que podem ser realizadas por meio do Employee Agent.
 PROCEDIMENTO:
-Para contatar o bot de recepções (Real estate ou Melihelp): Google Chat > Bots > Support > e escreva “Recepções”.
-Será possível consultar o chat de recepções (Real estate ou Melihelp) sobre os seguintes temas:
+Para entrar em contato com a equipe de Recepções, acesse o chat da Employee Agent e escreva a sua consulta.
+Será possível consultar no chat sobre os seguintes temas:
 👨‍💼 Crachás
 🚗 Táxi -Plataforma Uber e 99
 🚘 Adesão e atualização de cadastro estacionamento
@@ -25,7 +25,7 @@ Será possível consultar o chat de recepções (Real estate ou Melihelp) sobre 
 📶 Senha do Wi-Fi: Meli Guest
 Caso não encontre a opção adequada para sua consulta, você poderá solicitar "falar com uma pessoa” para falar com uma pessoa da equipe.
 Solicitações para alterar a temperatura do ar-condicionado no escritório:
-Para solicitar a modificação da temperatura do ar-condicionado, no escritório do Meli em que você se encontra, você deverá contatar as recepções em: Google Chat > Bots > Support > escreva “Recepções”.
+Para solicitar a modificação da temperatura do ar-condicionado, no escritório do Meli em que você se encontra, você deverá contatar o chat da Employee Agent. 
 Acceso empregados externos, aprendizes, fornecedores e visitantes a os escritórios
 Nossos escritórios estão abertos para promover a conexão entre diferentes equipes e receber as visitas necessárias! 
 O acesso de visitantes aos escritórios será permitido e os empregados poderão entrar nos escritórios como visitantes.
@@ -36,14 +36,13 @@ Veja como é fácil registrar o seu convidado para acesso aos nossos escritório
 Para complemento segue o tutorial, só clicar neste Link: https://docs.google.com/presentation/d/1xy_xtY1wDyQ9nqP_mBQUw2IQ02yQlZta/edit#slide=id.p1 
 PERGUNTAS FREQUENTES:
 Preciso reservar uma sala no escritório:
-Você poderá reservar os meets, salas de reunião para doze pessoas, pelo Google Calendar ou presencialmente. Para salas de maior capacidade, você pode contatar a recepção por e-mail, ou pelo Chat de Recepções para consultas.
+Você poderá reservar os meets, salas de reunião para doze pessoas, pelo Google Calendar ou presencialmente. Para salas de maior capacidade, você pode contatar a recepção por chat da Employee Agent. 
 Estou planejando um evento on site, onde posso encontrar informações sobre o suporte que tenho nas diferentes áreas?
 Você poderá encontrar todas as informações relevantes para organizar seu evento on site na seguinte Wiki Eventos On Site.
 Onde posso consultar a entrada de visitas/externos aos escritórios?
-Para consultas sobre o acesso de visitas ou externos aos escritórios, você deverá escrever nesse bot “Quero agendar uma visita” ou “Quero reservar uma visita”.
-Em caso de não conseguir agendar a visita por este chat, você deverá entrar em contato com a equipe do Meli Help. Para acessar o Bot do Meli Help Support, acesse Google Chat > Bots > Support > escreva “Meli Help”.  
+Para consultas sobre o acesso de visitas ou externos aos escritórios, você deverá escrever neste chatt “Quero agendar uma visita” ou “Quero reservar uma visita”.
 Quais são os horários dos escritórios?
-Para consultas sobre os horários dos escritórios, você deverá contatar o Bot de Recepciones: Google Chat > Bots > Support > escreva “Recepções”.
+Para consultas sobre os horários dos escritórios, você deverá contatar o chat da Employee Agent. 
 Onde fica o Melihelp da Melicidade?
 🚩O Melihelp fica localizado no Bloco A - Térreo - atrás do quadrante de Chuí.
 Horários de Funcionamento:
@@ -52,7 +51,7 @@ Onde fica o Melihelp Facilities da Melicidade?
 🚩O Melihelp Facilities fica localizado no Melihelp, em frente a Le Pain.
 Estarei de férias em outro país que tem escritório MELI, posso visitar para conhecer? Posso levar algum familiar?
 Sim, os escritórios MELI estão abertos a todos os empregados! 
-Para acessar um escritório MELI de outro país, por favor, entre em contato com o BOT Recepções no Googlechat > Bot > Support, para agendar a visita. Sobre poder levar algum familiar, pedimos que também tire sua dúvida através deste BOT.
+Para acessar um escritório MELI de outro país, por favor, entre em contato com o chat da Employee Agent, para agendar a visita. Sobre poder levar algum familiar, pedimos que também tire sua dúvida através deste chat. .
 Sou funcionário de Floripa/CAD's, posso visitar a MELICIDADE?
 Claro que sim, nossos escritórios estão abertos para promover a conexão entre diferentes equipes e receber as visitas!
 ✔ Ah, vale lembrar que não é mais necessário  abrir um ticket por meio do Shield, na categoria MLB - Acesso a outros sites para que possa nos visitar 
@@ -109,7 +108,6 @@ INFORMAÇÕES PARA AGENTES:
 Novidade de outubro | Escape the Complacency Room
 Durante outubro, o Escape the Complacency Room chega aos sites Polo Dot, Melicidade e Melitlán.
 Diante dúvidas relacionadas à experiência do Escape the Complacency Room, consultar a wiki Complacency Room Site Experience Guide, onde se encontra a informação de referência correspondente: https://wiki.adminml.com/page/complacency-room-site-experience-guide 
-Bot de Recepções: Google Chat > Bots > Support > Recepções
 NOTAS INTERNAS PARA AGENTES:
 Vi que o Mercado Livre tem parceria com o coworking WOBA, posso trabalhar nesses escritórios?
 Fonte: Luciano Rafael Oliveira E Silva
