@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Analitycs_Presencialidade 
 link: https://docs.google.com/document/d/1WRHgfyIODKVYNSrH3hal7FummqdZVBn-mkOztdLlLj8/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-26T14:09:24.866Z
+atualizado_no_drive: 2026-10-30T19:32:47.637Z
 ---
 
 TÍTULO DA KL: 
@@ -123,6 +123,16 @@ Devido a esta normativa, as solicitações que superarem esse prazo não serão 
 Onde posso consultar a informação de presencialidade / assistência?
 Os líderes podem consultar os dados atuais de presencialidade própria e de sua equipe a partir de Home > Manage Team.
 Cada colaborador que se aplique às diretrizes de presencialidade/assiduidade pode consultar suas próprias métricas em nosso chat.
+Quantos dias por mês devo ir ao escritório para cumprir com o meu target de presencialidade de 20%?
+Não existe uma quantidade fixa de dias de assistência mensal, já que o cálculo é realizado sobre os dias úteis reais de cada mês, excluindo finais de semana e feriados. Para determinar a base de cálculo, são descontados os dias de Work From Anywhere (WFA) e as licenças correspondentes ao mês que estejam registradas no SuccessFactors.
+ 
+Exemplo de cálculo: Se o mês tiver 20 dias úteis e você não registrar dias de WFA nem licenças, deverá cumprir com 4 dias de conexão presencial (20 × 20%).
+Se durante esse mesmo mês você registrar 5 dias de licença, a base de cálculo será reduzida para 15 dias úteis e as porcentagens serão calculadas sobre esse novo total.
+ 
+Quantos dias por mês devo ir ao escritório para cumprir com o meu target de presencialidade de 40%?
+Não existe uma quantidade fixa de dias de assistência mensal, já que o cálculo é realizado sobre os dias úteis reais de cada mês, excluindo finais de semana e feriados. Para determinar a base de cálculo, são descontados os dias de Work From Anywhere (WFA) e as licenças correspondentes ao mês que estejam registradas no SuccessFactors.
+Exemplo de cálculo: Se o mês tiver 20 dias úteis e você não registrar dias de WFA nem licenças, deverá cumprir com 8 dias de conexão presencial (20 × 40%).
+Se durante esse mesmo mês você registrar 5 dias de licença, a base de cálculo será reduzida para 15 dias úteis e as porcentagens serão calculadas sobre esse novo total.
 SUPORTE: 
 Wiki Presencialidad: https://wiki.adminml.com/page/3959227554319799 
 Wiki | Presencialidad FAQs: https://wiki.adminml.com/page/3959227554319800  
@@ -138,53 +148,6 @@ INFORMAÇÃO PARA AGENTES:
 -No chat não se especifica os dias em que compareceu ou em qual site esteve presencialmente. 
 -Não se especificam os dias em que compareceu nem em qual site esteve presencialmente, portanto, nos irão compartilhar um painel para que possamos validar as informações. Caso a informação indicada pelo funcionário não conste nesse painel, pode ser um problema de conexão Wi-Fi, já que é o Wi-Fi corporativo que contabiliza a presença, ou também pode haver algum problema de registro em seu computador, o que deverá ser verificado com a equipe de Sistemas Internos para validar o ocorrido - (Não informar aos funcionários) 
 -Não será aceita ausência total de presencialidade em colaboradores individuais.
-Detalhe de presença exigida por jodcode: 
--Para funcionários com os seguintes códigos de trabalho devem ter mais de 40% de presença presencial no trimestre:
-80001635-Gerente
-80001681-Gerente - IT
-80001703-Gerente SAdmin
-80001634-Gerente Senior 
-80001694-Gerente Senior - IT 
-80001704-Gerente Senior SAdm 
-80001725-Senior Expert IT 
-80001726-Senior Expert		
-80001633-Director
-80001707-Senior Director
-80001738-Principal / Principal Sr
-80001761-Executive Chairman 
-80001762-CEO 
-80001763-President 		
-80001630-Vicepresidente Ejecutivo
-80001631-Vicepresidente Senior
-80001632-Vicepresidente	
-- Para funcionários com os seguintes códigos de trabalho devem ter mais de 20% de presença presencial no trimestre:
-80001720-Team Leader - Shipping
-80001727-Team Leader
-80001641-Líder de Equipo
-80001641-Team Leader Cx	
-80001640-Senior Team Leader Cx
-80001728-Team Leader Senior
-80001736-Sr Team Leader - Shipping	
-80001637-Supervisor
-80001638-Líder Técnico - IT
-80001639-Líder de Proyecto - IT
-80001682-Supervisor - IT
-80001685-Supervisor - Cust. Exp.
-80001702-Supervisor SAdm
-80001705-Líder Profesional SAdm
-80001721-Coordinator - Shipping
-80001722-Specialist
-80001743-Specialist SAdm	
-80001723-Expert IT
-80001724-Expert
-80001744-Expert SAdm
-80001745-Executive Assistant
-	
-
-- Individual contributor  (Up to Sr Analyst , Technical Leader sem equipe):
-Você deve registrar alguma presença no trimestre, a presença nula não é permitida.
-
-- New hires  - All BUs & seniorities:  Devem ir pessoalmente ao escritório 2 vezes por semana durante os primeiros 100 dias (onboarding) (equivalente a 40%)
 - Para os colaboradores Reps, e operadores logísticos não aplicam esta política, pois devem comparecer diariamente aos seus escritórios, eles precisam ver diretamente com o seu líder.
 Sou REP/Operador Logistico e não consigo ver a presencialidade no fluxo do BOT, dá a mensagem: “⚠️Opa, deu um erro na ferramenta e não conseguimos registrar seu pedido corretamente. Se tiver alguma dúvida, pode falar com a sua liderança.”
 - Para os colaboradores Reps, e operadores logísticos não aplicam esta política, pois devem comparecer diariamente aos seus escritórios, eles precisam ver diretamente com o seu líder sobre os critérios.
@@ -282,31 +245,6 @@ Foi habilitada a possibilidade de os funcionários visualizarem seu percentual d
 No chat não são especificados os dias assistidos nem em qual site houve presença.  
 Para hispânicos, a presença de funcionários que moram a mais de 150 km do seu site, se forem supervisores ou cargos superiores, deve cumprir com o percentual de presença. Caso sejam da equipe de TI e consultem sobre isso, devem validar com seu líder ou PBP.
 Não será aceita ausência total de presença para colaboradores individuais. O cálculo de presença é feito com base na média de dias úteis por mês, considerando dias de licença, feriados, dias não úteis e os dias com conexão à rede Corp ou MELI-Corp.
-
-
-
-
-Publicação 15/05/2026:
-
-A presencialidade potencializa nossos resultados, nos permite multiplicar nosso ADN e nos mover mais rápido para superar nossos limites.
-
-Hoje, mais de 40% dos Managers trabalham on-site mais de 40% do tempo. Para continuar impulsionando estas dinâmicas, definimos aumentar a sua pauta de presencialidade de 20% a 40% do tempo por trimestre.
-
-A partir do plano de expansão dos nossos sites, poderemos implementar esta nova pauta de forma gradual por país:
-Argentina, Peru e Venezuela: junho
-Chile: julho
-Brasil, México e Uruguai: agosto
-Colômbia: outubro
- 
-O avanço do indicador de presencialidade será refletido no dashboard ao fechamento do trimestre correspondente à implementação de cada país. Contamos com a Home > Manage Team ou People Chat para consultar os dados atuais. Na Wiki você encontrará mais detalhes.
-
-Os espaços cara a cara, tanto com a nossa equipe direta como com outras equipes, são momentos-chave para disseminar nossa cultura e continuar ganhando nos próximos anos.
- 
-Stay Hungry, Zero Complacency.
-
-
-→07/10/2026 atualização wiki: a nova pauta de presencialidade do 40% para managers e experts será a partir de novembro 2026. 
-
 
 
 LINKS PARA AGENTES:
