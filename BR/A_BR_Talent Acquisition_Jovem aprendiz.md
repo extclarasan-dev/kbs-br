@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent Acquisition_Jovem aprendiz
 link: https://docs.google.com/document/d/1uyJ4lJLa4eFO_De2AbvneGG7sXVSHRtjrdR-e7yGj0U/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T19:31:45.078Z
+atualizado_no_drive: 2026-10-30T15:53:18.968Z
 ---
 
 TÍTULO DA KL:
@@ -183,7 +183,7 @@ Como solicitar as credenciais do meu jovem aprendiz?
 O gestor é responsável por abrir um chamado solicitando o crachá de seu jovem aprendiz, através do chamado no link: https://shield.adminml.com/c/603
 As informações necessárias para solicitação de crachá são enviadas pela instituição formadora, e pela gestão do programa, próximo a data de admissão do aprendiz.
 Os gestores devem receber uma lista com os usuários e e-mail MELI dos jovens, e também um tutorial de como alterar a senha deles em sistema em caso de problemas em acessos.
-Em caso de dúvidas sobre o preenchimento, você pode acessar o Meli Help https://melihelp.adminml.com/board, abrir o Bot “MELI Help Support”, localizado no canto direito da tela e escrever “Como preencher o campo xxxxxxx de solicitação de crachá de novo colaborador“.
+Em caso de dúvidas sobre o preenchimento, você pode acessar o Meli Help https://melihelp.adminml.com/board, abrir o asistente, localizado no canto direito da tela e escrever “Como preencher o campo xxxxxxx de solicitação de crachá de novo colaborador“.
 Que devo fazer se a senha e/ou os acessos do jovem aprendiz expiraram?
 Os jovens aprendizes do Meli são contratados como EXT, por isso há alguns cuidados e ações que serão necessárias por parte da liderança. 
 No caso de acesso expirado, será necessário acessar o portal Meli Help.
