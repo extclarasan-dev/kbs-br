@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_ Vale Alimentação
 link: https://docs.google.com/document/d/15TPmZhmX5jEPgm5t3LmmGarFYuqoqJ6D2eWINbt4bdw/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-16T15:49:05.917Z
+atualizado_no_drive: 2026-10-30T19:06:12.747Z
 ---
 
 TÍTULO DA KL:
@@ -36,17 +36,30 @@ Mensalmente será disponibilizado, no último dia do mês, o crédito do valor c
 
 Mas, a data de crédito do benefício de vale-alimentação varia caso o funcionário seja recém-admitido ou caso tenha realizado, dentro do mês, uma modificação do e-mail do marketplace cadastrado: 
 
-1- Pagamento do VA nos meses posteriores à admissão, para funcionários que tenham alterado o e-mail cadastrado:
+1- Pagamento para funcionários que tenham alterado o e-mail cadastrado (nos meses posteriores à admissão):
 O pagamento do Vale alimentação é feito em duas datas possíveis, no dia 15 ou 30 do mês, dependendo de quando você cadastrou seu email de marketplace:
-• Para receber o crédito do Vale alimentação no dia 30 do mês, o cadastro do e-mail Marketplace tem que ser atualizado ou cadastrado até dia 15 do mês.
+ 
 • Para receber o crédito do Vale alimentação no dia 15, o cadastro precisa ser atualizado até dia 05 do mês.
-• Importante!: Se a data limite para atualizar seu e-mail do marketplace (dia 05 ou 15) cair em um final de semana ou feriado, a data limite será antecipada para o último dia útil ANTERIOR a essa data.
+ 
+• Para receber o crédito do Vale alimentação no dia 30 do mês, o cadastro do e-mail Marketplace tem que ser atualizado ou cadastrado até dia 15 do mês.
+ 
+Se a data limite para atualizar seu e-mail do marketplace (dia 05 ou 15) cair em um final de semana ou feriado, a data limite será antecipada para o último dia útil ANTERIOR a essa data.
+ 
+IMPORTANTE: Qualquer alteração ou atualização do e-mail atrasa o pagamento dos benefícios.
+Se o e-mail do marketplace for alterado ou atualizado a partir do dia 16 do mês, o benefício não será pago no último dia útil do mês. Nesse caso, será necessário aguardar a próxima tentativa de crédito, que ocorrerá no dia 15 do mês seguinte.
+
+Você pode consultar a data da alteração na seção E-mail marketplace da plataforma SuccessFactors.
+ 
 • Pagamento retroativo: Se você não carregou o seu E-mail Marketplace Meli ou se o carregou incorretamente, receberá todos os valores que são devidos a partir da sua data de admissão até a próxima tentativa de pagamento. Isso significa que qualquer valor pendente desde o início do seu vínculo será incluído após preenchimento correto do email.
 
+
 2- Pagamento do VA durante o mês de admissão (recém-admitidos):
-Durante o mês de admissão, o sistema tenta realizar o pagamento do Vale alimentação todas as segundas-feiras, mas o dia em que o benefício cai vai depender de quando você carregar seu email no marketplace:
+Durante o mês de admissão, o sistema tenta realizar o pagamento do Vale alimentação todas as segundas-feiras até o fim do mês de admissão, mas o dia em que o benefício cai vai depender de quando você carregar seu email no marketplace:
 • Para receber o pagamento na próxima segunda-feira: Você deverá cadastrar seu email marketplace antes da quarta-feira da semana anterior.
-• Tentativas de pagamento: No mês de admissão, as tentativas de crédito ocorrem todas as segundas-feiras até o fim do mês de admissão.
+• Se você cadastrar ou alterar seu e-mail após a quarta-feira, não receberá o pagamento na segunda-feira seguinte, mas somente na segunda-feira da semana subsequente.
+ 
+EXCEÇÃO: admitidos a partir da terceira semana do mês, ou seja, a partir do dia 21, recebem o benefício no 5º dia útil do mês seguinte.
+ 
 • Pagamento retroativo: você receberá todos os valores que são devidos a partir da sua data de admissão até a próxima tentativa de pagamento. Isso significa que qualquer valor pendente desde o início do seu vínculo será incluído após preenchimento correto do email.
 
 
@@ -76,7 +89,6 @@ Durante o mês de admissão, o sistema tenta realizar o pagamento do Vale alimen
     ◦ Onde o Vale Alimentação (VA) NÃO é Aceito: Compras em restaurantes, fast-foods, lanchonetes, lojas de conveniência, bares/lojas de bebidas alcoólicas.
 
 • Solução de Problemas:
-	◦ Conta Mercado Pago bloqueada ou suspeita de fraude: Pode informar sua conta de MP bloqueada por meio do fluxo deste chat para que seja analisada.
        ◦ Problemas transacionais (compras ou gestão do benefício): Acesse o aplicativo Mercado Pago, vá ao menu “Seus benefícios” e, ao final da tela, clique em “Preciso de ajuda”. Você poderá escolher entre as opções: Como usar o saldo, Problemas com Compras, ou Gestão de benefícios. Se não conseguir se auto atender, digite “Quero entrar em contato com um agente” no chat.
 • Compras Online:
     ◦ Para usar o benefício de VA em compras online, gere o cartão virtual no aplicativo Mercado Pago e cadastre-o no aplicativo ou site onde deseja realizar a compra.
@@ -179,11 +191,12 @@ A solicitação para realizar a transferência de valores entre seu VA deve ser 
 Voltei de afastamento e estou sem o benefício do Vale Alimentação, podem verificar? 
 O benefício do Vale Alimentação é suspenso durante o período de afastamento e reativado após o seu retorno. Para que a reativação ocorra, é necessário que o time de Saúde Ocupacional tenha sido acionado e os documentos de retorno devidamente entregues.
 
-O cronograma e forma de pagamento do Vale Alimentação após retornar do período de afastamento é o seguinte:
-Primeiro mês de retorno: A análise dos retornos é feita por volta do dia 15 de cada mês. Se o seu retorno for registrado até esta data, o valor devido será pago via folha de pagamento. Caso ocorra após o dia 15, o crédito será processado no ciclo do mês seguinte.
-Meses seguintes: A partir do segundo mês após o retorno, o benefício volta a ser creditado diretamente no seu cartão.
+Quando receberei o crédito do Vale-Alimentação (VA) após o afastamento?
+O crédito do Vale-Alimentação (VA) para funcionários afastados é realizado no dia 15 de cada mês, conforme as atualizações registradas no sistema pela equipe de Saúde Ocupacional.
  
-Para consultar a política completa, acesse: Minha proposta de valor > Benefícios > Alimentação > Vale Alimentação.
+Se as alterações forem registradas até o dia 10, o crédito será realizado no dia 15 do mesmo mês. Caso sejam registradas após essa data, o crédito será realizado no dia 15 do mês seguinte.
+
+Meses seguintes: A partir do segundo mês após o retorno, o benefício volta a ser creditado diretamente no seu cartão.
  
 Como posso consultar o valor do meu benefício de Vale-Alimentação? Qual é o valor do VA para mim?
 Caso você tenha dúvidas sobre o valor ou queira consultar mais detalhes sobre o seu benefício de Vale-Alimentação, acesse a Sua Proposta de Valor > Benefícios > Alimentação > Vale Alimentação para visualizar todas as informações atualizadas, ou as política do benefício correspondente para seu cargo: 
@@ -192,6 +205,8 @@ Funcionários das operações de Shipping, que possuem o cargo de Representante 
 
 Estou afastado, recebo o vale alimentação? 
 O Vale Alimentação será pago integralmente nos primeiros 30 dias de afastamento e será suspenso após este período. A exceção é na Licença Maternidade e Licença Adoção, onde o valor será pago integralmente durante todo o período da licença. Para maiores informações, acesse a Política de Vale Alimentação.
+
+Para consultar a política completa, acesse: Minha proposta de valor > Benefícios > Alimentação > Vale Alimentação. 
 
 Vou me desligar da empresa quanto tempo tenho para utilizar o benefício? 
 Você pode utilizar seus benefícios de VA em até 90 dias após sua saída da empresa. Caso não utilize o crédito dentro desse prazo, o cartão será bloqueado. O saldo depositado neste mês será descontado em sua rescisão. Em caso de dúvidas, entre em contato com o canal direto de Desligamento: mercadolivre.br@mailhr.info. 
