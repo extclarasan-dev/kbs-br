@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Fora do Escopo_TI | Tecnologia
 link: https://docs.google.com/document/d/1oK6Qj4NkgJvFokIiKPw1drmYyvvt7FBKhaHHO_tabVE/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T18:28:14.739Z
+atualizado_no_drive: 2026-10-30T16:18:10.220Z
 ---
 
 TÍTULO DA KL:
@@ -25,18 +25,18 @@ Meli help support poderá te ajudar com dúvidas sobre:
 PROCEDIMIENTO:
 Para suporte ou ajuda do Internal Systems, existem 3 canais para você acessar:
 Portal do usuário: https://soporte.adminml.com  (não precisa de conexão VPN);
- Bot Support > IS&seg inf, disponível no Google chat;
+Chat da Employee Agent;
 Shield: shield.adminml.com (não precisa de conexão VPN).
 PERGUNTAS FREQUENTES:
 Meu nome/cargo/organograma está desatualizado. (Resposta para quando o cargo já está correto no SSFF, mas no google está errado)
 Se o seu nome/cargo/organograma foi alterado no SSFF mas ainda está desatualizado no Google, pode demorar até 30 dias para refletir.
 Caso tenha passado esse tempo, será necessário que você entre em contato com o time de TI.
-Você pode iniciar uma conversa com o BOT do time especializado através do Google chat > Support > escreva “IS&seg inf” e detalhe sua consulta. 
+Você pode iniciar uma conversa com o time especializado IS através da Employee Agent e detalhe sua consulta. 
 E também pode se contatar por e-mail:
 👉Melihelp Support <melihelp.support@mercadolibre.com>
 Problemas diversos de acesso/contato do TI
 Será necessário que você entre em contato com o time de TI, o time de People não tem ação no tema.
-Você pode iniciar uma conversa com o BOT do time especializado através do Google chat >Support > escreva “IS&seg inf” e detalhe sua consulta. 
+Você pode iniciar uma conversa com o time especializado IS através da Employee Agent e detalhe sua consulta. 
 E também pode se contatar por e-mail abaixo e informar sobre o seu problema:
 👉Melihelp Support <melihelp.support@mercadolibre.com>
 Problemas com senha de rede, iniciar sessão no dispositivo, gmail, etc.
@@ -82,12 +82,13 @@ Para responder a pesquisa de GPTW/ Orgulho Meli, você pode acessar o link: 👇
 Para que serve o Is Seg Support? Para Dificuldades com Senhas Meli/Acessos Meli/Desbloqueios de credencias Meli?
 📲🔐 Então, integramos o bot de segurança informática e os Sistemas Internos, criando o IS Seg Support.
 👉 Este é um canal para tirar suas dúvidas sobre: VPN, WiFi Guest, novas senhas Meli, desbloqueios, MFA, Github, Google, CX-One, Jira, administradores MELI, acessos à documentação do IS e segurança dos sites e carregamento de tickets na mesa de IS.
-🔐 🔊Para mais informações, acesse o Meli help support bot, e tire suas dúvidas: Bot Meli help support >Google chat > Bots > Support > escreva “Meli help” e detalhe sua consulta.  Ou escreva a Melihelp Support no seguinte email <melihelp.support@mercadolibre.com>
+🔐 🔊Para mais informações, acesse o chat da Employee Agent, e escreva suas dúvidas.
+Ou escreva a Melihelp Support no seguinte email <melihelp.support@mercadolibre.com>
 Não consigo acesso ao Melibooking
 🔊 O problema pode ser que no user está colocando o mail completo, pode por favor verificar?
 O que você deve colocar no user é o seu email sem o @mercadolivre.com. Use apenas seu prefixo de e-mail sem o domínio mercadolivre.
 📸 Se ainda não consegue acesso, por favor, entre em contato com a equipe de IT
-Você pode iniciar uma conversa com o BOT do time especializado através do Google chat > Support > escreva “IS&seg inf” e detalhe sua consulta. 
+Você pode iniciar uma conversa com o time especializado IS através da Employee Agent e detalhe sua consulta.  
 E também pode se contatar por e-mail:
 👉Melihelp Support <melihelp.support@mercadolibre.com>
 O que é Yubikey?
