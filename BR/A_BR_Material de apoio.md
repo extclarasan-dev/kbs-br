@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Material de apoio
 link: https://docs.google.com/document/d/1qVYPWbclLyagdSZGEAyrCk5z8XoUcR9hob218BEsCwE/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-29T18:34:14.544Z
+atualizado_no_drive: 2026-11-02T20:36:57.597Z
 ---
 
 TÍTULO DA KL:
