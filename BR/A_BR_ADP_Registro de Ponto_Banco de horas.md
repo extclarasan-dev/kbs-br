@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Registro de Ponto_Banco de horas
 link: https://docs.google.com/document/d/1CCLZULJ3ZBKLKzwZVzuHSbf5EBTRhR0stUsSYlLHr3Y/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T19:50:25.709Z
+atualizado_no_drive: 2026-11-02T16:13:25.198Z
 ---
 
 TÍTULO DA KL:
@@ -139,6 +139,8 @@ Afastamentos: nos casos de afastamento, seja por abono médico ou outros tipos d
 
 • Onde posso tirar dúvidas sobre o banco de horas? Orientamos que, em caso de dúvidas sobre o banco de horas, procure seu líder direto/gestor para que possa te auxiliar.
 
+Tenho dúvidas sobre o fim da escala 6x1. Onde posso obter mais informações?
+Em caso de dúvidas ou consultas relacionadas ao fim da escala 6x1, orientamos que aguarde novas informações, que serão divulgadas pelos canais habituais de comunicação do Mercado Livre.
 SUPORTE: 
 Material Controle de Jornada do empregado: https://docs.google.com/presentation/d/1onVQVpShGSpoQgw_v5TIdv8YgZWg16_j-1mwbVoJ-ZY/edit#slide=id.g6d87216799_0_204 
 Material Passo a passo Acessos Ahgora: https://docs.google.com/presentation/d/1fRkxoXt5IW8t5YfX87_TdUaMRt4CBzfm/edit#slide=id.p1
