@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Academia_Wellhub
 link: https://docs.google.com/document/d/1_gjjDsXML5_JC8cl-nE1nOtC2eP_dCjBhbJmaDTZBcU/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-27T20:39:38.286Z
+atualizado_no_drive: 2026-11-03T20:47:50.300Z
 ---
 
 TÍTULO DA KL:
@@ -12,19 +12,6 @@ Wellhub (Gympass) é um benefício de qualidade de vida voltado para prática de
 O empregado terá acesso a qualquer academia e modalidade que esteja no seu plano, usufruindo da melhor maneira possível seu benefício. Empregados elegíveis poderão se cadastrar após 1 (um) mês a data de admissão/promoção.
 REQUISITOS:
 São elegíveis para o benefício de academia Wellhub (Gympass) os empregados do Mercado Livre Brasil com alguns dos seguintes job code: 
-Rep eventual (80001747)
-Rep de Envio Inicial (80001754)
-Rep de Envio 1 (80001716)
-Rep de Envio 2 (80001717)
-Rep de Envio 3 (80001718)
-Rep de Envio 4 (80001719)
-Operador Logístico 1 (80001733)
-Operador Logístico 2 (80001734)
-Operador Logístico 3 (80001735)
-Auxiliar Shipping (80001741)
-Montacarguistas (80001740)
-Montacarguista 0 (80001764)
-Montacarguista 2 (80001765)
 Asistente/ Auxiliar (80001645)
 Asistente - IT (80001687)
 Representante Senior (80001646)
