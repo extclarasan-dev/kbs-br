@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos _ Bot de recepciones
 link: https://docs.google.com/document/d/14KWuNWM6GsOZ6ARi5sOwNmdIRJnG78RY15WhgZEaJx8/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T15:41:56.168Z
+atualizado_no_drive: 2026-11-03T15:02:56.863Z
 ---
 
 TÍTULO DA KL:
@@ -40,7 +40,7 @@ Você poderá reservar os meets, salas de reunião para doze pessoas, pelo Googl
 Estou planejando um evento on site, onde posso encontrar informações sobre o suporte que tenho nas diferentes áreas?
 Você poderá encontrar todas as informações relevantes para organizar seu evento on site na seguinte Wiki Eventos On Site.
 Onde posso consultar a entrada de visitas/externos aos escritórios?
-Para consultas sobre o acesso de visitas ou externos aos escritórios, você deverá escrever neste chatt “Quero agendar uma visita” ou “Quero reservar uma visita”.
+Para consultas sobre o acesso de visitas ou externos aos escritórios, você deverá escrever neste chat “Quero agendar uma visita” ou “Quero reservar uma visita”.
 Quais são os horários dos escritórios?
 Para consultas sobre os horários dos escritórios, você deverá contatar o chat da Employee Agent. 
 Onde fica o Melihelp da Melicidade?
