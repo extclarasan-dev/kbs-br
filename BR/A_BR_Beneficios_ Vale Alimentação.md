@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_ Vale Alimentação
 link: https://docs.google.com/document/d/15TPmZhmX5jEPgm5t3LmmGarFYuqoqJ6D2eWINbt4bdw/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T19:06:12.747Z
+atualizado_no_drive: 2026-11-04T18:08:21.856Z
 ---
 
 TÍTULO DA KL:
@@ -251,6 +251,8 @@ Onde posso compartilhar meu feedback do benefício de alimentação no Full supe
 Aproveite para usar seu benefício alimentação na sua próxima compra no market place de Mercado livre (Full super) e compartilhe no seguinte formulario o que achou da experiência:  https://docs.google.com/forms/d/e/1FAIpQLSdMGAlFnhm0AKIrwha9bHDtirIOXPjv-pbNa_krzF1NiltXtA/viewform 
 Recebi o pagamento do meu salário mas não recebi o meu VA no Mercado Pago. Que aconteceu? 
 O pagamento dos Benefícios, como o VA (vale alimentação) é realizado no último dia útil do mês, conforme política. Por isso, pedimos que aguarde até o último dia útil do mês a disponibilização do saldo para conferência.
+Estou com a minha conta MP Bloqueada/suspensa e mesmo assim o benefício VA (vale alimentação) está sendo descontado do meu holerite.
+Em quanto ao desconto do benefício VA em sua folha, ele continua sendo realizado mesmo com a conta bloqueada, pois o crédito segue acontecendo. Assim, o valor permanece sendo descontado do seu holerite, embora você não consiga utilizar o benefício. O bloqueio da conta não está relacionado ao crédito que será disponibilizado mensalmente. 
 
 SUPORTE:
 • FAQS de Mercado Pago: https://docs.google.com/presentation/d/1V7OE0iEtA8292uimZmE_859WmXqs8n1A/edit#slide=id.p5 
