@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Vale Refeição
 link: https://docs.google.com/document/d/16MKTC3nxUzjoFE3Ia-FKPXDMMcX7YY0F1y8SWuYn9Fc/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T19:05:24.308Z
+atualizado_no_drive: 2026-11-04T18:08:10.185Z
 ---
 
 TÍTULO DA KB:
@@ -176,6 +176,9 @@ A data de recebimento do VR depende da atualização do seu perfil elegível no 
 
 Recebi o pagamento do meu salário mas não recebi o meu VR no Mercado Pago. Que aconteceu? 
 O pagamento dos Benefícios, como o VR (vale refeição) é realizado no último dia útil do mês, conforme política. Por isso, pedimos que aguarde até o último dia útil do mês a disponibilização do saldo para conferência.
+Estou com a minha conta MP Bloqueada/suspensa e mesmo assim o benefício VR (vale refeição) está sendo descontado do meu holerite.
+Em quanto ao desconto do benefício VR em sua folha, ele continua sendo realizado mesmo com a conta bloqueada, pois o crédito segue acontecendo. Assim, o valor permanece sendo descontado do seu holerite, embora você não consiga utilizar o benefício. O bloqueio da conta não está relacionado ao crédito que será disponibilizado mensalmente.
+
 SUPORTE:
 • Politica Vale Refeição: https://docs.google.com/document/d/1AD5XSVnfklQJDOBUUOZJsBBJ2K_YypzBdkbsmU3Wv6I/edit?tab=t.0 
 • Link para ajuda "Minha compra usou saldo da minha conta em vez dos meus benefícios": https://www.mercadopago.com.br/ajuda/20361#suggest. 
