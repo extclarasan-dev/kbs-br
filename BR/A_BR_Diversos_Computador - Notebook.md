@@ -1,15 +1,46 @@
 ---
 titulo: A_BR_Diversos_Computador / Notebook
 link: https://docs.google.com/document/d/1U28xIYj52TSzbxXVkZdwAzo5J2RU9vzSyFpxMFA5Kjw/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T18:09:37.894Z
+atualizado_no_drive: 2026-11-04T16:27:04.347Z
 ---
 
 TÍTULO DA KL:
 A_BR_Diversos_Computador / Notebook
-RESUMO: 
-O documento contém informações sobre a política de Mercado Livre Brasil da troca de computador/notebook e como realizar a solicitação.
+
+RESUMO:
+No Mercado Livre, nos preocupamos em criar valor para o usuário e estamos sempre em beta contínuo, por isso compartilhamos com você esta versão de atribuição de notebooks que busca estabelecer uma política geral que regule a atribuição de equipamentos de computação [notebooks, chromebook] aos colaboradores do Meli e suas subsidiárias, bem como de uso, manutenção e baixa.
+
+Quanto a celulares e serviços móveis, a política define os critérios e a regulamentação para a atribuição, o uso, a manutenção e a habilitação dos dispositivos e serviços de telefonia e dados móveis aos colaboradores do Mercado Livre.
+
 REQUISITOS:
-Atribuição direta (doação de notebooks do MELI para o colaborador)
+A atribuição de equipamentos e linhas celulares é determinada com base no grupo de pertencimento (setor ou BU), bem como no layer do funcionário detalhado nas políticas.
+
+As informações de celulares corporativos aplicam-se unicamente aos funcionários que contem com alguns dos seguintes job codes:
+Gerente (80001635)
+Gerente - IT (80001681)
+Gerente SAdmin (80001703)
+Expert (80001724)
+Expert IT (80001723)
+Expert SAdm (80001744)
+Executive Assistant (80001745)
+Gerente Senior (80001634)
+Gerente Senior - IT (80001694)
+Gerente Senior SAdm (80001704)
+Senior Expert (80001726)
+Senior Expert IT (80001725)
+Executive Chairman (80001761)
+Presidente CEO (80001629)
+CEO (80001762)
+President (80001763)
+Vicepresidente Ejecutivo (80001630)
+Vicepresidente Senior (80001631)
+Vicepresidente (80001632)
+Senior Principal (80001739)
+Senior Director (80001707)
+Director (80001633)
+Principal (80001738)
+
+Atribuição direta (doação de notebooks do MELI para o colaborador):
 O colaborador pode optar pela atribuição direta do equipamento caso tenham decorrido os 3 ou 4 anos de atribuição de um equipamento.
 Decorrida a vida útil do equipamento, este deixará de ter valor contabilístico, pelo que a pessoa que o estava a utilizar tem a opção de atribuição direta naquele equipamento, nas condições em que se encontra, sem apoio ou garantia do Mercado Livre.
 Em nenhuma hipótese o Mercado Livre pode vender os equipamentos a seus colaboradores.
@@ -17,74 +48,54 @@ Para ter acesso à atribuição direta, o equipamento deve satisfazer os critér
 No caso da pessoa que utilizou o equipamento não querer recorrer à opção de atribuição direta, o equipamento passará a fazer parte do pool de dispositivos de cada escritório ou operação.
 No caso de um funcionário se demitir e o equipamento estiver no fim da vida útil, o funcionário tem a opção de optar pela atribuição direta desse equipamento.
 No caso do Mercado Livre dissociar um funcionário e o equipamento estiver no fim da vida útil, o funcionário não terá a opção de atribuição direta. O equipamento deve ser entregue ao seu superior.
-PROCEDIMIENTO:
-Solicitação notebook/computador:
-📧 Antes de solicitar um novo notebook/computador, é necessário que valide se está apto para solicitar ou não. Isso você consegue verificar na plataforma Melitools clicando em perfil e em seguida aparecerá a imagem abaixo, após o colaborador clicar em verificar os meus dispositivos, ele terá a visibilidade da data de solicitação que estará descrita no campo "Fecha de recambio".
 
-⚠️ Se estiver apto, precisa solicitar o novo computador através do Shield: https://shield.adminml.com/requests/create/6423
-⚠️ Se o colaborador não estiver apto, ele precisa aguardar o tempo hábil para a solicitação, conforme a política.
+
+PROCEDIMENTO:
+Troca de notebook por política
+A troca consiste na substituição do notebook atribuído por um novo equipamento, de acordo com os critérios estabelecidos na política corporativa.
+
+Gestão da troca:
+Entrar no Portal Meli Help: https://melihelp.adminml.com/board 
+Acessar Mi Perfil MELI > Mi Perfil MELI > Activos e verificar a data prevista para a troca.
+Revisar a notificação enviada por Melihelp Notifications por meio do Google Chat, Slack ou e-mail.
+Seguir as indicações da notificação conforme corresponder:
+Atendimento presencial: agendar um agendamento por meio do MeliBooking.
+Envio de notebook: preencher o formulário de envio se você residir a mais de 150 km do escritório mais próximo.
+Realizar um backup dos arquivos locais que deseja conservar antes da troca.
+
+Backup de informações no Google Drive:
+Entrar no Google Drive com a conta corporativa do Mercado Livre.
+Selecionar Novo > Fazer upload de arquivo ou Fazer upload de pasta.
+Escolher os arquivos ou pastas dos quais deseja fazer backup.
+Organizar as informações em pastas, se necessário.
+Verificar se os arquivos foram carregados corretamente.
+
+Considerações importantes:
+O modelo de notebook atribuído estará sujeito à disponibilidade de estoque e aos critérios da política corporativa.
+O notebook anterior será formatado para eliminar as informações corporativas antes de ser destinado ao uso pessoal, quando corresponder segundo a política vigente.
+É fundamental fazer o backup dos arquivos locais antes da troca para evitar a perda de informações.
+O backup deve ser realizado no Google Drive. Não é permitido utilizar dispositivos removíveis, como pendrives.
+Para conhecer as condições e os critérios de atribuição, consulte a política de notebooks: https://drive.google.com/file/d/1BIl9X9tuFzO0GWk7_sVaFWCtTTgky2Ru/view   
+
+
 PERGUNTAS FREQUENTES:
-Troca de Computador / Notebook
-É necessário consultar de acordo com sua BU (área) e o modelo do seu equipamento qual a duração de utilização da máquina, o modelo não pode ser alterado antes de expirar a sua vida útil. 💻
-Expirada a vida útil do equipamento, este será substituído por um equipamento novo ou usado em ótimas condições, respeitando os critérios de alocação indicados. 😉🔐
-📧 A renovação do equipamento está sujeita à disponibilidade de estoque, confira através do e-mail: Melihelp Support melihelp.support@mercadolibre.com>
+O que acontece com o meu notebook anterior quando realizo a troca?
+O notebook anterior será formatado para eliminar as informações corporativas e poderá ser destinado ao seu uso pessoal, segundo as condições estabelecidas na política vigente.
 
-Por problemas de Notebook/computador/Chromebook, você deverá criar um ticket no Shield: https://shield.adminml.com/requests/create/4854
-⚠️ Se tiver mais dúvidas, você pode consultar a política: https://drive.google.com/file/d/16VdY9009SrhP1cms4v7-sE4uDk76VP47/view
-Consulta Política Solicitação Notebook/Computador:
-Consegue visualizar a política indo na plataforma Melitools, clicando em perfil e a última opção que aparecer é a política referente à solicitação de Notebook:
+Como sou notificado de que devo realizar a troca do meu notebook?
+Você receberá uma notificação do Melihelp Notifications por meio do Google Chat, Slack ou e-mail, com as indicações para gerenciar a troca.
 
-Política: https://drive.google.com/file/d/16VdY9009SrhP1cms4v7-sE4uDk76VP47/view
+Posso escolher o modelo do meu novo notebook?
+O modelo atribuído dependerá da disponibilidade de estoque e dos critérios estabelecidos na política corporativa.
 
-Que devo fazer se meu computador foi roubado/perdido? 
-Em caso de roubo ou perda de um notebook MacOS, Windows ou Chromebook do MercadoLivre, por favor crie o seguinte chamado: https://shield.adminml.com/c/6238 
-O ticket pode ser enviado pelo usuário afetado ou líder ou parceiro da mesma equipe que o usuário afetado. 
-O ticket será validado por um agente designado e pelo líder desse agente e, em seguida, será aplicada uma limpeza completa dos dados do laptop roubado/perdido.
-Para entregar um novo computador ao utilizador afetado, este terá de carregar o boletim de ocorrência (se não o tiver, carregue-o mais tarde e coloque-o como anexo num comentário do ticket).
-9 - Recambio de notebook
+Como posso receber o meu notebook se moro longe de um escritório?
+Se você residir a mais de 150 km do escritório mais próximo, poderá preencher o formulário de envio incluído na notificação de troca.
+O que devo fazer para conservar meus arquivos antes da troca?
+Você deve fazer uma cópia de segurança (backup) dos seus arquivos locais no Google Drive antes da troca. Não é permitido utilizar dispositivos removíveis, como pendrives, para realizar o backup.
 
-Uma vez substituído o equipamento que completou sua vida útil, e não houver outro uso
-interno para ele (estoque de equipamentos para empréstimo), o equipamento será retirado do
-inventário de ativos.
-Os equipamentos que tenham cumprido a sua vida útil serão disponibilizados para que o
-colaborador que tenha cedido o equipamento opte pela atribuição direta.
-A equipe de Internal Systems informará as baixas de equipamentos à equipe de Administração
-(Contabilidade) trimestralmente, para que o equipamento possa ser removido como ativo fixo
-da empresa.
-
-9.1 - Atribuição direta
-
-○ O colaborador pode optar pela atribuição direta do equipamento caso tenham decorrido os 3
-ou 4 anos de atribuição de um equipamento.
-○ Decorrida a vida útil do equipamento, este deixará de ter valor contabilístico, pelo que a
-pessoa que o estava a utilizar tem a opção de atribuição direta naquele equipamento, nas
-condições em que se encontra, sem apoio ou garantia do Mercado Livre.
-○ Em nenhuma hipótese o Mercado Livre pode vender os equipamentos a seus colaboradores.
-○ Para ter acesso à atribuição direta, o equipamento deve satisfazer os critérios de Termos e
-condições de equipamentos desativados da empresa.
-○ No caso da pessoa que utilizou o equipamento não querer recorrer à opção de atribuição
-direta, o equipamento passará a fazer parte do pool de dispositivos de cada escritório ou
-operação.
-○ No caso de um funcionário se demitir e o equipamento estiver no fim da vida útil, o
-funcionário tem a opção de optar pela atribuição direta desse equipamento.
-○ No caso do Mercado Livre dissociar um funcionário e o equipamento estiver no fim da vida
-útil, o funcionário não terá a opção de atribuição direta. O equipamento deve ser entregue
-ao seu superior.
-
-9.2 - Atribuição por anos de serviço
-Os trabalhadores que tenham mais de 10 anos de serviço no Mercado Livre e deixem a empresa
-podem optar pela atribuição direta do equipamento que tinham em uso no momento da
-12
-
-finalização da sua relação profissional com o Mercado Livre, desde que o dispositivo exceda
-50% da sua vida útil (18 meses) e cumpra previamente as condições de entrega definidas para
-o equipamento determinada pela empresa. Com exceção dos equipamentos adquiridos na Zona
-Franca.
-Caso precise de mais informações você poderá acessar a política Drivhttps://drive.google.com/file/d/16VdY9009SrhP1cms4v7-sE4uDk76VP47/viewe ou contatar Meli Help
-melihelp.support@mercadolibre.com 
 SUPORTE:
-- Política Computador / Notebook: https://drive.google.com/file/d/16VdY9009SrhP1cms4v7-sE4uDk76VP47/view
-- Recambio de notebook: https://shield.adminml.com/requests/create/6423
-- Por problemas de Notebook/computador/Chromebook: https://shield.adminml.com/requests/create/4854
-- Chamado roubo ou perda de um notebook: https://shield.adminml.com/c/6238 
-
+Política | Wiki Asignación de Notebook: https://wiki.adminml.com/page/3959227554320223 
+Política | Wiki Teléfonos Celulares y Servicios Móviles: https://wiki.adminml.com/page/3959227554320224 
+Portal Meli Help | Wiki: https://wiki.adminml.com/page/3959227554320238 
+Política de Notebooks español: https://drive.google.com/file/d/1BIl9X9tuFzO0GWk7_sVaFWCtTTgky2Ru/view 
+Política de Notebooks en portugues: https://drive.google.com/file/d/16VdY9009SrhP1cms4v7-sE4uDk76VP47/view 
