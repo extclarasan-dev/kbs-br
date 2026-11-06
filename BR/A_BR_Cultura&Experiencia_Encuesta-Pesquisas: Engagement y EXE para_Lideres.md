@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura&Experiencia_Encuesta/Pesquisas: Engagement y EXE para_Lideres
 link: https://docs.google.com/document/d/184n-6VBg07Ay6FtN2RhboM93fjbQhR1oAUq3292M_78/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T15:25:14.599Z
+atualizado_no_drive: 2026-11-05T15:47:44.227Z
 ---
 
 TÍTULO DA KL:
@@ -45,6 +45,13 @@ A informação contida neste documento aplica-se única e exclusivamente aos fun
 80001722-Specialist
 80001743-Specialist SAdm
 80001748-Ejecutivo Comercial Specialist
+Senior Team Leader Cx (80001640)
+Team Leader Senior (80001728)
+Sr Team Leader - Shipping (80001736)
+Team Leader SMB (80001760)
+Team Leader - Shipping (80001720)
+Team Leader (80001727)
+Team Leader Cx (80001641)
 
 PROCEDIMENTO:
 Acesso a resultados da survey Engagement&EXE: A consulta da totalidade das sentenças e a gestão de planos de ação podem ser realizadas a partir deste chat ou por meio do painel de resultados.
