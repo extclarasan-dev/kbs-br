@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Atestados
 link: https://docs.google.com/document/d/1eBoRA-ys0GdE3TBacmSKzWZGUnYip4-fd2D2mRsOGkc/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-09T19:16:47.329Z
+atualizado_no_drive: 2026-11-05T20:18:26.511Z
 ---
 
  TÍTULO DA KB:
@@ -147,7 +147,7 @@ No dia 20/01/2026 às 13h30 foi ativado um novo fluxo com a Verdi para o colabor
 A IA já está treinada para identificar os casos que envolvam internação ou colaboradoras grávidas, para que nestes não seja considerado o prazo de 48 horas para apresentar o atestado.
 
 
-Prazo que tem os colaboradores para carregar  atestado médico no fluxo do nosso bot: 48 horas. (Podem carregá lo no mesmo dia da data de emissão do atestado e durante os próximos dois dias corridos).
+Prazo que tem os colaboradores para carregar  atestado médico no fluxo do nosso bot: 48 Fhoras. (Podem carregá lo no mesmo dia da data de emissão do atestado e durante os próximos dois dias corridos).
 Exemplo:Ex: Atestado Emitido com data de 05/02 - lançamento até 07/02 (48 horas).
 Ex: Atestado Emitido com data de 05/02 às 17h00 - lançamento até 07/02 às 17h00 (48 horas).
 
