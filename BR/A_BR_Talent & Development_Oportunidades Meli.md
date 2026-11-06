@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent & Development_Oportunidades Meli 
 link: https://docs.google.com/document/d/14HWGl-EZ0h-ghHxGbcne2dwoqOh79qXAZpXM1DcPkhc/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-26T15:44:31.643Z
+atualizado_no_drive: 2026-11-05T18:12:31.597Z
 ---
 
 TÍTULO DE LA KL:
@@ -274,7 +274,7 @@ Para verificar a elegibilidade do colaborador:
 4. Se o colaborador CUMPRE com todos os requisitos e mesmo assim não conseguiu se candidatar, derivar o ticket para os referentes do tema conforme a Matriz de Escalação (inserir o ID da vaga e o nome na derivação).
 5. Se o colaborador NÃO CUMPRE com algum dos critérios, envie a resposta modelo de acordo com o motivo (Tempo na Função, Performance, Engagement ou Senioridade). Se o caso for sobre performance, e o colaborador insistir que cumpre após revisar com o líder, escalar.
 
-6. Exceção de Antiguidade: Se o empregado estiver a 1 mês de cumprir o requisito de antiguidade (12 ou 18 meses) e não puder se postular, é necessário escalar, pois seria uma exceção. A data de atualização da posição no Success Factors deve ser usada para constatar.
+6. Exceção de Antiguidade: Se o empregado estiver a 1 mês de cumprir o requisito de antiguidade (12 ou 18 meses) e não puder se postular, é necessário derivar, pois seria uma exceção. A data de atualização da posição no Success Factors deve ser usada para constatar.
 
 7. Fator Conectividade/Presencialidade: Se o arquivo indicar que o impedimento é decorrente do fator de conectividade ou presencialidade, informe ao colaborador qual desses critérios não foi atendido. Além disso, envie o link para a Wiki da política do programa, permitindo que ele consulte as diretrizes oficiais.
 
