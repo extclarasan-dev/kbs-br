@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_PAYROLL_CONTA BANCARIA
 link: https://docs.google.com/document/d/1JzuDNqTQRp_q_gq3X5YWHFR7NfDTuVWeQw5IGO3gGao/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-16T00:00:58.093Z
+atualizado_no_drive: 2026-11-06T19:28:00.648Z
 ---
 
 TÍTULO DA KL:
@@ -89,10 +89,14 @@ Canais de Contato com a Gerência Santander (exclusivo para colaboradores Mercad
 O que é o 'Lançamento Futuro' na minha conta bancária? 
 O Lançamento Futuro é  uma previsão de um dinheiro que está prestes a entrar na sua conta. 
 O dinheiro está garantido e em processamento, mas será adicionado ao saldo disponível da sua conta automaticamente na data de pagamento programada (último dia útil do mês). 
-Se você tiver dúvidas sobre o valor visualizado como lançamento futuro, por favor, aguarde até o dia do pagamento para validar seu holerite
+Se você tiver dúvidas sobre o valor visualizado como lançamento futuro, por favor, aguarde até o dia do pagamento para validar seu holerite.
 
 O valor do "lançamento futuro" deve coincidir com o valor do meu salário? 
 Não necessariamente. Se você tiver o split de pagamento ativo, o valor que é creditado na sua conta do Mercado Pago não vai aparecer no lançamento futuro da sua conta bancária.
+
+Se tenho portabilidade bancária, posso visualizar os lançamentos futuros?
+
+Não. Se você possui portabilidade bancária, não será possível visualizar os lançamentos futuros relacionados ao pagamento do seu salário.
 
 Visualizei com antecedência em minha conta bancária o valor do meu próximo pagamento, mas ele não coincide com o que eu esperava.
 O valor que você está visualizando em sua conta bancária corresponde a uma previsão do pagamento que será creditado. Ele ainda não foi depositado em sua conta, é apenas uma projeção do valor que você vai receber.
