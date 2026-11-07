@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Payroll_Pagamento - Adiantamento salarial
 link: https://docs.google.com/document/d/1uaQQeZD1mLsyipzbF-_pRl9qiPYfQ5r7H-yEfcPlYVk/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-28T20:15:30.314Z
+atualizado_no_drive: 2026-11-06T20:44:42.639Z
 ---
 
 TÍTULO DA KL:
@@ -79,9 +79,6 @@ Para fazer a solicitação de adiantamento salarial ou alterar a data de pagamen
 👉 Nessa opção você pode ativar o benefício de forma fácil e rápida.
 👉Dessa forma, os optantes pelo adiantamento recebem o mesmo a partir do mês seguinte.
 Em caso de dúvidas, quanto a valores ou diferenças de adiantamento quinzenal, pedimos que escreva neste chat: “quero falar com um agente”.
-
-ADIANTAMENTO NOVOS ADMITIDOS: 
-Todos os novos admitidos recebem, durante o processo de admissão, a opção de ativar ou não o adiantamento quinzenal (não é mais só pra reps, como era antes). A escolha é feita na plataforma Unico. 
 
 PROCEDIMIENTO PARA AGENTES: 
 Para os usuários do Maxwell que se encontram em atendimento com agente e precisam realizar uma autogestão, devemos indicar-lhes que deverão realizá-la em um novo chat (já que não é possível realizá-la no chat de conversa com o agente). 
