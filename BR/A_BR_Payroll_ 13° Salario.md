@@ -1,11 +1,11 @@
 ---
 titulo: A_BR_Payroll_ 13° Salario
 link: https://docs.google.com/document/d/1GttpGxXLSRc4RzvxjAIlRtX0pImOphvcu_1OjHZcLxk/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T21:23:15.515Z
+atualizado_no_drive: 2026-11-06T15:15:02.058Z
 ---
 
 TÍTULO DA KL:
-A_BR_Payroll_ 13° Salario  
+A_BR_Payroll_ 13° Salario   
 RESUMO:
 O documento contém informações sobre o 13° salário no Mercado Livre Brasil.
 O 13º salário é a gratificação natalina obrigatória, correspondente a 1/12 do salário por mês trabalhado. O pagamento é feito em duas parcelas.
@@ -13,12 +13,19 @@ REQUISITOS:
 As informações deste documento são aplicáveis a todos os funcionários do Mercado Livre Brasil. 
 PROCEDIMIENTO:
 PERGUNTAS FREQUENTES:
-Quando receberemos (datas) o 13° salário neste ano?
-O pagamento da primeira parcela do 13º (Décimo terceiro) salário normalmente ocorre em novembro ou junto com as férias (caso o colaborador opte por isso). A segunda parcela é paga em dezembro.
+Quando receberei o pagamento do 13º salário em 2026?
+O pagamento do 13º salário em 2026 será realizado em duas parcelas, conforme a data de admissão do funcionário:
+ 
+- Funcionários admitidos até 31/10/2026:
+1ª parcela: 18/11/2026.
+2ª parcela: 15/12/2026.
+ 
+- Para os funcionários admitidos em novembro de 2026: a 1ª parcela será paga em 30/11/2026.
+- Para os funcionários admitidos em dezembro de 2026: o pagamento proporcional será realizado em 18/12/2026.
 Como é feito o pagamento do 13° salário? 
 O pagamento é feito em duas parcelas. A 1ª parcela corresponde a 50% da remuneração sem descontos. Já a 2ª parcela, terá os descontos de INSS e Imposto de Renda (IRRF). 
 Caso você já tenha recebido a 1ª parcela como adiantamento nas férias, o pagamento final, com eventuais diferenças, será feito junto com a 2ª parcela.
-Para os funcionários admitidos ao longo do ano atual receberão o pagamento proporcional aos meses trabalhados.
+Importante: Para os funcionários admitidos ao longo de 2026, o valor do 13º salário será proporcional aos meses trabalhados no ano.
 Posso  antecipar o pagamento do 13º (Décimo terceiro) salário ?
 O adiantamento do 13º (Décimo terceiro) salário só pode ser solicitado junto com o pedido de férias. De forma avulsa, não é possível.
 Quando recebemos o 14° (Décimo quarto) salário?
