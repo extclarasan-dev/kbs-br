@@ -1,10 +1,10 @@
 ---
 titulo: A_BR_ADP_Atestados
 link: https://docs.google.com/document/d/1eBoRA-ys0GdE3TBacmSKzWZGUnYip4-fd2D2mRsOGkc/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-05T20:18:26.511Z
+atualizado_no_drive: 2026-11-06T16:05:53.079Z
 ---
 
- TÍTULO DA KB:
+e TÍTULO DA KB:
 A_BR_ADP_Atestados
 RESUMO:
 O documento contém informações sobre atestados, declarações de horas, afastamentos, Acidente de trabalho, e Doação de sangue no Mercado Livre no Brasil. Este documento descreve os requisitos, procedimentos de inclusão e perguntas frequentes relacionadas a estes temas. 
