@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos_Travel & Expenses
 link: https://docs.google.com/document/d/15r8cJL8TK7CRNNqIsEmxrzWCS4Hdsx6mVnNQir-4SdE/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T14:16:42.184Z
+atualizado_no_drive: 2026-11-06T14:30:57.057Z
 ---
 
 TÍTULO DA KL:
@@ -25,7 +25,7 @@ Rendição de Gastos com Mendel:
 3. Ingressar no Mendel para finalizar a prestação de contas.
 4. Enviar para aprovação.
 Carga Manual de Gastos: Se o gasto não foi realizado com o cartão corporativo, ingressar no Meli T&E na seção TRANSACCIONES-PROPIAS para realizar a carga manual.
-Para conhecer as políticas de viagem/Gastos Corporativos acesse a seguinte Wiki: https://wiki.adminml.com/page/3959227554319077 ou o seguinte link: https://drive.google.com/file/d/1hVaeK9FO3MNKci_-WhP0DAYBBblDK4o2/view. 
+Para conhecer as políticas de viagem/Gastos Corporativos acesse a seguinte Wiki: https://wiki.adminml.com/page/3959227554319007 ou o seguinte link: https://drive.google.com/file/d/1hVaeK9FO3MNKci_-WhP0DAYBBblDK4o2/view. 
 Para conhecer tudo o que você pode realizar com a ferramenta Meli T&E acesse a seguinte Wiki: https://wiki.adminml.com/page/3959227554318980?lang=es.
 Para conhecer como criar seu usuário e prestar contas de gastos no Meli T&E acesse o seguinte Manual de Usuário: https://drive.google.com/file/d/1bigk1eBwJ6x_HP1Vy0ua_JD-ltLFFAmF/view. 
 PERGUNTAS FREQUENTES:
