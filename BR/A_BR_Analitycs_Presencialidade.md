@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Analitycs_Presencialidade 
 link: https://docs.google.com/document/d/1WRHgfyIODKVYNSrH3hal7FummqdZVBn-mkOztdLlLj8/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T19:32:47.637Z
+atualizado_no_drive: 2026-11-06T16:59:27.078Z
 ---
 
 TÍTULO DA KL: 
