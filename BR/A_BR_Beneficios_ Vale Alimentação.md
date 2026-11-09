@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_ Vale Alimentação
 link: https://docs.google.com/document/d/15TPmZhmX5jEPgm5t3LmmGarFYuqoqJ6D2eWINbt4bdw/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-04T18:08:21.856Z
+atualizado_no_drive: 2026-11-09T18:10:08.206Z
 ---
 
 TÍTULO DA KL:
