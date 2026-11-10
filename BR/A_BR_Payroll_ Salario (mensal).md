@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Payroll_ Salario (mensal)
 link: https://docs.google.com/document/d/1uUj2CEjolHpvACkuGd2OzU3zZkai2mfzgI6r78VnrY0/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-16T16:09:10.774Z
+atualizado_no_drive: 2026-11-10T19:47:39.562Z
 ---
 
 TÍTULO DA KL: 
@@ -138,26 +138,24 @@ Histórico de Créditos do INSS.
 Carta de Concessão.
 Comunicado de Decisão do INSS.
 
-
 O que é o 'Lançamento Futuro' na minha conta bancária? 
-O Lançamento Futuro é  uma previsão de um dinheiro que está prestes a entrar na sua conta. 
-O dinheiro está garantido e em processamento, mas será adicionado ao saldo disponível da sua conta automaticamente na data de pagamento programada (último dia útil do mês). 
-Se você tiver dúvidas sobre o valor visualizado como lançamento futuro, por favor, aguarde até o dia do pagamento para validar seu holerite
+O Lançamento Futuro é uma previsão de um dinheiro que está prestes a entrar na sua conta.
+O dinheiro está garantido e em processamento, mas será adicionado ao saldo disponível da sua conta automaticamente na data de pagamento programada (último dia útil do mês).
 
+A partir de novembro de 2026, o lançamento futuro referente ao salário mensal estará disponível para consulta na mesma data em que o holerite for disponibilizado.
+ 
+Importante: Essa alteração se aplica exclusivamente ao salário mensal, não sendo válida para o adiantamento quinzenal.
+ 
+Se você tiver dúvidas sobre o valor visualizado como lançamento futuro, por favor, consulte seu holerite para verificar as informações do pagamento.
+ 
 O valor do "lançamento futuro" deve coincidir com o valor do meu salário? 
 Não necessariamente. Se você tiver o split de pagamento ativo, o valor que é creditado na sua conta do Mercado Pago não vai aparecer no lançamento futuro da sua conta bancária.
 
 Visualizei com antecedência em minha conta bancária o valor do meu próximo pagamento, mas ele não coincide com o que eu esperava.
 O valor que você está visualizando em sua conta bancária corresponde a uma previsão do pagamento que será creditado. Ele ainda não foi depositado em sua conta, é apenas uma projeção do valor que você vai receber.
  
-Caso identifique inconsistências nessa previsão, por favor aguarde até o pagamento ser efetivamente creditado em sua conta, e o holerite estar disponível, para validar corretamente cada conceito.
- 
-Os conceitos detalhados (proventos, descontos, etc.) só podem ser confirmados no seu holerite/folha de pagamento.
- 
-Ainda não tenho meu holerite/folha de pagamento, mas já vi o pagamento no banco.
-É normal poder visualizar com antecedência o valor previsto do seu pagamento, antes mesmo de ele ser creditado em sua conta e antes de o holerite estar disponível.
-Para determinar a conformação e/ou variações dos valores do pagamento, você precisa validar seu holerite. Por favor, aguarde até receber o pagamento e o holerite correspondente para poder validar os conceitos corretamente. 
-
+Caso identifique inconsistências nessa previsão, por favor, consulte seu holerite para verificar os conceitos detalhados do pagamento, como proventos e descontos.
+  
 
 INFORMAÇÃO PARA AGENTES:
 ⚠️ Ao receber dúvidas de funcionários sobre atrasos no pagamento, confirme a data de admissão para verificar se o pagamento está programado para o 5º dia útil. 
