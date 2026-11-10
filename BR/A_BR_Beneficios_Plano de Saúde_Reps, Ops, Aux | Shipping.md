@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Plano de Saúde_Reps, Ops, Aux | Shipping
 link: https://docs.google.com/document/d/1PcL1WU7q7sTokQo7aO7f_7_JKLTZHHbyJD59OA5y9h4/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-27T18:43:51.464Z
+atualizado_no_drive: 2026-11-10T20:31:23.710Z
 ---
 
 TÍTULO DE LA KL: 
@@ -51,9 +51,9 @@ PROCEDIMENTO:
 
 Para incluir seu dependente no plano de saúde, escreva neste chat: “Quero incluir dependentes no plano de saúde” e siga o fluxo.
 
-Em até 10 dias úteis você receberá a confirmação da inclusão de seu dependente por e-mail, mas se houver informações divergentes, esse prazo poderá ser estendido ou modificado. Em caso de haver informações divergentes, você receberá uma notificação através deste bot.
+O prazo previsto para receber a confirmação da inclusão do seu dependente por e-mail é de até 10 dias úteis, podendo ser estendido, caso seja identificada alguma inconsistência na solicitação. Nesse caso você será notificado por meio deste bot e deverá realizar uma nova solicitação.
 
-Se após o prazo de 10 dias úteis você não receber novidades por e-mail ou neste chat sobre a inclusão de seus dependentes, escreva "quero falar com um agente" para que possamos ajudá-lo a validar o status de sua solicitação.
+Se após o prazo de 10 dias úteis, você não receber novidades por e-mail ou neste chat sobre a inclusão de seus dependentes, escreva "quero falar com um agente" para que possamos ajudá-lo a validar o status de sua solicitação.
 
 Em casos de dois funcionários do Mercado Livre que tenham o mesmo dependente, apenas um dos responsáveis pode realizar a inclusão. Os responsáveis devem definir quem fará o cadastro.
 
@@ -93,7 +93,9 @@ Você também poderá consultar a rede através do aplicativo Bradesco Seguros, 
 
 • Consulta dos Valores de Coparticipação: Você poderá consultar os valores de coparticipação que serão descontados do seu salário através do aplicativo da sua operadora de saúde(seção Extratos).
 
-• Acesso ao Plano e Número da Carteirinha: As numerações das carteirinhas de saúde são enviadas no seu e-mail 10 dias úteis após a sua admissão. Basta aguardar para receber os detalhes. Também você pode solicitar o número da sua carteirinha de saúde por meio deste chat.
+• Acesso ao Plano e Número da Carteirinha: Para utilizar seu plano de saúde, precisa de ter sua carteirinha de saúde. As numerações das carteirinhas de saúde são enviadas no seu e-mail 10 dias úteis após a sua admissão, mas esse prazo poderá ser estendido ou modificado, caso necessário. Basta aguardar para receber os detalhes. 
+
+Também você pode solicitar o número da sua carteirinha de saúde por meio deste chat depois desse prazo. 
 
 Pode encontrar suas carteirinhas digitais de saúde vía WEB e no aplicativo da sua operadora de saúde.  
 
@@ -151,7 +153,13 @@ A inclusão de dependentes sem carência será possível em até 20 dias após a
 Posso incluir meu dependente no convênio médico na admissão?
 Não, a inclusão de dependente no convênio médico não é feita na admissão. Você deverá entrar em contato através do Employee Agent e escrever “Quero incluir dependentes no plano de saúde”.
 
-Posso enviar múltiplas solicitações juntas em um mesmo fluxo de inclusão de dependente?Não, para o envio e processamento corretos das informações, cada inclusão deve ser feita de forma individual, concluindo e enviando uma solicitação por vez. 
+Posso enviar múltiplas solicitações em um mesmo fluxo de inclusão de dependentes?
+Não. Para garantir o envio e o processamento corretos das informações e dos documentos, cada inclusão de dependente deve ser realizada individualmente, sendo necessário concluir uma solicitação antes de iniciar outra.
+ 
+Para garantir o envio correto da sua solicitação, siga estas orientações:
+Siga exatamente todas as etapas do bot: respeite a sequência indicada, sem pular etapas ou realizar ações fora do fluxo.
+Envie os documentos no momento solicitado: não antecipe nem deixe o envio para depois. É importante que a frente e o verso do documento sejam enviados em um único arquivo PDF, pois, caso sejam enviados separadamente, o sistema considerará apenas o primeiro arquivo recebido, o que poderá resultar na rejeição da solicitação.
+Confirme a conclusão da solicitação: o processo estará concluído somente quando o bot informar que os dados serão encaminhados para análise.
 
 Posso cancelar o meu plano atual? 
 Não, a contratação do plano de saúde é compulsória, visto que o MELI arca com 100% do custo para o titular.
