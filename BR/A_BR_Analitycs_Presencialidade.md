@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Analitycs_Presencialidade 
 link: https://docs.google.com/document/d/1WRHgfyIODKVYNSrH3hal7FummqdZVBn-mkOztdLlLj8/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-06T16:59:27.078Z
+atualizado_no_drive: 2026-11-10T20:58:00.649Z
 ---
 
 TÍTULO DA KL: 
@@ -133,6 +133,11 @@ Quantos dias por mês devo ir ao escritório para cumprir com o meu target de pr
 Não existe uma quantidade fixa de dias de assistência mensal, já que o cálculo é realizado sobre os dias úteis reais de cada mês, excluindo finais de semana e feriados. Para determinar a base de cálculo, são descontados os dias de Work From Anywhere (WFA) e as licenças correspondentes ao mês que estejam registradas no SuccessFactors.
 Exemplo de cálculo: Se o mês tiver 20 dias úteis e você não registrar dias de WFA nem licenças, deverá cumprir com 8 dias de conexão presencial (20 × 40%).
 Se durante esse mesmo mês você registrar 5 dias de licença, a base de cálculo será reduzida para 15 dias úteis e as porcentagens serão calculadas sobre esse novo total.
+Posso mudar o site ao qual estou vinculado para cumprir minha pauta de presencialidade?
+Não é possível mudar o site designado para o cumprimento da pauta de presencialidade, pois cada funcionário possui um site definido de acordo com sua contratação.
+Posso optar por cumprir minha pauta de presencialidade em outro site, considerando a proximidade da minha residência?
+Não. A presencialidade tem como objetivo promover a conexão presencial entre os membros da equipe e fortalecer a cultura organizacional. Por esse motivo, o comparecimento deve ocorrer no site ao qual você está vinculado ou, eventualmente, em outros sites, quando houver necessidade de visitas relacionadas à natureza da sua função. 
+
 SUPORTE: 
 Wiki Presencialidad: https://wiki.adminml.com/page/3959227554319799 
 Wiki | Presencialidad FAQs: https://wiki.adminml.com/page/3959227554319800  
