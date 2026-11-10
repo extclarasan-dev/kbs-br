@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Cultura&Experiencia_MELI Home
 link: https://docs.google.com/document/d/1KniEJHRyeDnmxpT6Zmi84ZiqphdtSbpsW5Ce04FIfXM/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-30T17:38:31.187Z
+atualizado_no_drive: 2026-11-10T18:57:52.810Z
 ---
 
 TÍTULO DA KL:
@@ -25,9 +25,16 @@ Por inconvenientes no MELI Home devidos a configuração do navegador, perfis de
 • Versão do Chrome (chrome://version)
 • Se utiliza mais de um perfil de Chrome
 • Se está em VPN (sim/não) e qual
-• Lista de extensões relevantes (se aplicável)
+• Lista de extensões relevantes (se aplicável) 
 • Capturas de tela do comportamento
 
+Para verificar se você tem novas respostas nas suas conversas do MELI Home, siga estas etapas:
+Acesse o MELI Home https://meli-home-web.adminml.com/home e clique no ícone do relógio, localizado no canto superior direito da tela.
+Se houver alguma resposta pendente de leitura, o ícone do relógio exibirá um ponto azul.
+Ao clicar no ícone, você terá acesso ao histórico de conversas, onde poderá visualizar todas as suas conversas do MELI Home.
+As conversas que tiverem respostas pendentes de leitura estarão identificadas com um ponto azul ao lado do nome.
+ 
+Lembre-se de que, atualmente, as notificações do tipo pop-up e sonoras não estão disponíveis. Por isso, você deverá acessar o MELI Home periodicamente para verificar se recebeu alguma nova resposta.
 
 PREGUNTAS FREQUENTES:
 • O que é o Home? 
