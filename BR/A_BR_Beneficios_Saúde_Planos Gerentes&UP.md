@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Saúde_Planos Gerentes&UP
 link: https://docs.google.com/document/d/1-Qh5d8yx_xm12a7C2l5rj4ZSs9KIPbZdX5hQhknghKk/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-27T16:06:10.316Z
+atualizado_no_drive: 2026-11-10T20:30:11.864Z
 ---
 
 TÍTULO DE LA KL:
@@ -51,10 +51,11 @@ Para validação de qual plano você optou, no momento da inserção dos documen
 
 
 PROCEDIMENTO:
-• Acesso e Identificação do Plano (Carteirinha):
-    ◦ As numerações das carteirinhas de saúde (do titular e de seus dependentes) são enviadas para o e-mail do colaborador 10 dias úteis após a sua admissão.
-   ◦ Também você pode solicitar o número da sua carteirinha de saúde por meio deste chat.
-    ◦ Para Bradesco, o cartão de identificação está disponível exclusivamente via aplicativo "APP Carteira Digital Bradesco Seguros" (ou via web) e substitui o cartão físico, que não é mais emitido.
+◦ Acesso e Identificação do Plano (Carteirinha): Para utilizar seu plano de saúde, precisa de ter sua carteirinha de saúde. As numerações das carteirinhas de saúde são enviadas no seu e-mail 10 dias úteis após a sua admissão, mas esse prazo poderá ser estendido ou modificado, caso necessário. Basta aguardar para receber os detalhes. 
+
+Também você pode solicitar o número da sua carteirinha de saúde por meio deste chat depois desse prazo.
+ 
+◦ Para Bradesco, o cartão de identificação está disponível exclusivamente via aplicativo "APP Carteira Digital Bradesco Seguros" (ou via web) e substitui o cartão físico, que não é mais emitido.
     ◦ Para acessar serviços online (consulta de coberturas, carências, acompanhamento de reembolso, pesquisa de rede), baixe o aplicativo da sua operadora (Bradesco Seguros, Care Plus, Unimed - Meu Plano). O cadastro é realizado através do seu CPF, e o e-mail pode ser pessoal ou corporativo. Para Unimed, o acesso deve ser realizado com o número do CPF ou número da carteirinha.
 
 • Inclusão de Dependentes:
@@ -62,9 +63,9 @@ Só é possível a inclusão de dependentes legais: Cônjuge, Companheiro(a) e f
 
 Para incluir dependentes no plano de saúde, escreva neste chat: “Quero incluir dependentes no plano de saúde” e siga o fluxo.
 
-Em até 10 dias úteis você receberá a confirmação da inclusão de seu dependente por e-mail, mas se houver informações divergentes, esse prazo poderá ser estendido ou modificado. Em caso de haver informações divergentes, você receberá uma notificação através deste bot.
+O prazo previsto para receber a confirmação da inclusão do seu dependente por e-mail é de até 10 dias úteis, podendo ser estendido, caso seja identificada alguma inconsistência na solicitação. Nesse caso você será notificado por meio deste bot e deverá realizar uma nova solicitação.
 
-Se após o prazo de 10 dias úteis você não receber novidades por e-mail ou neste chat sobre a inclusão de seus dependentes, escreva "quero falar com um agente" para que possamos ajudá-lo a validar o status de sua solicitação.
+Se após o prazo de 10 dias úteis, você não receber novidades por e-mail ou neste chat sobre a inclusão de seus dependentes, escreva "quero falar com um agente" para que possamos ajudá-lo a validar o status de sua solicitação.
 
  ◦ Documentação Obrigatória (geral): Certidão de Casamento, Escritura Pública de União Estável, Certidão de Nascimento dos filhos e cópia de CPF (para maiores de 18 anos). Para comprovar união estável, a operadora solicita a Certidão de União Estável Matrital, lavrada em cartório e elaborada pelo tabelião. A declaração de próprio punho não será aceita.
 
@@ -145,7 +146,14 @@ Como consigo o informe de rendimentos?
 Qual o prazo para incluir dependentes no convênio médico sem carência? 
 O prazo para envio dos documentos é de até 20 dias corridos do evento (admissão, nascimento ou casamento/união estável) para não ter carência.
 
-Posso enviar múltiplas solicitações juntas em um mesmo fluxo de inclusão de dependente?Não, para o envio e processamento corretos das informações, cada inclusão deve ser feita de forma individual, concluindo e enviando uma solicitação por vez. 
+Posso enviar múltiplas solicitações em um mesmo fluxo de inclusão de dependentes?
+Não. Para garantir o envio e o processamento corretos das informações e dos documentos, cada inclusão de dependente deve ser realizada individualmente, sendo necessário concluir uma solicitação antes de iniciar outra.
+ 
+Para garantir o envio correto da sua solicitação, siga estas orientações:
+Siga exatamente todas as etapas do bot: respeite a sequência indicada, sem pular etapas ou realizar ações fora do fluxo.
+Envie os documentos no momento solicitado: não antecipe nem deixe o envio para depois. É importante que a frente e o verso do documento sejam enviados em um único arquivo PDF, pois, caso sejam enviados separadamente, o sistema considerará apenas o primeiro arquivo recebido, o que poderá resultar na rejeição da solicitação.
+Confirme a conclusão da solicitação: o processo estará concluído somente quando o bot informar que os dados serão encaminhados para análise.
+
 
 Quais as porcentagens de coparticipação do meu plano?
 20% consultas e procedimentos simples
