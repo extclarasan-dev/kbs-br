@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Beneficios_Saúde_Assistentes até Supervisores
 link: https://docs.google.com/document/d/18nVvll7se5cZf9OKhG7VxSsgRWEFC-aMfJPTTAT9Mgs/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-27T16:05:10.093Z
+atualizado_no_drive: 2026-11-10T20:32:26.117Z
 ---
 
 alTÍTULO DE LA KL:  
@@ -65,11 +65,10 @@ Representante (80001648)
 • Promoções de Cargo: A atualização dos planos de saúde para colaboradores promovidos a cargos de gerência é automática e não requer solicitação do colaborador. Para que os benefícios correspondentes a uma promoção sejam aplicados no mês subsequente, é imprescindível que a atualização da movimentação ocorra até o dia 12 do mês vigente. Atualizações realizadas após essa data serão consideradas apenas para o processamento do mês seguinte.
 
 PROCEDIMIENTO:
-Onde está o número da minha carteirinha de saúde?
-Para utilizar seu plano de saúde, precisa de ter sua carteirinha de saúde:
-As numerações das carteirinhas (sua e de seus dependentes) são enviadas para o seu e-mail em até 10 dias úteis após a sua admissão.
-Você também pode solicitar o número por meio deste chat ou no aplicativo da sua operadora de saúde:
- ◦ Bradesco: O cartão de identificação do plano Bradesco Saúde está disponível exclusivamente via aplicativo "APP Carteira Digital Bradesco Seguros" (ou via WEB), e substitui o cartão físico, que não é mais emitido. Não é possível solicitar a via física. Para acessar os serviços online, como consulta de coberturas e carências, acompanhamento de reembolso e pesquisa da rede credenciada, baixe o aplicativo Bradesco Seguros. Também pode verificar no site que possui todos os planos de todos os clientes Bradesco. O cadastro é realizado através do seu CPF, e o e-mail pode ser pessoal ou corporativo. Para suporte ao App Bradesco, dúvidas técnicas ou instabilidade, reporte diretamente no Suporte do Aplicativo: ligue para o número:  4004-2781 - Opção 9.
+◦ Acesso e Identificação do Plano (Carteirinha): Para utilizar seu plano de saúde, precisa de ter sua carteirinha de saúde. As numerações das carteirinhas de saúde são enviadas no seu e-mail 10 dias úteis após a sua admissão, mas esse prazo poderá ser estendido ou modificado, caso necessário. Basta aguardar para receber os detalhes. 
+
+Também você pode solicitar o número da sua carteirinha de saúde por meio deste chat depois desse prazo.
+◦ Bradesco: O cartão de identificação do plano Bradesco Saúde está disponível exclusivamente via aplicativo "APP Carteira Digital Bradesco Seguros" (ou via WEB), e substitui o cartão físico, que não é mais emitido. Não é possível solicitar a via física. Para acessar os serviços online, como consulta de coberturas e carências, acompanhamento de reembolso e pesquisa da rede credenciada, baixe o aplicativo Bradesco Seguros. Também pode verificar no site que possui todos os planos de todos os clientes Bradesco. O cadastro é realizado através do seu CPF, e o e-mail pode ser pessoal ou corporativo. Para suporte ao App Bradesco, dúvidas técnicas ou instabilidade, reporte diretamente no Suporte do Aplicativo: ligue para o número:  4004-2781 - Opção 9.
     ◦ Unimed: No aplicativo MeuPlano da Unimed poderá acessar a sua carteirinha virtual(cartão de identificação do plano). E por dúvidas ou consultar ligue para o número: 0800 942 0011.
 
 Onde valido meu plano de saúde e meus dependentes?
@@ -84,9 +83,9 @@ Caso não encontre seus dados para validação, por favor, escreva neste chat "Q
 
     ◦ Para incluir seu dependente no plano de saúde, escreva neste chat: “Quero incluir dependentes no plano de saúde” e siga o fluxo de autoatendimento.
 
-Em até 10 dias úteis você receberá a confirmação da inclusão de seu dependente por e-mail, mas se houver informações divergentes, esse prazo poderá ser estendido ou modificado. Em caso de haver informações divergentes, você receberá uma notificação através deste bot.
+O prazo previsto para receber a confirmação da inclusão do seu dependente por e-mail é de até 10 dias úteis, podendo ser estendido, caso seja identificada alguma inconsistência na solicitação. Nesse caso você será notificado por meio deste bot e deverá realizar uma nova solicitação.
 
-Se após o prazo de 10 dias úteis você não receber novidades por e-mail ou neste chat sobre a inclusão de seus dependentes, escreva "quero falar com um agente" para que possamos ajudá-lo a validar o status de sua solicitação.
+Se após o prazo de 10 dias úteis, você não receber novidades por e-mail ou neste chat sobre a inclusão de seus dependentes, escreva "quero falar com um agente" para que possamos ajudá-lo a validar o status de sua solicitação.
 
 
     ◦ A inclusão de titulares é realizada impreterivelmente no mês da admissão. Os dependentes cadastrados após 20 dias da data do evento (admissão/casamento/união estável ou nascimento), estarão sujeitos ao cumprimento de carências.
@@ -178,12 +177,18 @@ Para o documento de escritura pública de união, a data de início da união en
 Posso incluir enteado? O valor do desconto é o mesmo?
 Sim, você pode incluir um enteado no seu plano de saúde. O valor do desconto para o plano de saúde é o mesmo, independentemente de o dependente ser filho biológico, adotivo ou enteado. Você pode validar os valores pela inclusão de dependente no seguinte link: https://docs.google.com/document/d/11ga8o62Ckq3DvgFHuZ4PdLIZ_UChpcUKfEfLEHzpr7Y/edit?tab=t.0 
 
-Para a inclusão, é necessário enviar, juntamente com a documentação do(a) dependente, a certidão de casamento ou união estável lavrada em cartório e o RG e CPF do(a) cônjuge para comprovar o vínculo.
+Para a inclusão, é necessário enviar, juntamente com a documentação do(a) dependente, a certidão de casamento ou união estável lavrada em cartório e o RG e CPF do(a) cônjuge para comprovar o vínculo. 
 
 Qual o prazo para incluir dependentes no convênio médico sem carência?
 O prazo para o envio dos documentos neste chat para a inclusão de seus dependentes sem carência é de até 20 dias corridos do evento (admissão, nascimento ou casamento/união estável). 
 
-Posso enviar múltiplas solicitações juntas em um mesmo fluxo de inclusão de dependente?Não, para o envio e processamento corretos das informações, cada inclusão deve ser feita de forma individual, concluindo e enviando uma solicitação por vez. 
+Posso enviar múltiplas solicitações em um mesmo fluxo de inclusão de dependentes?
+Não. Para garantir o envio e o processamento corretos das informações e dos documentos, cada inclusão de dependente deve ser realizada individualmente, sendo necessário concluir uma solicitação antes de iniciar outra.
+ 
+Para garantir o envio correto da sua solicitação, siga estas orientações:
+Siga exatamente todas as etapas do bot: respeite a sequência indicada, sem pular etapas ou realizar ações fora do fluxo.
+Envie os documentos no momento solicitado: não antecipe nem deixe o envio para depois. É importante que a frente e o verso do documento sejam enviados em um único arquivo PDF, pois, caso sejam enviados separadamente, o sistema considerará apenas o primeiro arquivo recebido, o que poderá resultar na rejeição da solicitação.
+Confirme a conclusão da solicitação: o processo estará concluído somente quando o bot informar que os dados serão encaminhados para análise.
 
 O que é coparticipação?
 Quando você ou seus dependentes realizam consultas e/ou exames cobertos pelo plano você paga uma fração do custo, enquanto o restante é coberto pela operadora do plano de saúde.
