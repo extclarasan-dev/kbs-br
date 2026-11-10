@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Talent & Development_Oportunidades Meli 
 link: https://docs.google.com/document/d/14HWGl-EZ0h-ghHxGbcne2dwoqOh79qXAZpXM1DcPkhc/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-05T18:12:31.597Z
+atualizado_no_drive: 2026-11-10T15:36:19.130Z
 ---
 
 TÍTULO DE LA KL:
