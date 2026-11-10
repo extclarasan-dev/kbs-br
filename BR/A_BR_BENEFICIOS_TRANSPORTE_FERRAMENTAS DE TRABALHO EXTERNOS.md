@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_BENEFICIOS_TRANSPORTE_FERRAMENTAS DE TRABALHO EXTERNOS
 link: https://docs.google.com/document/d/1na69yQgKGacVik8EaHafubiM5bJZJ9Ro_jUpQsLQuzU/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-01T15:31:03.444Z
+atualizado_no_drive: 2026-11-10T18:22:38.163Z
 ---
 
 TÍTULO DA KL: 
@@ -123,10 +123,12 @@ Para realizar as atualizações dos documentos é necessário apenas encaminhar 
 PERGUNTAS FREQUENTES:
 Para o benefício de despesas veicular externos é preciso que o veículo esteja no meu nome? 
 O veículo poderá estar em nome do empregado ou de uma terceira pessoa (locadora de veículos - com contrato de no mínimo 12 meses); de Pessoa Jurídica diretamente relacionada ao empregado (necessário apresentação do contrato social para comprovação)
+
 Qual é o prazo para o envio dos documentos para o reembolso de despesas veiculares externas?
-O prazo para envio dos documentos para o reembolso de despesas veiculares externos é até o dia 10 de cada mês. 
-Caso a solicitação seja realizada sem inconsistências, o reembolso será realizado dentro do mês de envio.
-Se realizar a solicitação depois do dia 10, não é possível realizar o reembolso, porque não são realizados reembolsos retroativos. 
+Os documentos para o reembolso de despesas veiculares externas podem ser enviados durante todo o mês.
+O prazo para o pagamento do reembolso dependerá da data de envio da solicitação:
+Solicitações realizadas até o dia 10 de cada mês: caso não apresentem inconsistências, o reembolso será pago no mesmo mês do envio.
+Solicitações realizadas após o dia 10: o reembolso será pago no mês seguinte.
 Qual é o valor limite de reembolso de despesas veiculares externos? 
 O valor limite de reembolso anual no benefício de despesas veiculares externos  é de R$2.825,00, somadas as despesas previstas no ano calendário de Janeiro a Dezembro. Não serão reembolsadas despesas relativas ao ano anterior no ano seguinte
 
