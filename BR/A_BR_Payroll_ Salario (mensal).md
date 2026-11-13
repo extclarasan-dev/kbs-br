@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Payroll_ Salario (mensal)
 link: https://docs.google.com/document/d/1uUj2CEjolHpvACkuGd2OzU3zZkai2mfzgI6r78VnrY0/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-10T19:47:39.562Z
+atualizado_no_drive: 2026-11-13T20:17:55.934Z
 ---
 
 TÍTULO DA KL: 
@@ -119,7 +119,9 @@ O conceito “Descontos Diversos” é utilizado para registrar no holerite valo
 Como o valor já foi recebido anteriormente, ele aparece no holerite em proventos e, em seguida, o mesmo valor é lançado em descontos como “Descontos Diversos”, apenas para fins de contabilização e demonstração do benefício recebido. 
 Esse lançamento não representa um desconto real no seu salário e não impacta no valor líquido a receber. 
 Como funciona o adiantamento salarial (pagamento quinzenal)? 
-Para os funcionarios que optarem pelo pagamento quinzenal, o adiantamento corresponde a 40% do salário bruto e é pago no dia 15 do mês. Os descontos legais (INSS, IRRF, benefícios) incidem sobre o saldo restante, pago no último dia útil do mês. Isso significa que o holerite final do mês pode apresentar um valor líquido menor do que o esperado, pois parte do bruto já foi antecipada.  
+Para os funcionários que optarem pelo pagamento quinzenal, o adiantamento corresponde a 40% do salário bruto e é pago no dia 15 do mês. Os descontos legais (INSS, IRRF, benefícios) incidem sobre o saldo restante, pago no último dia útil do mês. Isso significa que no holerite mensal pode apresentar um valor líquido menor do que o esperado, pois parte do bruto já foi antecipada.  
+O Meli emite holerite do adiantamento quinzenal?
+Não, o Meli não emite holerite do adiantamento quinzenal. Emite apenas um holerite que é do pagamento mensal, disponibilizado no último dia útil do mês. Neste demonstrativo, se aplicável, constará o valor do seu adiantamento quinzenal. 
 O que acontece com o Auxílio Acessibilidade em caso de demissão voluntária? 
 Caso o empregado que recebeu o Auxílio Acessibilidade no ano corrente solicite demissão voluntária antes do encerramento do ciclo (junho de 2026), os valores recebidos serão descontados proporcionalmente ao período faltante até essa data. 
 
