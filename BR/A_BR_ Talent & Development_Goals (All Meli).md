@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ Talent & Development_Goals (All Meli) 
 link: https://docs.google.com/document/d/1tp66ngFTxG422tc_ARS-8SzabU1SFv5OgVG7mVAttSw/edit?usp=drivesdk
-atualizado_no_drive: 2026-06-01T23:51:19.871Z
+atualizado_no_drive: 2026-11-13T20:58:17.430Z
 ---
 
 TÍTULO DA KL:
@@ -12,9 +12,9 @@ O programa de Goals permite aos colaboradores definir, gerenciar e acompanhar se
 REQUISITOS: 
 Todos os colaboradores do Mercadolivre
 PROCEDIMENTO:
-Para acessar a seção de Goals (objetivos), acesse o seguinte link: https://talent-mercadolibre.starmeup.com/self-performance
+Para acessar a seção de Goals (objetivos), acesse o seguinte link:  https://login.starmeup.com/
 No menu “Mi Performance”, selecione a opção Goals. Clique em “Crear Goal” para começar.
-Em caso de algum erro no login na plataforma Goals, escreva neste chat "Quero falar com um agente" para que possamos ajudá-lo
+Em caso de algum erro no login na plataforma Goals, por gentileza escreva neste chat "Quero falar com um agente" para que possamos ajudá-lo
 PERGUNTAS FREQUENTES:
 O que é Goal Setting?
 A definição de Goals é uma instância chave dentro do processo de Performance Management, onde prioridades + desafios + expectativas estão conectadas.
@@ -24,7 +24,7 @@ A definição de Goals é uma instância chave dentro do processo de Performance
 
 Como posso carregar ou registrar meus objetivos (Goals) na plataforma?
 Para carregar ou registrar seus objetivos (Goals), siga estes passos:
-Acesse a plataforma pelo link: http://login.starmeup.com/?loginType=SAML&SAMLResponse=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjbGFpbUlkIjoiZXh0X21hZ2lyb3R0QG1lcmNhZG9saWJyZS5jb20iLCJleHAiOjM1NTQ3NjAxMzksImlhdCI6MTc3NzM4MDA2OSwib3JnSWQiOjgxNH0.x81JmpfPL1HN6_BQD3h6qpm5PcOKnApDYiKNruTAt68
+Acesse a plataforma pelo link:  https://login.starmeup.com/
 No menu “Mi Performance”, selecione a opção Goals.
 Clique em “Criar Goal” para começar.
 
@@ -51,12 +51,12 @@ Existe um mínimo sugerido de Goals para o ano?
 Posso alterar ou excluir os Goals que criei?  
 Caso necessário, você pode alterar ou excluir o Goal que considerar ao longo do ano.  Acesse **Mi Performance > Goals > Ações > Editar ou Excluir**.  
 
-Você pode acessar o painel Minha Performance através do seguinte link: https://talent-mercadolibre.starmeup.com/performance/goals?domain=bWVyY2Fkb2xpYnJlLmNvbQ==
+Você pode acessar o painel Minha Performance através do seguinte link:  https://login.starmeup.com/ 
 
 Como devo acompanhar a evolução dos goals ao longo do ano?  
 As conversas de feedback devem ser contínuas, com o objetivo de manter o alinhamento e a clareza sobre o cumprimento dos goals e as expectativas do cargo. Na ferramenta Performance Management, você poderá registrar os comentários sobre a evolução dos Goals ao longo do ano.  
 
-Você pode acessar o painel através do seguinte link WIKI: https://wiki.adminml.com/page/2805581266349639?lang=es 
+Você pode acessar o painel através do seguinte link  https://login.starmeup.com/ 
 
 Não consigo incluir ou excluir goals?
 Se você não consegue incluir ou excluir goals. Por gentileza, entre em contato com seu Líder para que seu acesso seja disponibilizado e te dê orientações sobre incluir ou excluir Goals.
@@ -72,12 +72,11 @@ Se você não estiver de acordo com algum dos goals propostos pelo seu líder, p
 
 SUPORTE:
 Wiki: https://wiki.adminml.com/page/2805581266349639?lang=pr 
-Minha Performance: https://talent-mercadolibre.starmeup.com/performance/goals?domain=bWVyY2Fkb2xpYnJlLmNvbQ==
-
+Panel de goals (funcionários):  https://login.starmeup.com/ 
  
 PROCEDIMIENTO PARA AGENTES: 
  *** Caso o SSFF apresente algum erro no lançamento, o colaborador deve pedir ajuda para o PBP.
 
 Erro acesso ao plataforma Goals:
-Por favor direcionar o chamado para a liderança (Ana Flávia/Valéria) para que elas possam verificar internamente.
+Por favor direcionar o chamado para a liderança (Ana Flávia/Valéria) para que elas possam verificar internamente. 
 
