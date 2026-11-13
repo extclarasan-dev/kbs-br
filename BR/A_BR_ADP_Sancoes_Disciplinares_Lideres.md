@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Sancoes_Disciplinares_Lideres
 link: https://docs.google.com/document/d/1ZwaT9iUnMgAIWmw7NMUo1BxEcMCuyXt8LXWUegZYoxk/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-28T15:47:55.262Z
+atualizado_no_drive: 2026-11-13T18:36:07.310Z
 ---
 
 A_BR_ADP_Sancoes_Disciplinares_Lideres 
@@ -260,14 +260,14 @@ Os motivos de sanção (Medida) disciplinar do "nível gravíssimo" exclusivos p
 Fraude Confirmada: Medida aplicada somente mediante indicação/orientação do time Jurídico, conforme o Manual de Fraude de referência.
 
 Com quem o funcionário pode falar a respeito da sanção (medida) disciplinar?
-O funcionário  poderá buscar diretamente o manager da área (líder de seu líder) para obter mais informações ou se tiver dúvidas sobre o processo de sanção (medida) disciplinar. 
+O funcionário  poderá buscar diretamente o manager da área (líder de seu líder) para obter mais informações ou se tiver dúvidas sobre o processo de sanção (medida) disciplinar.  
 
 
 
 SUPORTE:
 
 Guia de Medidas Disciplinares: https://docs.google.com/presentation/d/1cDez4S4lTdn7xOYp0k8tN29dmxrlHRxSTSNeOVlQGjk/edit?slide=id.g1f3fb52cd03_0_0#slide=id.g1f3fb52cd03_0_0 .
-Guide Sanciones Disciplinarias para Shipping Brasil: https://docs.google.com/presentation/d/1aYbE1qsgbbB0vFkPtmzYZFO28b0Qcwf5VGiTE4S7unQ/edit#slide=id.g13bcea39d40_0_363 .
+Guide Sanciones Disciplinarias para Shipping Brasil: https://docs.google.com/presentation/d/1-U6meGnv1t3LKQsS6KPwfAiWNqJcfwp6trfq2LAQ2xc/edit?slide=id.g387864a4338_0_839#slide=id.g387864a4338_0_839 
 Guide Sanciones Disciplinarias para Shipping Argentina: https://docs.google.com/document/d/1XSjN2BlgFrvxIXXp8_zuKAJyE_J701jPxiT9t3UVsag/edit .
 Guide Sanciones Disciplinarias para Shipping Chile: https://docs.google.com/document/d/1veJ0prPCVzJJZqwBfEsbNHZTc7cMW38luZBq72bHLfc/edit .
 Guide Sanciones Disciplinarias para Shipping México: https://docs.google.com/spreadsheets/d/1ZZlalo_3QpT7UyuthnrmrBqydGmc9bOrexij6yJAPro/edit#gid=1580966115 . 
