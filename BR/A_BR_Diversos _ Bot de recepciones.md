@@ -1,15 +1,15 @@
 ---
 titulo: A_BR_Diversos _ Bot de recepciones
 link: https://docs.google.com/document/d/14KWuNWM6GsOZ6ARi5sOwNmdIRJnG78RY15WhgZEaJx8/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-11T21:08:39.033Z
+atualizado_no_drive: 2026-11-13T15:19:49.892Z
 ---
 
 TÍTULO DA KL:
 A_BR_Diversos _ Bot de recepciones
 RESUMO:
-Este documento contém informações sobre as consultas e solicitações relacionadas à Recepção e Facilities, que podem ser realizadas por meio do Employee Agent.
+Este documento contém informações sobre as consultas e solicitações relacionadas à Recepção e Facilities, que podem ser realizadas por meio deste chat.
 PROCEDIMENTO:
-Para entrar em contato com a equipe de Recepções, acesse o chat da Employee Agent e escreva a sua consulta.
+Para entrar em contato com a equipe de Recepções, escreva neste chat a sua consulta.
 Será possível consultar no chat sobre os seguintes temas:
 👨‍💼 Crachás
 🚗 Táxi -Plataforma Uber e 99
@@ -25,7 +25,7 @@ Será possível consultar no chat sobre os seguintes temas:
 📶 Senha do Wi-Fi: Meli Guest
 Caso não encontre a opção adequada para sua consulta, você poderá solicitar "falar com uma pessoa” para falar com uma pessoa da equipe.
 Solicitações para alterar a temperatura do ar-condicionado no escritório:
-Para solicitar a modificação da temperatura do ar-condicionado, no escritório do Meli em que você se encontra, você deverá contatar o chat da Employee Agent. 
+Para solicitar a modificação da temperatura do ar-condicionado, no escritório do Meli em que você se encontra, você deverá contatar-se por meio deste chat. 
 Acceso empregados externos, aprendizes, fornecedores e visitantes a os escritórios
 Nossos escritórios estão abertos para promover a conexão entre diferentes equipes e receber as visitas necessárias! 
 O acesso de visitantes aos escritórios será permitido e os empregados poderão entrar nos escritórios como visitantes.
@@ -36,13 +36,13 @@ Veja como é fácil registrar o seu convidado para acesso aos nossos escritório
 Para complemento segue o tutorial, só clicar neste Link: https://docs.google.com/presentation/d/1xy_xtY1wDyQ9nqP_mBQUw2IQ02yQlZta/edit#slide=id.p1 
 PERGUNTAS FREQUENTES:
 Preciso reservar uma sala no escritório:
-Você poderá reservar os meets, salas de reunião para doze pessoas, pelo Google Calendar ou presencialmente. Para salas de maior capacidade, você pode contatar a recepção por chat da Employee Agent. 
+Você poderá reservar os meets, salas de reunião para doze pessoas, pelo Google Calendar ou presencialmente. Para salas de maior capacidade, você deverá entrar em contato por meio deste chat. 
 Estou planejando um evento on site, onde posso encontrar informações sobre o suporte que tenho nas diferentes áreas?
 Você poderá encontrar todas as informações relevantes para organizar seu evento on site na seguinte Wiki Eventos On Site.
 Onde posso consultar a entrada de visitas/externos aos escritórios?
 Para consultas sobre o acesso de visitas ou externos aos escritórios, você deverá escrever neste chat “Quero agendar uma visita” ou “Quero reservar uma visita”.
 Quais são os horários dos escritórios?
-Para consultas sobre os horários dos escritórios, você deverá contatar o chat da Employee Agent. 
+Para consultas sobre os horários dos escritórios, você deverá contatar-se por meio deste chat.  
 Onde fica o Melihelp da Melicidade?
 🚩O Melihelp fica localizado no Bloco A - Térreo - atrás do quadrante de Chuí.
 Horários de Funcionamento:
@@ -51,7 +51,7 @@ Onde fica o Melihelp Facilities da Melicidade?
 🚩O Melihelp Facilities fica localizado no Melihelp, em frente a Le Pain.
 Estarei de férias em outro país que tem escritório MELI, posso visitar para conhecer? Posso levar algum familiar?
 Sim, os escritórios MELI estão abertos a todos os empregados! 
-Para acessar um escritório MELI de outro país, por favor, entre em contato com o chat da Employee Agent, para agendar a visita. Sobre poder levar algum familiar, pedimos que também tire sua dúvida através deste chat. .
+Para acessar um escritório MELI de outro país, por favor, entre em contato neste chat, para agendar a visita. Sobre poder levar algum familiar, pedimos que também tire sua dúvida através deste chat.
 Sou funcionário de Floripa/CAD's, posso visitar a MELICIDADE?
 Claro que sim, nossos escritórios estão abertos para promover a conexão entre diferentes equipes e receber as visitas!
 ✔ Ah, vale lembrar que não é mais necessário  abrir um ticket por meio do Shield, na categoria MLB - Acesso a outros sites para que possa nos visitar 
@@ -94,7 +94,7 @@ Setor A/B: a partir de 16 de novembro, haverá uma nova distribuição dos espa�
 
 Embora não existam estações de trabalho fixas por funcionário, recomendamos que cada pessoa utilize as áreas indicadas para sua equipe.
 
-Em caso de dúvidas sobre a nova distribuição dos espaços, entre em contato com o time de Real Estate no chat da Employee Agent. 
+Em caso de dúvidas sobre a nova distribuição dos espaços, entre em contato com o time de Real Estate neste chat.
 
 SUPORTE:
 • Wiki Eventos On Site https://wiki.adminml.com/page/2678453999062367 
