@@ -1,11 +1,11 @@
 ---
 titulo: A_BR_ADP_Success Factors_People move on
 link: https://docs.google.com/document/d/1OPJQABC4imuZ12jHz8Yj56ejdHI0gyPCTevH7clePYs/edit?usp=drivesdk
-atualizado_no_drive: 2026-09-08T17:10:39.650Z
+atualizado_no_drive: 2026-11-13T20:43:30.985Z
 ---
 
 TÍTULO DA KL:
-A_BR_ADP_Success Factors_People move on
+A_BR_ADP_Success Factors_People move on 
 RESUMO:
 O documento contém informações sobre People move on (PMO) no Mercado Livre Brasil e como fazer alterações por meio desse processo. 
 People Move On (PMO) é uma iniciativa que visa permitir que cada líder da MELI possa fazer mudanças organizacionais em suas equipes (diretas e indiretas) de forma autônoma, ágil e simples.
@@ -53,8 +53,6 @@ Pode acessar a ferramenta de People Move On por meio de:
 Meli Tools.
 Ou no seguinte link: https://mercado-libre-s-r-l--meli-people-prd-people-extensions-5f93ddea.cfapps.us10-001.hana.ondemand.com/collaborators 
 
-Para aprovar mudanças no People Move On, escreva neste chat “Quero aprovar mudanças no People Move On” para que possamos prosseguir.
-Todas as mudanças para Sr Managers e superiores deixarão de ser feitas pelo PMO e deverão ser solicitadas novamente através do BOT do ABM People Support, selecionando a opção "Rotação de Sr Managers & Up".
 PERGUNTAS FREQUENTES:
 PERGUNTAS FREQUENTES:
 Como delegar aprovações no People Move On? 
@@ -66,7 +64,15 @@ A ferramenta People Move On (PMO) pode ser utilizada por Líderes e PBPs de:
 • All countries
 • All senioritis
 Quais mudanças posso fazer no People Move On (PMO)? 
-No People Move On (PMO), você pode realizar mudanças de divisão, área e subárea, de Site, de líder ou Gestor, mudanças de Horário laboral, de Perfil IT, de PBP, mudanças de BU e de Processo-Subprocesso Shipping. Além disso, poderá aprovar, rejeitar ou devolver mudanças.
+Pelo People Move On (PMO), você pode realizar as seguintes mudanças:
+BU, divisão, área e subárea;
+Site, nos casos em que o funcionário mudar de endereço;
+Líder ou gestor;
+Horário de trabalho;
+Perfil IT;
+PBP;
+Processo e subprocesso de Shipping.
+Além disso, você também pode aprovar, rejeitar ou devolver solicitações de alteração.
 O que devo considerar ao realizar mudanças no People Move On (PMO)? 
 Para realizar mudanças no People Move On (PMO), você deve considerar:
 • Manter ativa a sessão no SSFF.
@@ -78,21 +84,17 @@ Para realizar mudanças organizacionais de divisão, área e subárea no People 
 Video passo a paso troca de división, área y subárea: https://drive.google.com/file/d/1hfiK6PJgebHLaYMnf3kUhfnxcOAVhdbT/view
 Manual passo a passo completo: https://docs.google.com/presentation/d/18SB54VPfisDa6-VmnM7lNp1Jn9mpB2YE4xxrbbqSgxU/edit?usp=sharing
 Também te compartilhamos o link da Wiki para que você possa consultar mais informações sobre o People Move on https://wiki.adminml.com/page/3361514567422970?lang=en_us
-Para realizar mudanças organizacionais de site no People Move On, deixamos o acesso ao vídeo com o passo a passo para que você possa fazer as alterações que precisa, e o manual como suporte para realizar a gestão:
+Para realizar mudanças organizacionais de site no People Move On (PMO), nos casos de mudança de endereço do funcionário, disponibilizamos um vídeo com o passo a passo do processo e um manual de apoio para orientar você na realização da solicitação.
 Video passo a passo troca de Site:
 https://drive.google.com/file/d/1M48fpoS_xr08N-JjRwXuFuetL4p6738f/view?usp=sharing
 Manual passo a passo completo:
 https://docs.google.com/presentation/d/18SB54VPfisDa6-VmnM7lNp1Jn9mpB2YE4xxrbbqSgxU/edit?usp=sharing
 Também te compartilhamos o link da Wiki para que você possa consultar mais informações sobre o People Move on https://wiki.adminml.com/page/3361514567422970?lang=en_us
-Para realizar mudanças Organizacionais de Líder na People Move On, deixamos o acesso ao vídeo com o passo a passo para poder realizar as mudanças que você precisa e manual como suporte para realizar a gestão:
-Video passo a passo troca de Líder:
-https://drive.google.com/file/d/1Y7rrEsB2M2Tszx0jCzmV2Od27w5bk-st/view?usp=sharing
+Para realizar mudanças Organizacionais de Líder no People Move On, deixamos o passo a passo para poder realizar as mudanças que você precisa:
 Manual passo a passo completo:
 https://docs.google.com/presentation/d/18SB54VPfisDa6-VmnM7lNp1Jn9mpB2YE4xxrbbqSgxU/edit?usp=sharing
 Também te compartilhamos o link da Wiki para que você possa consultar mais informações sobre o People Move on https://wiki.adminml.com/page/3361514567422970?lang=en_us
-Para realizar alterações organizacionais no horário de trabalho no People Move On, deixamos o acesso ao vídeo com o passo a passo para que você possa fazer as mudanças que precisa, e ao manual como suporte para realizar a gestão:
-Vídeo passo a passo para alteração de horário:
-https://drive.google.com/file/d/11j6HUMZcyAMgRjOmKSaaHZ6UCXaQzA1s/view?usp=sharing 
+Para realizar alterações organizacionais no horário de trabalho no People Move On, deixamos o passo a passo para que você possa fazer as mudanças que precisa:
 Manual passo a passo completo:
 https://docs.google.com/presentation/d/18SB54VPfisDa6-VmnM7lNp1Jn9mpB2YE4xxrbbqSgxU/edit?usp=sharing 
 Também compartilhamos o link da Wiki para que você possa consultar mais informações sobre o People Move On https://wiki.adminml.com/page/3361514567422970?lang=en_us 
@@ -131,6 +133,7 @@ O que fazer se não vejo a mudança refletida ou se tenho um erro inesperado/dem
 Como faço para ajustar o organograma da minha equipe?
 Os líderes poderão executar de forma automática os ajustes de estrutura laterais (mudanças de departamento) e de localização  (site mesmo país) e perfil das equipes.
 Acesse o seguinte  link com orientações: https://docs.google.com/presentation/d/1-WZkmEpi4YAiNARLaz8H9F1Kld3nTlVxSR0zehyEFC8/edit#slide=id.g15e96d6a552_2_54
+
 SUPORTE:
 • Ferramenta de People move on (PMO): https://mercado-libre-s-r-l--meli-people-prd-people-extensions-5f93ddea.cfapps.us10-001.hana.ondemand.com/collaborators 
 • Ticket no Shield “Externos - Cambio de Manager”: https://shield.adminml.com/c/368 
