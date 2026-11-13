@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Payroll_Pagamento - Adiantamento salarial
 link: https://docs.google.com/document/d/1uaQQeZD1mLsyipzbF-_pRl9qiPYfQ5r7H-yEfcPlYVk/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-10T19:51:05.129Z
+atualizado_no_drive: 2026-11-13T20:18:42.324Z
 ---
 
 TÍTULO DA KL:
@@ -57,7 +57,8 @@ O pagamento do adiantamento salarial de 40% pode sofrer ajustes ou não ser real
 
 O valor do "lançamento futuro" deve coincidir com o valor do meu salário? 
 Não necessariamente. Se você tiver o split de pagamento ativo, o valor que é creditado na sua conta do Mercado Pago não vai aparecer no lançamento futuro da sua conta bancária. 
-
+O Meli emite holerite do adiantamento quinzenal?
+Não, o Meli não emite holerite do adiantamento quinzenal. Emite apenas um holerite que é do pagamento mensal, disponibilizado no último dia útil do mês. Neste demonstrativo, se aplicável, constará o valor do seu adiantamento quinzenal.
 SOPORTE:
 
 
