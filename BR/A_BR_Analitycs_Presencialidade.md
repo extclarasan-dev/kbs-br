@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Analitycs_Presencialidade 
 link: https://docs.google.com/document/d/1WRHgfyIODKVYNSrH3hal7FummqdZVBn-mkOztdLlLj8/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-10T20:58:00.649Z
+atualizado_no_drive: 2026-11-13T17:53:24.819Z
 ---
 
 TÍTULO DA KL: 
@@ -102,15 +102,6 @@ Feriados nacionais
 Por exemplo, para o cálculo de presencialidade no mês de março, a base foi de 22 dias úteis (após descontar sábados, domingos e eventuais feriados se houver). Caso o colaborador tenha 5 dias de férias aprovadas, seu cálculo de presencialidade  será calculado sobre os 17 dias restantes.
 Se minha equipe e meu líder estão em outro país, como isso impacta a diretriz de presencialidade? 
 Buscamos promover o contato cara a cara, estimulando essa interação com os demais níveis da organização, além da nossa equipe direta, porque isso contribui para disseminar nossa cultura. Portanto, não há diferenças no cálculo da presencialidade nesses casos.
-Posso trabalhar em qualquer escritório e operação do Meli?
-O objetivo da presencialidade é conectar-se com sua equipe e viver a cultura da empresa. Por isso, espera-se que você compareça ao seu site designado ou a um relevante de acordo com sua função (incluindo operações de Shipping se o seu papel o justificar).
- 
-A possibilidade de comparecer ao outro site nunca se aplica a colaboradores que contem com algum dos seguintes job codes, os quais deverão cumprir sua presencialidade de forma exclusiva no site designado:
-Representante (80001648)
-Representante Semi Senior (80001647)
-Representante Senior (80001646)
-Se eu for trabalhar em um escritório da Meli diferente do meu habitual, minha presença será contabilizada?
-Sim, sua presença será registrada normalmente mesmo em outros escritórios da Meli. Para garantir que a presença seja contabilizada, é necessário que você se conecte à rede Wi-Fi “Corp” o “MELI-Corp”durante sua permanência no local.
 Há alguma situação que justifique não alcançar esta meta?
 Sim, pode haver situações pessoais, familiares, de saúde que impeçam temporariamente alcançar esta meta. As mesmas serão revisadas pontualmente pelo Líder e seu PBP.
 Não concordo com o número de dias relatados aqui no chat: 
@@ -133,10 +124,13 @@ Quantos dias por mês devo ir ao escritório para cumprir com o meu target de pr
 Não existe uma quantidade fixa de dias de assistência mensal, já que o cálculo é realizado sobre os dias úteis reais de cada mês, excluindo finais de semana e feriados. Para determinar a base de cálculo, são descontados os dias de Work From Anywhere (WFA) e as licenças correspondentes ao mês que estejam registradas no SuccessFactors.
 Exemplo de cálculo: Se o mês tiver 20 dias úteis e você não registrar dias de WFA nem licenças, deverá cumprir com 8 dias de conexão presencial (20 × 40%).
 Se durante esse mesmo mês você registrar 5 dias de licença, a base de cálculo será reduzida para 15 dias úteis e as porcentagens serão calculadas sobre esse novo total.
+
+Posso trabalhar em qualquer escritório ou operação do MELI?
+O encontro presencial tem como objetivo promover a conexão entre as equipes e fortalecer a cultura. O importante é que cada pessoa compareça ao site onde essa interação acontece. Portanto, a expectativa é que você compareça ao site ao qual está vinculado ou a outro que faça sentido de acordo com a natureza do seu cargo.
 Posso mudar o site ao qual estou vinculado para cumprir minha pauta de presencialidade?
-Não é possível mudar o site designado para o cumprimento da pauta de presencialidade, pois cada funcionário possui um site definido de acordo com sua contratação.
+Não,  não é possível mudar o site designado para o cumprimento da pauta de presencialidade, pois cada funcionário possui um site definido de acordo com sua contratação.
 Posso optar por cumprir minha pauta de presencialidade em outro site, considerando a proximidade da minha residência?
-Não. A presencialidade tem como objetivo promover a conexão presencial entre os membros da equipe e fortalecer a cultura organizacional. Por esse motivo, o comparecimento deve ocorrer no site ao qual você está vinculado ou, eventualmente, em outros sites, quando houver necessidade de visitas relacionadas à natureza da sua função. 
+Não. A presencialidade tem como objetivo promover a conexão presencial entre os membros da equipe e fortalecer a cultura organizacional. Por esse motivo, o comparecimento deve ocorrer no site ao qual você está vinculado ou, eventualmente, em outros sites, quando houver necessidade de visitas relacionadas à natureza da sua função.  
 
 SUPORTE: 
 Wiki Presencialidad: https://wiki.adminml.com/page/3959227554319799 
