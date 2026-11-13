@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Payroll_Salario familia e Pensão Alimentícia
 link: https://docs.google.com/document/d/1GXXqz6IomhYTKBOeeXW_vH4aSfmpQtL5obLX_PtO-m0/edit?usp=drivesdk
-atualizado_no_drive: 2026-08-24T21:16:20.627Z
+atualizado_no_drive: 2026-11-13T19:01:29.330Z
 ---
 
 TÍTULO DA KL:
@@ -33,7 +33,7 @@ Para solicitar o Salário Família, escreva no meu chat “Quero falar com um ag
 ➡️Cartão de vacina (filho)
 ➡️Para crianças em idade estudantil (a partir de 4 anos) você deve enviar também um comprovante de frequência escolar.
 -📝 Segue o formulário de inclusão de dependentes ao Salário Família: https://drive.google.com/file/d/1pIVCDbgJTrS4Ya_K9LSwN-M9ejzyDBJv/view?usp=sharing
-Por favor, imprimir, preencher e assinar o formulário (caso não consiga imprimir, pode nos enviar assinado digitalmente de acordo com seus documentos)
+Por favor, imprimir, preencher e assinar o formulário (caso não consiga imprimir, pode nos enviar assinado digitalmente de acordo com seus documentos).
 ⚠️Quando for enviar os documentos, por favor, selecione e envie um arquivo de cada vez para garantirmos o recebimento de todos.
 PERGUNTAS FREQUENTES:
 Pensão Alimentícia
