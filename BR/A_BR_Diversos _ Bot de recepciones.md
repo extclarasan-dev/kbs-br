@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_Diversos _ Bot de recepciones
 link: https://docs.google.com/document/d/14KWuNWM6GsOZ6ARi5sOwNmdIRJnG78RY15WhgZEaJx8/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-03T15:02:56.863Z
+atualizado_no_drive: 2026-11-11T21:08:39.033Z
 ---
 
 TÍTULO DA KL:
@@ -74,10 +74,9 @@ Se houver dúvidas sobre o assunto, acione a equipe de Real Estate Brasil para a
 É possível fazer uma visita guiada em uma unidade do MELI com os alunos da faculdade que eu estudo (ou algum parente/conhecido)?
 Agradecemos o seu contato! Dada a visibilidade do Mercado Livre no mercado, temos recebido muitas demandas por visitas ao nosso escritório e apresentações sobre o nosso negócio. É muito positivo ver o interesse de diferentes instituições em virem conhecer o Meli, mas precisamos fazer uma priorização de acordo com a nossa estratégia de employer branding e posicionamento junto a certos públicos. Neste momento, optamos por não receber visitas de faculdades / instituições de ensino, dada a agenda de eventos internos, externos e calendário de datas importantes de negócio já comprometidas neste ano.
 Em quais países/cidades temos escritórios (oficinas) MELI?
-Te compartilhamos os escritórios que Meli tem: 
+Te compartilhamos a seguinte wiki com informações sobre os sites (escritorios/oficinas) da MELI: https://wiki.adminml.com/page/onsite-experience-information 
 
-
-Não consigo agendar minha ida na MELI, podem me ajudar?
+Não consigo agendar minha ida na MELI, podem me ajudar? 
  
 Para resolver esse problema, se você estiver alocado em Melicidade, é só enviar e-mail ao Melihelp Facilities melihelp.facilities@mercadolivre.com e esclareça nesse e-mail o ocorrido.
  
@@ -86,6 +85,16 @@ Se possível, inclua o print da tela com o erro apresentado na tentativa de agen
 Se você estiver alocado em outra unidade que não seja na Melicidade, deverá entrar em contato com o time de facilities da sua unidade.
 Quais escritórios eu posso frequentar?
 O retorno ao MELI é de acordo com sua base de trabalho, ou seja, um empregado da Melicidade deverá trabalhar na Melicidade.
+
+Como funcionará a distribuição dos espaços de trabalho com a abertura da nova área do Setor C em Melicidade?
+Com a abertura da nova área do Setor C em Melicidade, haverá uma redistribuição dos espaços de trabalho entre as equipes, com o objetivo de facilitar a interação e a colaboração entre os times.
+A nova distribuição será realizada da seguinte forma:
+Setor C: a partir de 12 de novembro, os dois andares estarão disponíveis para os times de Marketplace, Marketing, Advertising, Fintech e Finance.
+Setor A/B: a partir de 16 de novembro, haverá uma nova distribuição dos espaços para os times de Tech & Ops, Shipping e Corporate Affairs.
+
+Embora não existam estações de trabalho fixas por funcionário, recomendamos que cada pessoa utilize as áreas indicadas para sua equipe.
+
+Em caso de dúvidas sobre a nova distribuição dos espaços, entre em contato com o time de Real Estate no chat da Employee Agent. 
 
 SUPORTE:
 • Wiki Eventos On Site https://wiki.adminml.com/page/2678453999062367 
