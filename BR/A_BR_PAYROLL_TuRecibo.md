@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_PAYROLL_TuRecibo
 link: https://docs.google.com/document/d/1OJvsaxjuSHhm83ZoMl8pbHMU5PqWPw2JAV2eoEnQXoE/edit?usp=drivesdk
-atualizado_no_drive: 2026-10-08T12:16:36.515Z
+atualizado_no_drive: 2026-11-13T20:15:39.838Z
 ---
 
 TÍTULO DE LA KB:
@@ -130,7 +130,7 @@ Minha função/cargo está errada nos recibos históricos. Como faço o ajuste?
 Solicitei o download dos meus recibos na plataforma TuRecibo. Qual o prazo de validade para baixar os documentos?Ao solicitar seus documentos na ferramenta, você receberá um link por e-mail com validade de 96 horas. Caso esse prazo expire, não se preocupe: basta fazer uma nova solicitação diretamente no TuRecibo.
 Tive uma alteração de empresa, meu acesso em TuRecibo permanece o mesmo?Sim, em caso de alteração de empresa, o acesso em TuRecibo não será alterado.
 O Meli emite holerite do adiantamento quinzenal?
-O Meli emite apenas um holerite que é o do pagamento mensal, disponibilizado no último dia útil do mês. Neste demonstrativo, se aplicável, constará o valor do seu adiantamento quinzenal.
+Não, o Meli não emite holerite do adiantamento quinzenal. Emite apenas um holerite que é do pagamento mensal, disponibilizado no último dia útil do mês. Neste demonstrativo, se aplicável, constará o valor do seu adiantamento quinzenal.
 
 Quando os holerites ficam disponíveis se eu for recém-admitido?
 Se você é recém admitido, lembre-se que para ter acesso ao seu primeiro holerite é preciso aguardar até o dia do pagamento e horário bancário.
