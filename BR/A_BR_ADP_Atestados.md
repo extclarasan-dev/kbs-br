@@ -1,7 +1,7 @@
 ---
 titulo: A_BR_ADP_Atestados
 link: https://docs.google.com/document/d/1eBoRA-ys0GdE3TBacmSKzWZGUnYip4-fd2D2mRsOGkc/edit?usp=drivesdk
-atualizado_no_drive: 2026-11-10T17:16:01.646Z
+atualizado_no_drive: 2026-11-13T23:29:00.822Z
 ---
 
 TÍTULO DA KB:
